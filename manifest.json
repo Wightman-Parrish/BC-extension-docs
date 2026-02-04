@@ -2834,6 +2834,26 @@
       "version": ""
     },
     {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-reports/Namespace/WandP.Reporting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-reports/Namespace/WandP.Reporting.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-reports/Namespace/WandP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-reports/Namespace/WandP.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-reports/Page/WandP-Backorder-Risk.yml",
       "output": {
@@ -2939,6 +2959,26 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-reports/Page/WandP-Warehouse-Custom-cues.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-reports/Page/WandP.Reporting.Large-Orders.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-reports/Page/WandP.Reporting.Large-Orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-reports/Page/WandP.Reporting.PO-Freight-Only-O-S.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-reports/Page/WandP.Reporting.PO-Freight-Only-O-S.html"
         }
       },
       "version": ""
@@ -3355,6 +3395,26 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-reports/Table/WandP.Reporting.Large-Orders.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-reports/Table/WandP.Reporting.Large-Orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-reports/Table/WandP.Reporting.PO-Freight-Only-O-s.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-reports/Table/WandP.Reporting.PO-Freight-Only-O-s.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-reports/Table/WandPItemUomBadRounding.yml",
       "output": {
         ".html": {
@@ -3714,11 +3774,41 @@
       "version": ""
     },
     {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-uom-bin-fix/Namespace/WandP.Binfix.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-uom-bin-fix/Namespace/WandP.Binfix.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-uom-bin-fix/Namespace/WandP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-uom-bin-fix/Namespace/WandP.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-uom-bin-fix/TableExtension/WandP-Bin-Content-Uom-Fix.yml",
       "output": {
         ".html": {
           "relative_path": "reference/wp-uom-bin-fix/TableExtension/WandP-Bin-Content-Uom-Fix.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-uom-bin-fix/TableExtension/WandP.Binfix.Bin-Content-Uom-Fix.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-uom-bin-fix/TableExtension/WandP.Binfix.Bin-Content-Uom-Fix.html"
         }
       },
       "version": ""
