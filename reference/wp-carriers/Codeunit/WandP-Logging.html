@@ -84,10 +84,34 @@
 
 
 
+  	<h2 id="properties">Properties</h2>
+
+  	<table class="table">
+  		<thead>
+  			<tr>
+  				<th>Name</th>
+  				<th>Value</th>
+  			</tr>
+  		</thead>
+  		<tbody>
+  			<tr>
+  					<td>Description</td>
+  					<td class="font-style-italic">
+							Codeunit to handle logging for WP Carrier extension
+  					</td>
+  			</tr>
+  		</tbody>
+  	</table>
   	<h2 id="methods">Methods</h2>
    <h3 class="memberNameHolder">LogMessage</h3>
    <div class="memberInfo">
 
+   		<div class="summaryHolder">
+   			<div class="summary">
+				<p>Main logging procedure, writes to carrier log table</p>
+
+   			</div>
+   		</div>
 
    		<pre><code dir="ltr" class="hljs lang-al">procedure LogMessage(Message: Text[2048], Type: Text[50], RequestBody: Text[2048], RequestURI: Text[250], ResponseBody: Text[2048], StatusCode: Integer, DocumentNo: Code[20])</code></pre>
 
@@ -180,6 +204,12 @@ Code[20]                 </td>
    <h3 class="memberNameHolder">LogMessage</h3>
    <div class="memberInfo">
 
+   		<div class="summaryHolder">
+   			<div class="summary">
+				<p>Overload logging when less data needed / available</p>
+
+   			</div>
+   		</div>
 
    		<pre><code dir="ltr" class="hljs lang-al">procedure LogMessage(Message: Text[2048])</code></pre>
 
@@ -212,6 +242,12 @@ Text[2048]                 </td>
    <h3 class="memberNameHolder">LogMessage</h3>
    <div class="memberInfo">
 
+   		<div class="summaryHolder">
+   			<div class="summary">
+				<p>Overload logging when less data needed / available</p>
+
+   			</div>
+   		</div>
 
    		<pre><code dir="ltr" class="hljs lang-al">procedure LogMessage(Message: Text[2048], Type: Text[50])</code></pre>
 
@@ -254,6 +290,12 @@ Text[50]                 </td>
    <h3 class="memberNameHolder">LogMessage</h3>
    <div class="memberInfo">
 
+   		<div class="summaryHolder">
+   			<div class="summary">
+				<p>Overload logging when less data needed / available</p>
+
+   			</div>
+   		</div>
 
    		<pre><code dir="ltr" class="hljs lang-al">procedure LogMessage(Message: Text[2048], Type: Text[50], DocumentNo: Code[20])</code></pre>
 

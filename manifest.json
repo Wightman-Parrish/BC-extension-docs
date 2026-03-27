@@ -75,6 +75,46 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-additional-fields/PageExtension/Clever-Customer-Credit-Status.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-additional-fields/PageExtension/Clever-Customer-Credit-Status.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-additional-fields/PageExtension/Item-list.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-additional-fields/PageExtension/Item-list.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-additional-fields/PageExtension/Misc-Purchase-Lines.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-additional-fields/PageExtension/Misc-Purchase-Lines.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-additional-fields/PageExtension/MiscSalesShipmentLines.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-additional-fields/PageExtension/MiscSalesShipmentLines.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-additional-fields/PageExtension/WandP-Misc-Apply-Cust-Entries.yml",
       "output": {
         ".html": {
@@ -465,6 +505,16 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-additional-fields/TableExtension/Clever-Credit-Cust-Entry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-additional-fields/TableExtension/Clever-Credit-Cust-Entry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-additional-fields/TableExtension/WandP-Misc-Bin-Content.yml",
       "output": {
         ".html": {
@@ -799,6 +849,16 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-api-pages/Page/WandP-Base-Calendar-API.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-api-pages/Page/WandP-Bin-Content-API.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-api-pages/Page/WandP-Bin-Content-API.html"
         }
       },
       "version": ""
@@ -1445,6 +1505,16 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/Page/Shipping-Agent-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/Page/Shipping-Agent-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-carriers/Page/WandP-Carrier-Log.yml",
       "output": {
         ".html": {
@@ -1459,6 +1529,16 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-carriers/Page/WandPConsignmentDialog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/PageExtension/SalesInvSubform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/PageExtension/SalesInvSubform.html"
         }
       },
       "version": ""
@@ -2149,6 +2229,16 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-edi/TableExtension/WandP-Invoice-EDI.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-explosive-precursors/Codeunit/EPC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-explosive-precursors/Codeunit/EPC.html"
         }
       },
       "version": ""

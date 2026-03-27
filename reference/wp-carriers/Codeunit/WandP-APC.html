@@ -84,12 +84,30 @@
 
 
 
+  	<h2 id="properties">Properties</h2>
+
+  	<table class="table">
+  		<thead>
+  			<tr>
+  				<th>Name</th>
+  				<th>Value</th>
+  			</tr>
+  		</thead>
+  		<tbody>
+  			<tr>
+  					<td>Description</td>
+  					<td class="font-style-italic">
+							Codeunit to handle APC API calls
+  					</td>
+  			</tr>
+  		</tbody>
+  	</table>
   	<h2 id="methods">Methods</h2>
    <h3 class="memberNameHolder">CreateShipment</h3>
    <div class="memberInfo">
 
 
-   		<pre><code dir="ltr" class="hljs lang-al">procedure CreateShipment(warehouseShipment: Record &quot;Warehouse Shipment Header&quot;, salesOrder: Record &quot;Sales Header&quot;, NoOfPackages: Integer, ShipService: Record &quot;Shipping Agent Services&quot;, Packer: Code[50]): Boolean</code></pre>
+   		<pre><code dir="ltr" class="hljs lang-al">procedure CreateShipment(ConsignDialog: Page WandPConsignmentDialog): Boolean</code></pre>
 
    			<h4>Parameters</h4>
    			<table class="table">
@@ -103,50 +121,10 @@
    				<tbody>
    						<tr>
    							<td>
-								warehouseShipment
+								ConsignDialog
    							</td>
    							<td class="font-style-italic">
-Record &quot;Warehouse Shipment Header&quot;                 </td>
-   							<td>
-								
-   							</td>
-   						</tr>
-   						<tr>
-   							<td>
-								salesOrder
-   							</td>
-   							<td class="font-style-italic">
-Record &quot;Sales Header&quot;                 </td>
-   							<td>
-								
-   							</td>
-   						</tr>
-   						<tr>
-   							<td>
-								NoOfPackages
-   							</td>
-   							<td class="font-style-italic">
-Integer                 </td>
-   							<td>
-								
-   							</td>
-   						</tr>
-   						<tr>
-   							<td>
-								ShipService
-   							</td>
-   							<td class="font-style-italic">
-Record &quot;Shipping Agent Services&quot;                 </td>
-   							<td>
-								
-   							</td>
-   						</tr>
-   						<tr>
-   							<td>
-								Packer
-   							</td>
-   							<td class="font-style-italic">
-Code[50]                 </td>
+<a class="xref" href="../Page/WandPConsignmentDialog.html">Page WandPConsignmentDialog</a>                 </td>
    							<td>
 								
    							</td>
@@ -178,6 +156,12 @@ Boolean               </td>
    <h3 class="memberNameHolder">PrintLabel</h3>
    <div class="memberInfo">
 
+   		<div class="summaryHolder">
+   			<div class="summary">
+				<p>Print label from APC.</p>
+
+   			</div>
+   		</div>
 
    		<pre><code dir="ltr" class="hljs lang-al">procedure PrintLabel(ConsignmentRef: Text[100], ShipAgent: Record &quot;Shipping Agent&quot;, SalesOrderNo: Code[20]): Boolean</code></pre>
 
@@ -198,7 +182,8 @@ Boolean               </td>
    							<td class="font-style-italic">
 Text[100]                 </td>
    							<td>
-								
+								<p>APC CarierWaybill</p>
+
    							</td>
    						</tr>
    						<tr>
@@ -208,7 +193,8 @@ Text[100]                 </td>
    							<td class="font-style-italic">
 Record &quot;Shipping Agent&quot;                 </td>
    							<td>
-								
+								<p>BC Shipping Agent</p>
+
    							</td>
    						</tr>
    						<tr>
@@ -218,7 +204,8 @@ Record &quot;Shipping Agent&quot;                 </td>
    							<td class="font-style-italic">
 Code[20]                 </td>
    							<td>
-								
+								<p>Sales order</p>
+
    							</td>
    						</tr>
    				</tbody>

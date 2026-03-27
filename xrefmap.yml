@@ -2389,6 +2389,12 @@ references:
 - uid: F:Table::WandP_WSCC_Core.Vendor[20]
   name: Vendor
   href: reference/wp-reports/Table/WandP-WSCC-Core.html
+- uid: F:TableExtension::Clever_Credit_Cust_Entry.Customer_Subgroup[20]
+  name: "\"Customer Subgroup\""
+  href: reference/wp-additional-fields/TableExtension/Clever-Credit-Cust-Entry.html
+- uid: F:TableExtension::Clever_Credit_Cust_Entry.LastInteractionDateTime
+  name: LastInteractionDateTime
+  href: reference/wp-additional-fields/TableExtension/Clever-Credit-Cust-Entry.html
 - uid: F:TableExtension::WandPItemUoM.WandPSalesAvail
   name: WandPSalesAvail
   href: reference/wp-uom-restriction/TableExtension/WandPItemUoM.html
@@ -2413,6 +2419,9 @@ references:
 - uid: F:TableExtension::WandPMiscCustomer.WandP_No#_of_Orders
   name: "\"WandP No. of Orders\""
   href: reference/wp-additional-fields/TableExtension/WandPMiscCustomer.html
+- uid: F:TableExtension::WandPMiscItem.RundownStart
+  name: RundownStart
+  href: reference/wp-additional-fields/TableExtension/WandPMiscItem.html
 - uid: F:TableExtension::WandPMiscItem.WandPNationwideCode[2048]
   name: WandPNationwideCode
   href: reference/wp-additional-fields/TableExtension/WandPMiscItem.html
@@ -2560,6 +2569,30 @@ references:
 - uid: F:TableExtension::WandP_Agent_Services.WandPAPICode[50]
   name: WandPAPICode
   href: reference/wp-carriers/TableExtension/WandP-Agent-Services.html
+- uid: F:TableExtension::WandP_Carrier_Shipping_Agents.Address1MaxLength
+  name: Address1MaxLength
+  href: reference/wp-carriers/TableExtension/WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WandP_Carrier_Shipping_Agents.Address2MaxLength
+  name: Address2MaxLength
+  href: reference/wp-carriers/TableExtension/WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WandP_Carrier_Shipping_Agents.Address3MaxLength
+  name: Address3MaxLength
+  href: reference/wp-carriers/TableExtension/WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WandP_Carrier_Shipping_Agents.Address4MaxLength
+  name: Address4MaxLength
+  href: reference/wp-carriers/TableExtension/WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WandP_Carrier_Shipping_Agents.CityMaxLength
+  name: CityMaxLength
+  href: reference/wp-carriers/TableExtension/WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WandP_Carrier_Shipping_Agents.InstructionsMaxLength
+  name: InstructionsMaxLength
+  href: reference/wp-carriers/TableExtension/WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WandP_Carrier_Shipping_Agents.NameMaxLength
+  name: NameMaxLength
+  href: reference/wp-carriers/TableExtension/WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WandP_Carrier_Shipping_Agents.PostCodeMaxLength
+  name: PostCodeMaxLength
+  href: reference/wp-carriers/TableExtension/WandP-Carrier-Shipping-Agents.html
 - uid: F:TableExtension::WandP_Carrier_Shipping_Agents.WandPAPICreateShipmentURL[100]
   name: WandPAPICreateShipmentURL
   href: reference/wp-carriers/TableExtension/WandP-Carrier-Shipping-Agents.html
@@ -2655,6 +2688,9 @@ references:
   href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Head-Archive.html
 - uid: F:TableExtension::WandP_Misc_Sales_Header.WandPCostCentre[50]
   name: WandPCostCentre
+  href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Header.html
+- uid: F:TableExtension::WandP_Misc_Sales_Header.WandPCustomerCalendar[20]
+  name: WandPCustomerCalendar
   href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Header.html
 - uid: F:TableExtension::WandP_Misc_Sales_Header.WandPOrderSource[20]
   name: WandPOrderSource
@@ -2830,6 +2866,9 @@ references:
 - uid: F:TableExtension::Wandp_Items.WandP_UN_Code[10]
   name: "\"WandP UN Code\""
   href: reference/wp-dangerous-goods/TableExtension/Wandp-Items.html
+- uid: M:Codeunit::EPC.CheckEPCSalesLine(Sales_Line@):Boolean
+  name: CheckEPCSalesLine
+  href: reference/wp-explosive-precursors/Codeunit/EPC.html
 - uid: M:Codeunit::WandPGenericAPICalls.GenericAPICall(HttpRequestMessage,Code[20]):JsonObject
   name: GenericAPICall
   href: reference/wp-carriers/Codeunit/WandPGenericAPICalls.html
@@ -2842,7 +2881,7 @@ references:
 - uid: M:Codeunit::WandPMiscCode.UpdateDimSetOnSalesHeader(Sales_Header@,Dimension_Set_Entry@)
   name: UpdateDimSetOnSalesHeader
   href: reference/wp-additional-fields/Codeunit/WandPMiscCode.html
-- uid: M:Codeunit::WandP_APC.CreateShipment(Warehouse_Shipment_Header,Sales_Header,Integer,Shipping_Agent_Services,Code[50]):Boolean
+- uid: M:Codeunit::WandP_APC.CreateShipment(Page::WandPConsignmentDialog):Boolean
   name: CreateShipment
   href: reference/wp-carriers/Codeunit/WandP-APC.html
 - uid: M:Codeunit::WandP_APC.PrintLabel(Text[100],Shipping_Agent,Code[20]):Boolean
@@ -2875,7 +2914,7 @@ references:
 - uid: M:Codeunit::WandP_CTP_update.UpdateCTP(Sales_Header)
   name: UpdateCTP
   href: reference/wp-sales-order-management/Codeunit/WandP-CTP-update.html
-- uid: M:Codeunit::WandP_DX.CreateShipment(Warehouse_Shipment_Header,Sales_Header,Integer,Shipping_Agent_Services,Code[50]):Boolean
+- uid: M:Codeunit::WandP_DX.CreateShipment(Page::WandPConsignmentDialog):Boolean
   name: CreateShipment
   href: reference/wp-carriers/Codeunit/WandP-DX.html
 - uid: M:Codeunit::WandP_DX.GetDXSessionKey(Shipping_Agent):Text
@@ -2953,11 +2992,17 @@ references:
 - uid: M:Codeunit::WandP_WSCC_Core.PopulateWSCCCore(WandP_WSCC_Core@)
   name: PopulateWSCCCore
   href: reference/wp-reports/Codeunit/WandP-WSCC-Core.html
+- uid: M:Page::WandPConsignmentDialog.GetInstructions:Text[1024]
+  name: GetInstructions
+  href: reference/wp-carriers/Page/WandPConsignmentDialog.html
 - uid: M:Page::WandPConsignmentDialog.GetNoPackages:Integer
   name: GetNoPackages
   href: reference/wp-carriers/Page/WandPConsignmentDialog.html
 - uid: M:Page::WandPConsignmentDialog.GetPacker:Code[50]
   name: GetPacker
+  href: reference/wp-carriers/Page/WandPConsignmentDialog.html
+- uid: M:Page::WandPConsignmentDialog.GetSalesOrderNo:Code[20]
+  name: GetSalesOrderNo
   href: reference/wp-carriers/Page/WandPConsignmentDialog.html
 - uid: M:Page::WandPConsignmentDialog.GetShipAgent:Shipping_Agent
   name: GetShipAgent
@@ -2965,11 +3010,38 @@ references:
 - uid: M:Page::WandPConsignmentDialog.GetShipAgentService:Shipping_Agent_Services
   name: GetShipAgentService
   href: reference/wp-carriers/Page/WandPConsignmentDialog.html
+- uid: M:Page::WandPConsignmentDialog.GetShipToAddress2:Text[50]
+  name: GetShipToAddress2
+  href: reference/wp-carriers/Page/WandPConsignmentDialog.html
+- uid: M:Page::WandPConsignmentDialog.GetShipToAddress3:Text[50]
+  name: GetShipToAddress3
+  href: reference/wp-carriers/Page/WandPConsignmentDialog.html
+- uid: M:Page::WandPConsignmentDialog.GetShipToAddress4:Text[50]
+  name: GetShipToAddress4
+  href: reference/wp-carriers/Page/WandPConsignmentDialog.html
+- uid: M:Page::WandPConsignmentDialog.GetShipToAddress5:Text[50]
+  name: GetShipToAddress5
+  href: reference/wp-carriers/Page/WandPConsignmentDialog.html
+- uid: M:Page::WandPConsignmentDialog.GetShipToAddress:Text[100]
+  name: GetShipToAddress
+  href: reference/wp-carriers/Page/WandPConsignmentDialog.html
+- uid: M:Page::WandPConsignmentDialog.GetShipToCity:Text[30]
+  name: GetShipToCity
+  href: reference/wp-carriers/Page/WandPConsignmentDialog.html
+- uid: M:Page::WandPConsignmentDialog.GetShipToName:Text[100]
+  name: GetShipToName
+  href: reference/wp-carriers/Page/WandPConsignmentDialog.html
+- uid: M:Page::WandPConsignmentDialog.GetShipToPostCode:Code[20]
+  name: GetShipToPostCode
+  href: reference/wp-carriers/Page/WandPConsignmentDialog.html
 - uid: M:Page::WandPConsignmentDialog.GetShipment:Warehouse_Shipment_Header
   name: GetShipment
   href: reference/wp-carriers/Page/WandPConsignmentDialog.html
 - uid: M:Page::WandPConsignmentDialog.SetValues(Code[20]):Boolean
   name: SetValues
+  href: reference/wp-carriers/Page/WandPConsignmentDialog.html
+- uid: M:Page::WandPConsignmentDialog.ValidateAll:Boolean
+  name: ValidateAll
   href: reference/wp-carriers/Page/WandPConsignmentDialog.html
 - uid: M:Page::WandP_Change_Ext_Ref.GetResult:Code[35]
   name: GetResult
@@ -3120,6 +3192,10 @@ references:
   href: reference/wp-prices-and-rebates/Obsoletion/obsolete_by_%5BUntagged%5D.html
 - uid: N:Module::WP_prices_and_rebates_obsolete_by_[Untagged]#
   href: reference/wp-prices-and-rebates/Obsoletion/obsolete_by_%5BUntagged%5D.html
+- uid: O:Codeunit::EPC
+  name: EPC
+  fqName: Codeunit EPC
+  href: reference/wp-explosive-precursors/Codeunit/EPC.html
 - uid: O:Codeunit::WandPGenericAPICalls
   name: WandPGenericAPICalls
   fqName: Codeunit WandPGenericAPICalls
@@ -3238,6 +3314,10 @@ references:
   name: "\"WandP Netalogue Email \""
   fqName: EnumExtension "WandP Netalogue Email "
   href: reference/wp-sales-order-management/EnumExtension/WandP-Netalogue-Email-.html
+- uid: O:Page::Shipping_Agent_Card
+  name: "\"Shipping Agent Card\""
+  fqName: Page "Shipping Agent Card"
+  href: reference/wp-carriers/Page/Shipping-Agent-Card.html
 - uid: O:Page::WandP#Reporting#Large_Orders
   name: "\"Large Orders\""
   fqName: Page WandP.Reporting."Large Orders"
@@ -3302,6 +3382,10 @@ references:
   name: "\"WandP Base Calendar API\""
   fqName: Page "WandP Base Calendar API"
   href: reference/wp-api-pages/Page/WandP-Base-Calendar-API.html
+- uid: O:Page::WandP_Bin_Content_API
+  name: "\"WandP Bin Content API\""
+  fqName: Page "WandP Bin Content API"
+  href: reference/wp-api-pages/Page/WandP-Bin-Content-API.html
 - uid: O:Page::WandP_Bins_API
   name: "\"WandP Bins API\""
   fqName: Page "WandP Bins API"
@@ -3626,6 +3710,26 @@ references:
   name: "\"WandP Whse Shipment Lines API\""
   fqName: Page "WandP Whse Shipment Lines API"
   href: reference/wp-api-pages/Page/WandP-Whse-Shipment-Lines-API.html
+- uid: O:PageExtension::Clever_Customer_Credit_Status
+  name: "\"Clever Customer Credit Status\""
+  fqName: PageExtension "Clever Customer Credit Status"
+  href: reference/wp-additional-fields/PageExtension/Clever-Customer-Credit-Status.html
+- uid: O:PageExtension::Item_list
+  name: "\"Item list\""
+  fqName: PageExtension "Item list"
+  href: reference/wp-additional-fields/PageExtension/Item-list.html
+- uid: O:PageExtension::MiscSalesShipmentLines
+  name: MiscSalesShipmentLines
+  fqName: PageExtension MiscSalesShipmentLines
+  href: reference/wp-additional-fields/PageExtension/MiscSalesShipmentLines.html
+- uid: O:PageExtension::Misc_Purchase_Lines
+  name: "\"Misc Purchase Lines\""
+  fqName: PageExtension "Misc Purchase Lines"
+  href: reference/wp-additional-fields/PageExtension/Misc-Purchase-Lines.html
+- uid: O:PageExtension::SalesInvSubform
+  name: SalesInvSubform
+  fqName: PageExtension SalesInvSubform
+  href: reference/wp-carriers/PageExtension/SalesInvSubform.html
 - uid: O:PageExtension::WandPContiniaCustomerList
   name: WandPContiniaCustomerList
   fqName: PageExtension WandPContiniaCustomerList
@@ -4344,6 +4448,10 @@ references:
   name: "\"WandP WSCC Core\""
   fqName: Table "WandP WSCC Core"
   href: reference/wp-reports/Table/WandP-WSCC-Core.html
+- uid: O:TableExtension::Clever_Credit_Cust_Entry
+  name: "\"Clever Credit Cust Entry\""
+  fqName: TableExtension "Clever Credit Cust Entry"
+  href: reference/wp-additional-fields/TableExtension/Clever-Credit-Cust-Entry.html
 - uid: O:TableExtension::WandP#Binfix#Bin_Content_Uom_Fix
   name: "\"Bin Content Uom Fix\""
   fqName: TableExtension WandP.Binfix."Bin Content Uom Fix"
