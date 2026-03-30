@@ -601,6 +601,84 @@ references:
 - uid: E:EnumExtension::WandP_Netalogue_Email_.WandPNetalogueNotification
   name: WandPNetalogueNotification
   href: reference/wp-sales-order-management/EnumExtension/WandP-Netalogue-Email-.html
+- uid: F:Table::Large_Orders.Customer_Group[20]
+  name: "\"Customer Group\""
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.Customer_Name[100]
+  name: "\"Customer Name\""
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.Customer_No#[20]
+  name: "\"Customer No.\""
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.Description[100]
+  name: Description
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.Document_No#[20]
+  name: "\"Document No.\""
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.Inventory
+  name: Inventory
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.LineNo
+  name: LineNo
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.No#[20]
+  name: "\"No.\""
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.Order_Date
+  name: "\"Order Date\""
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.Outstanding_Qty#_(Base)
+  name: "\"Outstanding Qty. (Base)\""
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.Outstanding_Quantity
+  name: "\"Outstanding Quantity\""
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.Quantity
+  name: Quantity
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.Requested_Delivery_Date
+  name: "\"Requested Delivery Date\""
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.SystemId
+  name: SystemId
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Large_Orders.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::PO_Freight_Only_O/s.PurchaseOrderNo[20]
+  name: PurchaseOrderNo
+  href: reference/wp-reports/Table/PO-Freight-Only-O-s.html
+- uid: F:Table::PO_Freight_Only_O/s.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-reports/Table/PO-Freight-Only-O-s.html
+- uid: F:Table::PO_Freight_Only_O/s.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-reports/Table/PO-Freight-Only-O-s.html
+- uid: F:Table::PO_Freight_Only_O/s.SystemId
+  name: SystemId
+  href: reference/wp-reports/Table/PO-Freight-Only-O-s.html
+- uid: F:Table::PO_Freight_Only_O/s.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-reports/Table/PO-Freight-Only-O-s.html
+- uid: F:Table::PO_Freight_Only_O/s.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-reports/Table/PO-Freight-Only-O-s.html
+- uid: F:Table::PO_Freight_Only_O/s.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-reports/Table/PO-Freight-Only-O-s.html
 - uid: F:Table::WandP#Reporting#Large_Orders.Customer_Group[20]
   name: "\"Customer Group\""
   href: reference/wp-reports/Table/WandP.Reporting.Large-Orders.html
@@ -3314,6 +3392,14 @@ references:
   name: "\"WandP Netalogue Email \""
   fqName: EnumExtension "WandP Netalogue Email "
   href: reference/wp-sales-order-management/EnumExtension/WandP-Netalogue-Email-.html
+- uid: O:Page::Large_Orders
+  name: "\"Large Orders\""
+  fqName: Page "Large Orders"
+  href: reference/wp-reports/Page/Large-Orders.html
+- uid: O:Page::PO_Freight_Only_O/S
+  name: "\"PO Freight Only O/S\""
+  fqName: Page "PO Freight Only O/S"
+  href: reference/wp-reports/Page/PO-Freight-Only-O-S.html
 - uid: O:Page::Shipping_Agent_Card
   name: "\"Shipping Agent Card\""
   fqName: Page "Shipping Agent Card"
@@ -4072,6 +4158,14 @@ references:
   name: CTPPerms
   fqName: PermissionSet CTPPerms
   href: reference/wp-sales-order-management/PermissionSet/CTPPerms.html
+- uid: O:PermissionSet::CueTableAdmin
+  name: CueTableAdmin
+  fqName: PermissionSet CueTableAdmin
+  href: reference/wp-reports/PermissionSet/CueTableAdmin.html
+- uid: O:PermissionSet::CueTableUser
+  name: CueTableUser
+  fqName: PermissionSet CueTableUser
+  href: reference/wp-reports/PermissionSet/CueTableUser.html
 - uid: O:PermissionSet::WandPCarrier
   name: WandPCarrier
   fqName: PermissionSet WandPCarrier
@@ -4300,6 +4394,14 @@ references:
   name: "\"WandP Vend pmt recpt\""
   fqName: ReportExtension "WandP Vend pmt recpt"
   href: reference/wp-reports/ReportExtension/WandP-Vend-pmt-recpt.html
+- uid: O:Table::Large_Orders
+  name: "\"Large Orders\""
+  fqName: Table "Large Orders"
+  href: reference/wp-reports/Table/Large-Orders.html
+- uid: O:Table::PO_Freight_Only_O/s
+  name: "\"PO Freight Only O/s\""
+  fqName: Table "PO Freight Only O/s"
+  href: reference/wp-reports/Table/PO-Freight-Only-O-s.html
 - uid: O:Table::WandP#Reporting#Large_Orders
   name: "\"Large Orders\""
   fqName: Table WandP.Reporting."Large Orders"

@@ -2945,6 +2945,26 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-reports/Page/Large-Orders.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-reports/Page/Large-Orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-reports/Page/PO-Freight-Only-O-S.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-reports/Page/PO-Freight-Only-O-S.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-reports/Page/WandP-Backorder-Risk.yml",
       "output": {
         ".html": {
@@ -3139,6 +3159,26 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-reports/PageExtension/WandPOrderProcRC.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-reports/PermissionSet/CueTableAdmin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-reports/PermissionSet/CueTableAdmin.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-reports/PermissionSet/CueTableUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-reports/PermissionSet/CueTableUser.html"
         }
       },
       "version": ""
@@ -3389,6 +3429,26 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-reports/ReportExtension/WandPStreamLabel.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-reports/Table/Large-Orders.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-reports/Table/Large-Orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-reports/Table/PO-Freight-Only-O-s.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-reports/Table/PO-Freight-Only-O-s.html"
         }
       },
       "version": ""
