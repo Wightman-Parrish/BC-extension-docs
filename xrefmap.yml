@@ -508,8 +508,38 @@ references:
 - uid: C:Query::WandP_Next_day_orders.Sales_Line.No_
   name: No_
   href: reference/wp-reports/Query/WandP-Next-day-orders.html
+- uid: C:Query::WandP_Next_day_picks.Sales_Line.Description
+  name: Description
+  href: reference/wp-reports/Query/WandP-Next-day-picks.html
+- uid: C:Query::WandP_Next_day_picks.Sales_Line.Document_No_
+  name: Document_No_
+  href: reference/wp-reports/Query/WandP-Next-day-picks.html
+- uid: C:Query::WandP_Next_day_picks.Sales_Line.Item.Sales_Header.Ship_to_City
+  name: Ship_to_City
+  href: reference/wp-reports/Query/WandP-Next-day-picks.html
+- uid: C:Query::WandP_Next_day_picks.Sales_Line.Item.Sales_Header.Ship_to_Post_Code
+  name: Ship_to_Post_Code
+  href: reference/wp-reports/Query/WandP-Next-day-picks.html
+- uid: C:Query::WandP_Next_day_picks.Sales_Line.Item.WandP_Below_LQ
+  name: WandP_Below_LQ
+  href: reference/wp-reports/Query/WandP-Next-day-picks.html
+- uid: C:Query::WandP_Next_day_picks.Sales_Line.Item.WandP_UN_Code
+  name: WandP_UN_Code
+  href: reference/wp-reports/Query/WandP-Next-day-picks.html
+- uid: C:Query::WandP_Next_day_picks.Sales_Line.Line_No_
+  name: Line_No_
+  href: reference/wp-reports/Query/WandP-Next-day-picks.html
 - uid: C:Query::WandP_Next_day_picks.Sales_Line.Net_Weight
   name: Net_Weight
+  href: reference/wp-reports/Query/WandP-Next-day-picks.html
+- uid: C:Query::WandP_Next_day_picks.Sales_Line.No_
+  name: No_
+  href: reference/wp-reports/Query/WandP-Next-day-picks.html
+- uid: C:Query::WandP_Next_day_picks.Sales_Line.Outstanding_Quantity
+  name: Outstanding_Quantity
+  href: reference/wp-reports/Query/WandP-Next-day-picks.html
+- uid: C:Query::WandP_Next_day_picks.Sales_Line.Planned_Delivery_Date
+  name: Planned_Delivery_Date
   href: reference/wp-reports/Query/WandP-Next-day-picks.html
 - uid: C:Query::WandP_Next_day_picks.Sales_Line.Reserved_Quantity
   name: Reserved_Quantity
@@ -658,6 +688,60 @@ references:
 - uid: F:Table::Large_Orders.SystemRowVersion
   name: SystemRowVersion
   href: reference/wp-reports/Table/Large-Orders.html
+- uid: F:Table::Next_day_picks.Description[100]
+  name: Description
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.Document_No_[20]
+  name: Document_No_
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.Line_No_
+  name: Line_No_
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.Net_Weight
+  name: Net_Weight
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.No_[20]
+  name: No_
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.Reserved_Quantity
+  name: Reserved_Quantity
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.Ship_to_City[50]
+  name: Ship_to_City
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.Ship_to_Post_Code[20]
+  name: Ship_to_Post_Code
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.SystemId
+  name: SystemId
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.WandP_Below_LQ
+  name: WandP_Below_LQ
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.WandP_UN_Code[20]
+  name: WandP_UN_Code
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.planned_Delivery_Date
+  name: planned_Delivery_Date
+  href: reference/wp-reports/Table/Next-day-picks.html
+- uid: F:Table::Next_day_picks.quantity
+  name: quantity
+  href: reference/wp-reports/Table/Next-day-picks.html
 - uid: F:Table::PO_Freight_Only_O/s.PurchaseOrderNo[20]
   name: PurchaseOrderNo
   href: reference/wp-reports/Table/PO-Freight-Only-O-s.html
@@ -679,6 +763,33 @@ references:
 - uid: F:Table::PO_Freight_Only_O/s.SystemRowVersion
   name: SystemRowVersion
   href: reference/wp-reports/Table/PO-Freight-Only-O-s.html
+- uid: F:Table::Resultant_Prices.Customer[20]
+  name: Customer
+  href: reference/wp-reports/Table/Resultant-Prices.html
+- uid: F:Table::Resultant_Prices.Item[20]
+  name: Item
+  href: reference/wp-reports/Table/Resultant-Prices.html
+- uid: F:Table::Resultant_Prices.Price
+  name: Price
+  href: reference/wp-reports/Table/Resultant-Prices.html
+- uid: F:Table::Resultant_Prices.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-reports/Table/Resultant-Prices.html
+- uid: F:Table::Resultant_Prices.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-reports/Table/Resultant-Prices.html
+- uid: F:Table::Resultant_Prices.SystemId
+  name: SystemId
+  href: reference/wp-reports/Table/Resultant-Prices.html
+- uid: F:Table::Resultant_Prices.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-reports/Table/Resultant-Prices.html
+- uid: F:Table::Resultant_Prices.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-reports/Table/Resultant-Prices.html
+- uid: F:Table::Resultant_Prices.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-reports/Table/Resultant-Prices.html
 - uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation.Attribute_ID
   name: "\"Attribute ID\""
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html
@@ -883,6 +994,54 @@ references:
 - uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.Type
   name: Type
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.SystemId
+  name: SystemId
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.bounce_description[50]
+  name: bounce_description
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.diag[1000]
+  name: diag
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.email[500]
+  name: email
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.event[20]
+  name: "\"event\""
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.id[50]
+  name: id
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.sender[50]
+  name: sender
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.state[20]
+  name: state
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.subject[200]
+  name: subject
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.ts
+  name: ts
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#DocumentEmails#Email_failures.ts_datetime
+  name: ts_datetime
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
 - uid: F:Table::WandP#Reporting#Large_Orders.Customer_Group[20]
   name: "\"Customer Group\""
   href: reference/wp-reports/Table/WandP.Reporting.Large-Orders.html
@@ -2359,6 +2518,9 @@ references:
 - uid: F:Table::WandP_Outstanding_Order_Lines.Vendor_Name[100]
   name: "\"Vendor Name\""
   href: reference/wp-reports/Table/WandP-Outstanding-Order-Lines.html
+- uid: F:Table::WandP_Outstanding_Order_Lines.Weekly_Average_Qty#
+  name: "\"Weekly Average Qty.\""
+  href: reference/wp-reports/Table/WandP-Outstanding-Order-Lines.html
 - uid: F:Table::WandP_Processed_Tx.Document_Number[20]
   name: "\"Document Number\""
   href: reference/wp-edi/Table/WandP-Processed-Tx.html
@@ -2674,12 +2836,21 @@ references:
 - uid: F:TableExtension::Clever_Credit_Cust_Entry.Customer_Subgroup[20]
   name: "\"Customer Subgroup\""
   href: reference/wp-additional-fields/TableExtension/Clever-Credit-Cust-Entry.html
+- uid: F:TableExtension::Clever_Credit_Cust_Entry.Industry[50]
+  name: Industry
+  href: reference/wp-additional-fields/TableExtension/Clever-Credit-Cust-Entry.html
 - uid: F:TableExtension::Clever_Credit_Cust_Entry.LastInteractionDateTime
   name: LastInteractionDateTime
   href: reference/wp-additional-fields/TableExtension/Clever-Credit-Cust-Entry.html
+- uid: F:TableExtension::Clever_Credit_Cust_Entry.Salesperson[20]
+  name: Salesperson
+  href: reference/wp-additional-fields/TableExtension/Clever-Credit-Cust-Entry.html
+- uid: F:TableExtension::WP#DocumentEmails#WandP_Customer.WandPNoDeliveryEmail
+  name: WandPNoDeliveryEmail
+  href: reference/wp-document-emails/TableExtension/WP.DocumentEmails.WandP-Customer.html
 - uid: F:TableExtension::WandPItemUoM.WandPSalesAvail
   name: WandPSalesAvail
-  href: reference/wp-uom-restriction/TableExtension/WandPItemUoM.html
+  href: reference/wp-uom-extension/TableExtension/WandPItemUoM.html
 - uid: F:TableExtension::WandPMiscCustomer.WandPConsolidatedInvoicing
   name: WandPConsolidatedInvoicing
   href: reference/wp-additional-fields/TableExtension/WandPMiscCustomer.html
@@ -2731,6 +2902,9 @@ references:
 - uid: F:TableExtension::WandPMiscShipTo.WandPNationwideAccount[50]
   name: WandPNationwideAccount
   href: reference/wp-additional-fields/TableExtension/WandPMiscShipTo.html
+- uid: F:TableExtension::WandPMiscWhsActLine.VendorItemNo[50]
+  name: VendorItemNo
+  href: reference/wp-additional-fields/TableExtension/WandPMiscWhsActLine.html
 - uid: F:TableExtension::WandPMiscWhsActLine.WandPReservationEntryNo
   name: WandPReservationEntryNo
   href: reference/wp-additional-fields/TableExtension/WandPMiscWhsActLine.html
@@ -2968,6 +3142,18 @@ references:
 - uid: F:TableExtension::WandP_Misc_Sales_Head_Archive.WandP_Item_Lines
   name: "\"WandP Item Lines\""
   href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Head-Archive.html
+- uid: F:TableExtension::WandP_Misc_Sales_Header.Customer_Credit_Limit
+  name: "\"Customer Credit Limit\""
+  href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Header.html
+- uid: F:TableExtension::WandP_Misc_Sales_Header.Customer_Group[50]
+  name: "\"Customer Group\""
+  href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Header.html
+- uid: F:TableExtension::WandP_Misc_Sales_Header.Industry[50]
+  name: Industry
+  href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Header.html
+- uid: F:TableExtension::WandP_Misc_Sales_Header.WPYourReference[50]
+  name: WPYourReference
+  href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Header.html
 - uid: F:TableExtension::WandP_Misc_Sales_Header.WandPCostCentre[50]
   name: WandPCostCentre
   href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Header.html
@@ -3013,6 +3199,9 @@ references:
 - uid: F:TableExtension::WandP_Misc_Sales_Line.WandP_Item_Vendor[50]
   name: "\"WandP Item Vendor\""
   href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Line.html
+- uid: F:TableExtension::WandP_Misc_Sales_Order_Buffer.WPYourReference[50]
+  name: WPYourReference
+  href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Order-Buffer.html
 - uid: F:TableExtension::WandP_Misc_Sales_Order_Buffer.WandPOrderSource[20]
   name: WandPOrderSource
   href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Order-Buffer.html
@@ -3151,6 +3340,15 @@ references:
 - uid: M:Codeunit::EPC.CheckEPCSalesLine(Sales_Line@):Boolean
   name: CheckEPCSalesLine
   href: reference/wp-explosive-precursors/Codeunit/EPC.html
+- uid: M:Codeunit::EPC.CheckEPCSalesOrder(Sales_Header@):Boolean
+  name: CheckEPCSalesOrder
+  href: reference/wp-explosive-precursors/Codeunit/EPC.html
+- uid: M:Codeunit::UoM_copy.CopyMeasures(Item_Unit_of_Measure@)
+  name: CopyMeasures
+  href: reference/wp-uom-extension/Codeunit/UoM-copy.html
+- uid: M:Codeunit::WP#DocumentEmails#WandP_DocEmail.DocumentLogExists(RecordId):Boolean
+  name: DocumentLogExists
+  href: reference/wp-document-emails/Codeunit/WP.DocumentEmails.WandP-DocEmail.html
 - uid: M:Codeunit::WandPGenericAPICalls.GenericAPICall(HttpRequestMessage,Code[20]):JsonObject
   name: GenericAPICall
   href: reference/wp-carriers/Codeunit/WandPGenericAPICalls.html
@@ -3295,6 +3493,9 @@ references:
 - uid: M:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value_List.OnLoadAttributesOnBeforeTempAttributeValueInsert(Cust/Vend_Attribute_Value@,Cust/Vend_Attrib_Value_Mapping,Code[20])
   name: OnLoadAttributesOnBeforeTempAttributeValueInsert
   href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.html
+- uid: M:Page::WandP#APIPages#WandP_Contacts_API.IsEnterpriseNumber(FieldRef@):Boolean
+  name: IsEnterpriseNumber
+  href: reference/wp-api-pages/Page/WandP.APIPages.WandP-Contacts-API.html
 - uid: M:Page::WandPConsignmentDialog.GetInstructions:Text[1024]
   name: GetInstructions
   href: reference/wp-carriers/Page/WandPConsignmentDialog.html
@@ -3364,6 +3565,9 @@ references:
 - uid: M:Page::WandP_Direct_Debit_Request.PopulateTable:Query::WandP_Direct_Debit_Request
   name: PopulateTable
   href: reference/wp-reports/Page/WandP-Direct-Debit-Request.html
+- uid: M:Page::WandP_Hot_Replenishment.UpdatePage
+  name: UpdatePage
+  href: reference/wp-reports/Page/WandP-Hot-Replenishment.html
 - uid: M:Page::WandP_ITS_Data.CreateITSFile
   name: CreateITSFile
   href: reference/wp-its-extension/Page/WandP-ITS-Data.html
@@ -3562,6 +3766,9 @@ references:
 - uid: M:Table::WandP_Custom_Cues.InsertIfNotExists
   name: InsertIfNotExists
   href: reference/wp-reports/Table/WandP-Custom-Cues.html
+- uid: M:TableExtension::Credit_Memo.GetRemainingAmount:Decimal
+  name: GetRemainingAmount
+  href: reference/wp-reports/TableExtension/Credit-Memo.html
 - uid: M:TableExtension::WandP_Misc_Sales_Line.WandPCalcEffPrice
   name: WandPCalcEffPrice
   href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Line.html
@@ -3571,6 +3778,18 @@ references:
 - uid: N:Module::WP_API_pages
   name: WP API pages
   href: reference/wp-api-pages/Module/WP-API-pages.html
+- uid: N:Module::WP_API_pages::Namespace::WPAPIpagesBCextension
+  name: WPAPIpagesBCextension
+  href: reference/wp-api-pages/Namespace/WPAPIpagesBCextension.html
+- uid: N:Module::WP_API_pages::Namespace::WPAPIpagesBCextension.WPAPIpagesBCextension
+  name: WPAPIpagesBCextension.WPAPIpagesBCextension
+  href: reference/wp-api-pages/Namespace/WPAPIpagesBCextension.WPAPIpagesBCextension.html
+- uid: N:Module::WP_API_pages::Namespace::WandP
+  name: WandP
+  href: reference/wp-api-pages/Namespace/WandP.html
+- uid: N:Module::WP_API_pages::Namespace::WandP.APIPages
+  name: WandP.APIPages
+  href: reference/wp-api-pages/Namespace/WandP.APIPages.html
 - uid: N:Module::WP_Additional_fields
   name: WP Additional fields
   href: reference/wp-additional-fields/Module/WP-Additional-fields.html
@@ -3598,6 +3817,18 @@ references:
 - uid: N:Module::WP_Document_Emails
   name: WP Document Emails
   href: reference/wp-document-emails/Module/WP-Document-Emails.html
+- uid: N:Module::WP_Document_Emails::Namespace::WP
+  name: WP
+  href: reference/wp-document-emails/Namespace/WP.html
+- uid: N:Module::WP_Document_Emails::Namespace::WP.DocumentEmails
+  name: WP.DocumentEmails
+  href: reference/wp-document-emails/Namespace/WP.DocumentEmails.html
+- uid: N:Module::WP_Document_Emails::Namespace::WPDocumentEmails
+  name: WPDocumentEmails
+  href: reference/wp-document-emails/Namespace/WPDocumentEmails.html
+- uid: N:Module::WP_Document_Emails::Namespace::WPDocumentEmails.WPDocumentEmails
+  name: WPDocumentEmails.WPDocumentEmails
+  href: reference/wp-document-emails/Namespace/WPDocumentEmails.WPDocumentEmails.html
 - uid: N:Module::WP_EDI
   name: WP EDI
   href: reference/wp-edi/Module/WP-EDI.html
@@ -3625,6 +3856,9 @@ references:
 - uid: N:Module::WP_Sales_Order_Management
   name: WP Sales Order Management
   href: reference/wp-sales-order-management/Module/WP-Sales-Order-Management.html
+- uid: N:Module::WP_UoM_extension
+  name: WP UoM extension
+  href: reference/wp-uom-extension/Module/WP-UoM-extension.html
 - uid: N:Module::WP_UoM_restriction
   name: WP UoM restriction
   href: reference/wp-uom-restriction/Module/WP-UoM-restriction.html
@@ -3649,6 +3883,22 @@ references:
   name: EPC
   fqName: Codeunit EPC
   href: reference/wp-explosive-precursors/Codeunit/EPC.html
+- uid: O:Codeunit::EPC_Subscriber
+  name: "\"EPC Subscriber\""
+  fqName: Codeunit "EPC Subscriber"
+  href: reference/wp-explosive-precursors/Codeunit/EPC-Subscriber.html
+- uid: O:Codeunit::UoM_copy
+  name: "\"UoM copy\""
+  fqName: Codeunit "UoM copy"
+  href: reference/wp-uom-extension/Codeunit/UoM-copy.html
+- uid: O:Codeunit::WP#DocumentEmails#Installer
+  name: Installer
+  fqName: Codeunit WP.DocumentEmails.Installer
+  href: reference/wp-document-emails/Codeunit/WP.DocumentEmails.Installer.html
+- uid: O:Codeunit::WP#DocumentEmails#WandP_DocEmail
+  name: "\"WandP DocEmail\""
+  fqName: Codeunit WP.DocumentEmails."WandP DocEmail"
+  href: reference/wp-document-emails/Codeunit/WP.DocumentEmails.WandP-DocEmail.html
 - uid: O:Codeunit::WandPGenericAPICalls
   name: WandPGenericAPICalls
   fqName: Codeunit WandPGenericAPICalls
@@ -3771,6 +4021,10 @@ references:
   name: "\"Large Orders\""
   fqName: Page "Large Orders"
   href: reference/wp-reports/Page/Large-Orders.html
+- uid: O:Page::Next_day_picks
+  name: "\"Next day picks\""
+  fqName: Page "Next day picks"
+  href: reference/wp-reports/Page/Next-day-picks.html
 - uid: O:Page::PO_Freight_Only_O/S
   name: "\"PO Freight Only O/S\""
   fqName: Page "PO Freight Only O/S"
@@ -3811,6 +4065,26 @@ references:
   name: "\"Vend Attrib Value Editor\""
   fqName: Page WP.CustomerVendorAttributes."Vend Attrib Value Editor"
   href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Vend-Attrib-Value-Editor.html
+- uid: O:Page::WPAPIpagesBCextension#WPAPIpagesBCextension#Email_Failure_API
+  name: "\"Email Failure API\""
+  fqName: Page WPAPIpagesBCextension.WPAPIpagesBCextension."Email Failure API"
+  href: reference/wp-api-pages/Page/WPAPIpagesBCextension.WPAPIpagesBCextension.Email-Failure-API.html
+- uid: O:Page::WPDocumentEmails#WPDocumentEmails#Email_failures
+  name: "\"Email failures\""
+  fqName: Page WPDocumentEmails.WPDocumentEmails."Email failures"
+  href: reference/wp-document-emails/Page/WPDocumentEmails.WPDocumentEmails.Email-failures.html
+- uid: O:Page::WandP#APIPages#Item_Substitution_API
+  name: "\"Item Substitution API\""
+  fqName: Page WandP.APIPages."Item Substitution API"
+  href: reference/wp-api-pages/Page/WandP.APIPages.Item-Substitution-API.html
+- uid: O:Page::WandP#APIPages#WandP_Contact_Bus_Relation_API
+  name: "\"WandP Contact Bus Relation API\""
+  fqName: Page WandP.APIPages."WandP Contact Bus Relation API"
+  href: reference/wp-api-pages/Page/WandP.APIPages.WandP-Contact-Bus-Relation-API.html
+- uid: O:Page::WandP#APIPages#WandP_Contacts_API
+  name: "\"WandP Contacts API\""
+  fqName: Page WandP.APIPages."WandP Contacts API"
+  href: reference/wp-api-pages/Page/WandP.APIPages.WandP-Contacts-API.html
 - uid: O:Page::WandP#Reporting#Large_Orders
   name: "\"Large Orders\""
   fqName: Page WandP.Reporting."Large Orders"
@@ -4207,6 +4481,10 @@ references:
   name: "\"Clever Customer Credit Status\""
   fqName: PageExtension "Clever Customer Credit Status"
   href: reference/wp-additional-fields/PageExtension/Clever-Customer-Credit-Status.html
+- uid: O:PageExtension::Credit_Held_List
+  name: "\"Credit Held List\""
+  fqName: PageExtension "Credit Held List"
+  href: reference/wp-additional-fields/PageExtension/Credit-Held-List.html
 - uid: O:PageExtension::Item_list
   name: "\"Item list\""
   fqName: PageExtension "Item list"
@@ -4231,6 +4509,10 @@ references:
   name: "\"Vendor Card\""
   fqName: PageExtension WP.CustomerVendorAttributes."Vendor Card"
   href: reference/wp-customer-attributes/PageExtension/WP.CustomerVendorAttributes.Vendor-Card.html
+- uid: O:PageExtension::WP#DocumentEmails#WandP_Customer
+  name: "\"WandP Customer\""
+  fqName: PageExtension WP.DocumentEmails."WandP Customer"
+  href: reference/wp-document-emails/PageExtension/WP.DocumentEmails.WandP-Customer.html
 - uid: O:PageExtension::WandPContiniaCustomerList
   name: WandPContiniaCustomerList
   fqName: PageExtension WandPContiniaCustomerList
@@ -4274,7 +4556,7 @@ references:
 - uid: O:PageExtension::WandPItemUoM
   name: WandPItemUoM
   fqName: PageExtension WandPItemUoM
-  href: reference/wp-uom-restriction/PageExtension/WandPItemUoM.html
+  href: reference/wp-uom-extension/PageExtension/WandPItemUoM.html
 - uid: O:PageExtension::WandPMiscCustomerCard
   name: WandPMiscCustomerCard
   fqName: PageExtension WandPMiscCustomerCard
@@ -4334,7 +4616,7 @@ references:
 - uid: O:PageExtension::WandPSalesOrderSubform
   name: WandPSalesOrderSubform
   fqName: PageExtension WandPSalesOrderSubform
-  href: reference/wp-uom-restriction/PageExtension/WandPSalesOrderSubform.html
+  href: reference/wp-uom-extension/PageExtension/WandPSalesOrderSubform.html
 - uid: O:PageExtension::WandPSalesRecSetup
   name: WandPSalesRecSetup
   fqName: PageExtension WandPSalesRecSetup
@@ -4593,6 +4875,14 @@ references:
   name: CustVendAttribRead
   fqName: PermissionSet WP.CustomerVendorAttributes.CustVendAttribRead
   href: reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribRead.html
+- uid: O:PermissionSet::WPDocumentEmails#WPDocumentEmails#WP_Doc_Email_Admin
+  name: "\"WP Doc Email Admin\""
+  fqName: PermissionSet WPDocumentEmails.WPDocumentEmails."WP Doc Email Admin"
+  href: reference/wp-document-emails/PermissionSet/WPDocumentEmails.WPDocumentEmails.WP-Doc-Email-Admin.html
+- uid: O:PermissionSet::WPDocumentEmails#WPDocumentEmails#WP_Doc_Email_Read
+  name: "\"WP Doc Email Read\""
+  fqName: PermissionSet WPDocumentEmails.WPDocumentEmails."WP Doc Email Read"
+  href: reference/wp-document-emails/PermissionSet/WPDocumentEmails.WPDocumentEmails.WP-Doc-Email-Read.html
 - uid: O:PermissionSet::WandPCarrier
   name: WandPCarrier
   fqName: PermissionSet WandPCarrier
@@ -4729,6 +5019,30 @@ references:
   name: "\"WandP invoices Processed\""
   fqName: Query "WandP invoices Processed"
   href: reference/wp-edi/Query/WandP-invoices-Processed.html
+- uid: O:Report::Resultant_Prices
+  name: "\"Resultant Prices\""
+  fqName: Report "Resultant Prices"
+  href: reference/wp-reports/Report/Resultant-Prices.html
+- uid: O:Report::WP#DocumentEmails#WandP_Sales_Credit_Send
+  name: "\"WandP Sales Credit Send\""
+  fqName: Report WP.DocumentEmails."WandP Sales Credit Send"
+  href: reference/wp-document-emails/Report/WP.DocumentEmails.WandP-Sales-Credit-Send.html
+- uid: O:Report::WP#DocumentEmails#WandP_Sales_Credit_Send_Test
+  name: "\"WandP Sales Credit Send Test\""
+  fqName: Report WP.DocumentEmails."WandP Sales Credit Send Test"
+  href: reference/wp-document-emails/Report/WP.DocumentEmails.WandP-Sales-Credit-Send-Test.html
+- uid: O:Report::WP#DocumentEmails#WandP_Sales_Invoice_Send
+  name: "\"WandP Sales Invoice Send\""
+  fqName: Report WP.DocumentEmails."WandP Sales Invoice Send"
+  href: reference/wp-document-emails/Report/WP.DocumentEmails.WandP-Sales-Invoice-Send.html
+- uid: O:Report::WP#DocumentEmails#WandP_Sales_Order_Send
+  name: "\"WandP Sales Order Send\""
+  fqName: Report WP.DocumentEmails."WandP Sales Order Send"
+  href: reference/wp-document-emails/Report/WP.DocumentEmails.WandP-Sales-Order-Send.html
+- uid: O:Report::WP#DocumentEmails#WandP_Sales_Shipment_Send
+  name: "\"WandP Sales Shipment Send\""
+  fqName: Report WP.DocumentEmails."WandP Sales Shipment Send"
+  href: reference/wp-document-emails/Report/WP.DocumentEmails.WandP-Sales-Shipment-Send.html
 - uid: O:Report::WandP_Consolidated_Invoice
   name: "\"WandP Consolidated Invoice\""
   fqName: Report "WandP Consolidated Invoice"
@@ -4825,10 +5139,18 @@ references:
   name: "\"Large Orders\""
   fqName: Table "Large Orders"
   href: reference/wp-reports/Table/Large-Orders.html
+- uid: O:Table::Next_day_picks
+  name: "\"Next day picks\""
+  fqName: Table "Next day picks"
+  href: reference/wp-reports/Table/Next-day-picks.html
 - uid: O:Table::PO_Freight_Only_O/s
   name: "\"PO Freight Only O/s\""
   fqName: Table "PO Freight Only O/s"
   href: reference/wp-reports/Table/PO-Freight-Only-O-s.html
+- uid: O:Table::Resultant_Prices
+  name: "\"Resultant Prices\""
+  fqName: Table "Resultant Prices"
+  href: reference/wp-reports/Table/Resultant-Prices.html
 - uid: O:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation
   name: "\"Cust/VendAttribValTranslation\""
   fqName: Table WP.CustomerVendorAttributes."Cust/VendAttribValTranslation"
@@ -4853,6 +5175,10 @@ references:
   name: "\"Customer / Vendor Attribute\""
   fqName: Table WP.CustomerVendorAttributes."Customer / Vendor Attribute"
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: O:Table::WP#DocumentEmails#Email_failures
+  name: "\"Email failures\""
+  fqName: Table WP.DocumentEmails."Email failures"
+  href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
 - uid: O:Table::WandP#Reporting#Large_Orders
   name: "\"Large Orders\""
   fqName: Table WandP.Reporting."Large Orders"
@@ -5005,6 +5331,14 @@ references:
   name: "\"Clever Credit Cust Entry\""
   fqName: TableExtension "Clever Credit Cust Entry"
   href: reference/wp-additional-fields/TableExtension/Clever-Credit-Cust-Entry.html
+- uid: O:TableExtension::Credit_Memo
+  name: "\"Credit Memo\""
+  fqName: TableExtension "Credit Memo"
+  href: reference/wp-reports/TableExtension/Credit-Memo.html
+- uid: O:TableExtension::WP#DocumentEmails#WandP_Customer
+  name: "\"WandP Customer\""
+  fqName: TableExtension WP.DocumentEmails."WandP Customer"
+  href: reference/wp-document-emails/TableExtension/WP.DocumentEmails.WandP-Customer.html
 - uid: O:TableExtension::WandP#Binfix#Bin_Content_Uom_Fix
   name: "\"Bin Content Uom Fix\""
   fqName: TableExtension WandP.Binfix."Bin Content Uom Fix"
@@ -5012,11 +5346,11 @@ references:
 - uid: O:TableExtension::WandPItemUoM
   name: WandPItemUoM
   fqName: TableExtension WandPItemUoM
-  href: reference/wp-uom-restriction/TableExtension/WandPItemUoM.html
+  href: reference/wp-uom-extension/TableExtension/WandPItemUoM.html
 - uid: O:TableExtension::WandPItemUoMrestrict
   name: WandPItemUoMrestrict
   fqName: TableExtension WandPItemUoMrestrict
-  href: reference/wp-uom-restriction/TableExtension/WandPItemUoMrestrict.html
+  href: reference/wp-uom-extension/TableExtension/WandPItemUoMrestrict.html
 - uid: O:TableExtension::WandPMiscCustomer
   name: WandPMiscCustomer
   fqName: TableExtension WandPMiscCustomer

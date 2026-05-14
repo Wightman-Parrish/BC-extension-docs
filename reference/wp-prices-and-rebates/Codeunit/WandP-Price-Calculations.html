@@ -10,7 +10,7 @@
       <link rel="stylesheet" href="../../../public/docfx.min.css">
       <link rel="stylesheet" href="../../../public/main.css">
       <meta name="docfx:navrel" content="../../../toc.html">
-      <meta name="docfx:tocrel" content="../toc.html">
+      <meta name="docfx:tocrel" content="../../../toc.html">
       
       
       
@@ -89,7 +89,7 @@
    <div class="memberInfo">
 
 
-   		<pre><code dir="ltr" class="hljs lang-al">procedure GetSalesRebate(billtocustomer: Code[20], date: Date): Decimal</code></pre>
+   		<pre><code dir="ltr" class="hljs lang-al">procedure GetSalesRebate(billtocustomer: Code[20]; date: Date): Decimal</code></pre>
 
    			<h4>Parameters</h4>
    			<table class="table">
@@ -149,7 +149,7 @@ Decimal               </td>
    <div class="memberInfo">
 
 
-   		<pre><code dir="ltr" class="hljs lang-al">procedure GetStdCost(itemcode: Code[20], uomcode: Code[20]): Decimal</code></pre>
+   		<pre><code dir="ltr" class="hljs lang-al">procedure GetStdCost(itemcode: Code[20]; uomcode: Code[20]): Decimal</code></pre>
 
    			<h4>Parameters</h4>
    			<table class="table">
@@ -209,7 +209,7 @@ Decimal               </td>
    <div class="memberInfo">
 
 
-   		<pre><code dir="ltr" class="hljs lang-al">procedure GetSuppCost(itemcode: Code[20], uomcode: Code[20]): Decimal</code></pre>
+   		<pre><code dir="ltr" class="hljs lang-al">procedure GetSuppCost(itemcode: Code[20]; uomcode: Code[20]): Decimal</code></pre>
 
    			<h4>Parameters</h4>
    			<table class="table">
@@ -269,7 +269,7 @@ Decimal               </td>
    <div class="memberInfo">
 
 
-   		<pre><code dir="ltr" class="hljs lang-al">procedure GetCost(itemcode: Code[20], uomcode: Code[20], type: Option): Decimal</code></pre>
+   		<pre><code dir="ltr" class="hljs lang-al">procedure GetCost(itemcode: Code[20]; uomcode: Code[20]; type: Option): Decimal</code></pre>
 
    			<h4>Parameters</h4>
    			<table class="table">
@@ -439,7 +439,7 @@ Decimal               </td>
    <div class="memberInfo">
 
 
-   		<pre><code dir="ltr" class="hljs lang-al">procedure GetListPrice(itemcode: Code[20], uomcode: Code[20]): Decimal</code></pre>
+   		<pre><code dir="ltr" class="hljs lang-al">procedure GetListPrice(itemcode: Code[20]; uomcode: Code[20]): Decimal</code></pre>
 
    			<h4>Parameters</h4>
    			<table class="table">
@@ -499,7 +499,7 @@ Decimal               </td>
    <div class="memberInfo">
 
 
-   		<pre><code dir="ltr" class="hljs lang-al">procedure GetPriceListPrice(itemcode: Code[20], uomcode: Code[20], PriceListName: Code[20]): Decimal</code></pre>
+   		<pre><code dir="ltr" class="hljs lang-al">procedure GetPriceListPrice(itemcode: Code[20]; uomcode: Code[20]; PriceListName: Code[20]): Decimal</code></pre>
 
    			<h4>Parameters</h4>
    			<table class="table">
@@ -569,7 +569,7 @@ Decimal               </td>
    <div class="memberInfo">
 
 
-   		<pre><code dir="ltr" class="hljs lang-al">procedure GetPriceListPrice(PriceListLine: Record &quot;Price List Line&quot;, PriceListName: Code[20]): Decimal</code></pre>
+   		<pre><code dir="ltr" class="hljs lang-al">procedure GetPriceListPrice(PriceListLine: Record &quot;Price List Line&quot;; PriceListName: Code[20]): Decimal</code></pre>
 
    			<h4>Parameters</h4>
    			<table class="table">
