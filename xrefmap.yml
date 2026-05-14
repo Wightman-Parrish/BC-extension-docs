@@ -679,6 +679,210 @@ references:
 - uid: F:Table::PO_Freight_Only_O/s.SystemRowVersion
   name: SystemRowVersion
   href: reference/wp-reports/Table/PO-Freight-Only-O-s.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation.Attribute_ID
+  name: "\"Attribute ID\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation.ID
+  name: ID
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation.Language_Code[10]
+  name: "\"Language Code\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation.Name[250]
+  name: Name
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation.SystemId
+  name: SystemId
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeTranslation.Attribute_ID
+  name: "\"Attribute ID\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeTranslation.Language_Code[10]
+  name: "\"Language Code\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeTranslation.Name[250]
+  name: Name
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeTranslation.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeTranslation.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeTranslation.SystemId
+  name: SystemId
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeTranslation.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeTranslation.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeTranslation.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeTranslation.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.Attribute_ID
+  name: "\"Attribute ID\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.Attribute_Name[250]
+  name: "\"Attribute Name\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.Attribute_Type
+  name: "\"Attribute Type\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.Blocked
+  name: Blocked
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.Inheritance_Level
+  name: "\"Inheritance Level\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.Inherited-From_Key_Value[20]
+  name: "\"Inherited-From Key Value\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.Inherited-From_Table_ID
+  name: "\"Inherited-From Table ID\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.SystemId
+  name: SystemId
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.Unit_of_Measure[30]
+  name: "\"Unit of Measure\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.Value[250]
+  name: Value
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attrib_Value_Mapping.Attribute_ID
+  name: "\"Attribute ID\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attrib_Value_Mapping.Attribute_Value_ID
+  name: "\"Attribute Value ID\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attrib_Value_Mapping.No#[20]
+  name: "\"No.\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attrib_Value_Mapping.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attrib_Value_Mapping.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attrib_Value_Mapping.SystemId
+  name: SystemId
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attrib_Value_Mapping.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attrib_Value_Mapping.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attrib_Value_Mapping.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attrib_Value_Mapping.Table_ID
+  name: "\"Table ID\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.Attribute_ID
+  name: "\"Attribute ID\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.Attribute_Name[250]
+  name: "\"Attribute Name\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.Blocked
+  name: Blocked
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.Date_Value
+  name: "\"Date Value\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.ID
+  name: ID
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.Numeric_Value
+  name: "\"Numeric Value\""
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.SystemId
+  name: SystemId
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: F:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.Value[250]
+  name: Value
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.Blocked
+  name: Blocked
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.ID
+  name: ID
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.Name[250]
+  name: Name
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.SourceType
+  name: SourceType
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.SystemId
+  name: SystemId
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.Type
+  name: Type
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
 - uid: F:Table::WandP#Reporting#Large_Orders.Customer_Group[20]
   name: "\"Customer Group\""
   href: reference/wp-reports/Table/WandP.Reporting.Large-Orders.html
@@ -3070,6 +3274,27 @@ references:
 - uid: M:Codeunit::WandP_WSCC_Core.PopulateWSCCCore(WandP_WSCC_Core@)
   name: PopulateWSCCCore
   href: reference/wp-reports/Codeunit/WandP-WSCC-Core.html
+- uid: M:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value_List.LoadAttributes(Integer,Code[20])
+  name: LoadAttributes
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.html
+- uid: M:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value_List.OnAfterAttributeValueMappingDelete(Integer,Code[20],Cust/VendAttributeValueSelect)
+  name: OnAfterAttributeValueMappingDelete
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.html
+- uid: M:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value_List.OnAfterAttributeValueMappingModify(Cust/Vend_Attrib_Value_Mapping@,Cust/VendAttributeValueSelect)
+  name: OnAfterAttributeValueMappingModify
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.html
+- uid: M:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value_List.OnBeforeAttributeValueMappingInsert(Cust/Vend_Attrib_Value_Mapping@,Cust/Vend_Attribute_Value,Cust/VendAttributeValueSelect)
+  name: OnBeforeAttributeValueMappingInsert
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.html
+- uid: M:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value_List.OnBeforeAttributeValueMappingModify(Cust/Vend_Attrib_Value_Mapping@,Cust/Vend_Attribute_Value,Code[20])
+  name: OnBeforeAttributeValueMappingModify
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.html
+- uid: M:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value_List.OnBeforeCheckAttributeName(Cust/VendAttributeValueSelect@,Code[20])
+  name: OnBeforeCheckAttributeName
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.html
+- uid: M:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value_List.OnLoadAttributesOnBeforeTempAttributeValueInsert(Cust/Vend_Attribute_Value@,Cust/Vend_Attrib_Value_Mapping,Code[20])
+  name: OnLoadAttributesOnBeforeTempAttributeValueInsert
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.html
 - uid: M:Page::WandPConsignmentDialog.GetInstructions:Text[1024]
   name: GetInstructions
   href: reference/wp-carriers/Page/WandPConsignmentDialog.html
@@ -3193,6 +3418,147 @@ references:
 - uid: M:Report::WandP_Consolidated_Invoice.InitializeRequest(Boolean,Boolean)
   name: InitializeRequest
   href: reference/wp-reports/Report/WandP-Consolidated-Invoice.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.FindAttributeByName(Customer_/_Vendor_Attribute@)
+  name: FindAttributeByName
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.FindAttributeValue(Cust/Vend_Attribute_Value@):Boolean
+  name: FindAttributeValue
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.FindAttributeValueFromRecord(Cust/Vend_Attribute_Value@,Cust/VendAttributeValueSelect):Boolean
+  name: FindAttributeValueFromRecord
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.GetAttributeValueID(Cust/Vend_Attribute_Value@):Integer
+  name: GetAttributeValueID
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.InsertAttributeValue(Cust/Vend_Attribute_Value@,Cust/VendAttributeValueSelect)
+  name: InsertAttributeValue
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.InsertRecord(Cust/Vend_Attribute_Value@,Integer,Code[20])
+  name: InsertRecord
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.IsNotBlankDate:Boolean
+  name: IsNotBlankDate
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.IsNotBlankDecimal(Text[250]):Boolean
+  name: IsNotBlankDecimal
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.OnBeforeFindAttributeCaseInsensitive(Customer_/_Vendor_Attribute@,Cust/VendAttributeValueSelect@)
+  name: OnBeforeFindAttributeCaseInsensitive
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.OnBeforeIsNotBlankDecimal(Cust/VendAttributeValueSelect@,Text[250],Boolean@,Boolean@)
+  name: OnBeforeIsNotBlankDecimal
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.OnFindAttributeValueFromRecordOnBeforeFindAttributeValueFromRecord(Cust/Vend_Attribute_Value@,Cust/VendAttributeValueSelect)
+  name: OnFindAttributeValueFromRecordOnBeforeFindAttributeValueFromRecord
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.OnGetAttributeValueIDOnBeforeInsertTempAttributeValue(Cust/Vend_Attribute_Value@,Cust/Vend_Attribute_Value@)
+  name: OnGetAttributeValueIDOnBeforeInsertTempAttributeValue
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.OnInsertAttributeValueOnBeforeInsertAttributeValue(Cust/Vend_Attribute_Value@,Cust/VendAttributeValueSelect@)
+  name: OnInsertAttributeValueOnBeforeInsertAttributeValue
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.OnInsertRecordOnBeforeAttrValueSelectionInsert(Cust/VendAttributeValueSelect@,Cust/Vend_Attribute_Value)
+  name: OnInsertRecordOnBeforeAttrValueSelectionInsert
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.OnPopulateAttributeValueOnBeforeInsert(Cust/VendAttributeValueSelect,Cust/Vend_Attribute_Value@)
+  name: OnPopulateAttributeValueOnBeforeInsert
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.OnValidateChangedAttributeOnBeforeValidateValue(Customer_/_Vendor_Attribute,Cust/VendAttributeValueSelect@)
+  name: OnValidateChangedAttributeOnBeforeValidateValue
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.PopulateAttributeValue(Cust/Vend_Attribute_Value@)
+  name: PopulateAttributeValue
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.PopulateAttributeValueSelection(Cust/Vend_Attribute_Value@)
+  name: PopulateAttributeValueSelection
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.PopulateAttributeValueSelection(Cust/Vend_Attribute_Value@,Integer,Code[20])
+  name: PopulateAttributeValueSelection
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attrib_Value_Mapping.OnBeforeOnDelete(Cust/Vend_Attrib_Value_Mapping@,Boolean@)
+  name: OnBeforeOnDelete
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attrib_Value_Mapping.RenameAttributeValueMapping(Integer,Code[20],Code[20])
+  name: RenameAttributeValueMapping
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.AttributeExists(Integer):Boolean
+  name: AttributeExists
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetAttributeNameInCurrentLanguage:Text[250]
+  name: GetAttributeNameInCurrentLanguage
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetTranslatedName(Integer):Text[250]
+  name: GetTranslatedName
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetTranslatedNameByLanguageCode(Code[10]):Text[250]
+  name: GetTranslatedNameByLanguageCode
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetValueInCurrentLanguage:Text[250]
+  name: GetValueInCurrentLanguage
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetValueInCurrentLanguageWithoutUnitOfMeasure:Text[250]
+  name: GetValueInCurrentLanguageWithoutUnitOfMeasure
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.HasBeenUsed:Boolean
+  name: HasBeenUsed
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.LoadCustomerAttributesFactBoxData(Code[20])
+  name: LoadCustomerAttributesFactBoxData
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.LoadVendorAttributesFactBoxData(Code[20])
+  name: LoadVendorAttributesFactBoxData
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.LookupAttributeValue(Integer,Integer@)
+  name: LookupAttributeValue
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.OnAfterGetValueInCurrentLanguage(Cust/Vend_Attribute_Value,Text[250]@)
+  name: OnAfterGetValueInCurrentLanguage
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.OnAfterHasBeenUsed(Cust/Vend_Attribute_Value,Boolean@)
+  name: OnAfterHasBeenUsed
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.OnBeforeSetValueFilter(Cust/Vend_Attribute_Value@,Customer_/_Vendor_Attribute,Text,Boolean@)
+  name: OnBeforeSetValueFilter
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.OnGetValueInCurrentLanguage(Customer_/_Vendor_Attribute,Cust/Vend_Attribute_Value@)
+  name: OnGetValueInCurrentLanguage
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.OnLoadAttributesFactBoxDataOnBeforeInsert(Cust/Vend_Attrib_Value_Mapping@,Cust/Vend_Attribute_Value@)
+  name: OnLoadAttributesFactBoxDataOnBeforeInsert
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.SetValueFilter(Customer_/_Vendor_Attribute@,Text)
+  name: SetValueFilter
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.GetNameInCurrentLanguage:Text[250]
+  name: GetNameInCurrentLanguage
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.GetTranslatedName(Integer):Text[250]
+  name: GetTranslatedName
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.GetValues:Text
+  name: GetValues
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.HasBeenUsed:Boolean
+  name: HasBeenUsed
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.OnAfterHasBeenUsed(Customer_/_Vendor_Attribute@,Boolean@)
+  name: OnAfterHasBeenUsed
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.OnBeforeCheckNameUniqueness(Customer_/_Vendor_Attribute@,Customer_/_Vendor_Attribute)
+  name: OnBeforeCheckNameUniqueness
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.OnBeforeGetTranslatedName(Customer_/_Vendor_Attribute@,Integer,Text[250]@,Boolean@)
+  name: OnBeforeGetTranslatedName
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.OnGetAttributeTranslationOnAfterCreateNewTranslation(Customer_/_Vendor_Attribute,Cust/VendAttributeTranslation@)
+  name: OnGetAttributeTranslationOnAfterCreateNewTranslation
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.OpenAttributeValues
+  name: OpenAttributeValues
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.RemoveUnusedArbitraryValues
+  name: RemoveUnusedArbitraryValues
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
 - uid: M:Table::WandP_Custom_Cues.InsertIfNotExists
   name: InsertIfNotExists
   href: reference/wp-reports/Table/WandP-Custom-Cues.html
@@ -3217,6 +3583,15 @@ references:
 - uid: N:Module::WP_Continia
   name: WP Continia
   href: reference/wp-continia/Module/WP-Continia.html
+- uid: N:Module::WP_Customer_Attributes
+  name: WP Customer Attributes
+  href: reference/wp-customer-attributes/Module/WP-Customer-Attributes.html
+- uid: N:Module::WP_Customer_Attributes::Namespace::WP
+  name: WP
+  href: reference/wp-customer-attributes/Namespace/WP.html
+- uid: N:Module::WP_Customer_Attributes::Namespace::WP.CustomerVendorAttributes
+  name: WP.CustomerVendorAttributes
+  href: reference/wp-customer-attributes/Namespace/WP.CustomerVendorAttributes.html
 - uid: N:Module::WP_Dangerous_goods
   name: WP Dangerous goods
   href: reference/wp-dangerous-goods/Module/WP-Dangerous-goods.html
@@ -3404,6 +3779,38 @@ references:
   name: "\"Shipping Agent Card\""
   fqName: Page "Shipping Agent Card"
   href: reference/wp-carriers/Page/Shipping-Agent-Card.html
+- uid: O:Page::WP#CustomerVendorAttributes#Cust/VendAttribValTranslations
+  name: "\"Cust/VendAttribValTranslations\""
+  fqName: Page WP.CustomerVendorAttributes."Cust/VendAttribValTranslations"
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-VendAttribValTranslations.html
+- uid: O:Page::WP#CustomerVendorAttributes#Cust/VendAttributeTranslations
+  name: "\"Cust/VendAttributeTranslations\""
+  fqName: Page WP.CustomerVendorAttributes."Cust/VendAttributeTranslations"
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-VendAttributeTranslations.html
+- uid: O:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value_List
+  name: "\"Cust/Vend Attribute Value List\""
+  fqName: Page WP.CustomerVendorAttributes."Cust/Vend Attribute Value List"
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.html
+- uid: O:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Values
+  name: "\"Cust/Vend Attribute Values\""
+  fqName: Page WP.CustomerVendorAttributes."Cust/Vend Attribute Values"
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Values.html
+- uid: O:Page::WP#CustomerVendorAttributes#Cust_Attrib_Value_Editor
+  name: "\"Cust Attrib Value Editor\""
+  fqName: Page WP.CustomerVendorAttributes."Cust Attrib Value Editor"
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Attrib-Value-Editor.html
+- uid: O:Page::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute
+  name: "\"Customer / Vendor Attribute\""
+  fqName: Page WP.CustomerVendorAttributes."Customer / Vendor Attribute"
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
+- uid: O:Page::WP#CustomerVendorAttributes#Customer_/_Vendor_Attributes
+  name: "\"Customer / Vendor Attributes\""
+  fqName: Page WP.CustomerVendorAttributes."Customer / Vendor Attributes"
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Customer---Vendor-Attributes.html
+- uid: O:Page::WP#CustomerVendorAttributes#Vend_Attrib_Value_Editor
+  name: "\"Vend Attrib Value Editor\""
+  fqName: Page WP.CustomerVendorAttributes."Vend Attrib Value Editor"
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Vend-Attrib-Value-Editor.html
 - uid: O:Page::WandP#Reporting#Large_Orders
   name: "\"Large Orders\""
   fqName: Page WandP.Reporting."Large Orders"
@@ -3816,6 +4223,14 @@ references:
   name: SalesInvSubform
   fqName: PageExtension SalesInvSubform
   href: reference/wp-carriers/PageExtension/SalesInvSubform.html
+- uid: O:PageExtension::WP#CustomerVendorAttributes#Customer_Card
+  name: "\"Customer Card\""
+  fqName: PageExtension WP.CustomerVendorAttributes."Customer Card"
+  href: reference/wp-customer-attributes/PageExtension/WP.CustomerVendorAttributes.Customer-Card.html
+- uid: O:PageExtension::WP#CustomerVendorAttributes#Vendor_Card
+  name: "\"Vendor Card\""
+  fqName: PageExtension WP.CustomerVendorAttributes."Vendor Card"
+  href: reference/wp-customer-attributes/PageExtension/WP.CustomerVendorAttributes.Vendor-Card.html
 - uid: O:PageExtension::WandPContiniaCustomerList
   name: WandPContiniaCustomerList
   fqName: PageExtension WandPContiniaCustomerList
@@ -4166,6 +4581,18 @@ references:
   name: CueTableUser
   fqName: PermissionSet CueTableUser
   href: reference/wp-reports/PermissionSet/CueTableUser.html
+- uid: O:PermissionSet::WP#CustomerVendorAttributes#CustVendAttribApply
+  name: CustVendAttribApply
+  fqName: PermissionSet WP.CustomerVendorAttributes.CustVendAttribApply
+  href: reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribApply.html
+- uid: O:PermissionSet::WP#CustomerVendorAttributes#CustVendAttribEdit
+  name: CustVendAttribEdit
+  fqName: PermissionSet WP.CustomerVendorAttributes.CustVendAttribEdit
+  href: reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribEdit.html
+- uid: O:PermissionSet::WP#CustomerVendorAttributes#CustVendAttribRead
+  name: CustVendAttribRead
+  fqName: PermissionSet WP.CustomerVendorAttributes.CustVendAttribRead
+  href: reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribRead.html
 - uid: O:PermissionSet::WandPCarrier
   name: WandPCarrier
   fqName: PermissionSet WandPCarrier
@@ -4402,6 +4829,30 @@ references:
   name: "\"PO Freight Only O/s\""
   fqName: Table "PO Freight Only O/s"
   href: reference/wp-reports/Table/PO-Freight-Only-O-s.html
+- uid: O:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation
+  name: "\"Cust/VendAttribValTranslation\""
+  fqName: Table WP.CustomerVendorAttributes."Cust/VendAttribValTranslation"
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html
+- uid: O:Table::WP#CustomerVendorAttributes#Cust/VendAttributeTranslation
+  name: "\"Cust/VendAttributeTranslation\""
+  fqName: Table WP.CustomerVendorAttributes."Cust/VendAttributeTranslation"
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeTranslation.html
+- uid: O:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect
+  name: "\"Cust/VendAttributeValueSelect\""
+  fqName: Table WP.CustomerVendorAttributes."Cust/VendAttributeValueSelect"
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
+- uid: O:Table::WP#CustomerVendorAttributes#Cust/Vend_Attrib_Value_Mapping
+  name: "\"Cust/Vend Attrib Value Mapping\""
+  fqName: Table WP.CustomerVendorAttributes."Cust/Vend Attrib Value Mapping"
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.html
+- uid: O:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value
+  name: "\"Cust/Vend Attribute Value\""
+  fqName: Table WP.CustomerVendorAttributes."Cust/Vend Attribute Value"
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: O:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute
+  name: "\"Customer / Vendor Attribute\""
+  fqName: Table WP.CustomerVendorAttributes."Customer / Vendor Attribute"
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
 - uid: O:Table::WandP#Reporting#Large_Orders
   name: "\"Large Orders\""
   fqName: Table WandP.Reporting."Large Orders"

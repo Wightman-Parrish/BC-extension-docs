@@ -1934,6 +1934,239 @@
       "version": ""
     },
     {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-customer-attributes/Module/WP-Customer-Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Module/WP-Customer-Attributes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-customer-attributes/Namespace/WP.CustomerVendorAttributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Namespace/WP.CustomerVendorAttributes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-customer-attributes/Namespace/WP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Namespace/WP.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Attrib-Value-Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Attrib-Value-Editor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Values.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Values.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-VendAttribValTranslations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-VendAttribValTranslations.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-VendAttributeTranslations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-VendAttributeTranslations.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Customer---Vendor-Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Customer---Vendor-Attributes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Vend-Attrib-Value-Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Vend-Attrib-Value-Editor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/PageExtension/WP.CustomerVendorAttributes.Customer-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/PageExtension/WP.CustomerVendorAttributes.Customer-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/PageExtension/WP.CustomerVendorAttributes.Vendor-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/PageExtension/WP.CustomerVendorAttributes.Vendor-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribApply.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribApply.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribEdit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribEdit.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribRead.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribRead.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attrib-Value-Mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeTranslation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeTranslation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-customer-attributes/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-customer-attributes/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-dangerous-goods/Codeunit/WandP-Dangerous-Goods.yml",
       "output": {
