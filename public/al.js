@@ -110,6 +110,8 @@ export function al(hljs) {
 
   var BUILTIN_TYPES_KEYWORDS = [
     'action',
+    'analysisviews',
+    'analysisview',
     'array',
     'automation',
     'biginteger',

@@ -774,6 +774,19 @@
       "version": ""
     },
     {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-additional-fields/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-additional-fields/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-additional-fields/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-alerts/Codeunit/WandP-Alert-subscriber.yml",
       "output": {
@@ -819,6 +832,19 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-alerts/TableExtension/WandPSalesRecSetup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-alerts/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-alerts/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-alerts/toc.json"
         }
       },
       "version": ""
@@ -1444,6 +1470,19 @@
       "version": ""
     },
     {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-api-pages/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-api-pages/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-api-pages/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-carriers/Codeunit/WandP-APC.yml",
       "output": {
@@ -1704,6 +1743,19 @@
       "version": ""
     },
     {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-carriers/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-carriers/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralNamespace",
       "source_relative_path": "reference/wp-continia/Module/WP-Continia.yml",
       "output": {
@@ -1934,6 +1986,19 @@
       "version": ""
     },
     {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-continia/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-continia/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralNamespace",
       "source_relative_path": "reference/wp-customer-attributes/Module/WP-Customer-Attributes.yml",
       "output": {
@@ -2154,19 +2219,6 @@
       "version": ""
     },
     {
-      "type": "Toc",
-      "source_relative_path": "reference/wp-customer-attributes/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "reference/wp-customer-attributes/toc.html"
-        },
-        ".json": {
-          "relative_path": "reference/wp-customer-attributes/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-dangerous-goods/Codeunit/WandP-Dangerous-Goods.yml",
       "output": {
@@ -2267,6 +2319,19 @@
       "version": ""
     },
     {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-dangerous-goods/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-dangerous-goods/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-dangerous-goods/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-document-emails/Codeunit/WandP-DocEmail.yml",
       "output": {
@@ -2352,6 +2417,19 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-document-emails/TableExtension/WandP-Customer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-document-emails/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-document-emails/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-document-emails/toc.json"
         }
       },
       "version": ""
@@ -2467,6 +2545,19 @@
       "version": ""
     },
     {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-edi/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-edi/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-edi/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-explosive-precursors/Codeunit/EPC.yml",
       "output": {
@@ -2542,6 +2633,19 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-explosive-precursors/TableExtension/WandP-EPC-Sales-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-explosive-precursors/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-explosive-precursors/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-explosive-precursors/toc.json"
         }
       },
       "version": ""
@@ -2732,6 +2836,19 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-its-extension/Table/WandP-ITS-Temp-Data.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-its-extension/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-its-extension/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-its-extension/toc.json"
         }
       },
       "version": ""
@@ -3077,6 +3194,19 @@
       "version": ""
     },
     {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-prices-and-rebates/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-prices-and-rebates/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-prices-and-rebates/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-qc-bins/Codeunit/WandP-QC-Bins-events.yml",
       "output": {
@@ -3112,6 +3242,19 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-qc-bins/TableExtension/WandP-QC-Bin.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-qc-bins/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-qc-bins/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-qc-bins/toc.json"
         }
       },
       "version": ""
@@ -3817,6 +3960,19 @@
       "version": ""
     },
     {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-reports/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-reports/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-reports/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-restrictive-catalogues/Codeunit/WandP-Snapshot-Catalogue.yml",
       "output": {
@@ -4017,6 +4173,19 @@
       "version": ""
     },
     {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-restrictive-catalogues/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-restrictive-catalogues/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-sales-order-management/Codeunit/WandP-CTP-update.yml",
       "output": {
@@ -4147,6 +4316,19 @@
       "version": ""
     },
     {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-sales-order-management/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-sales-order-management/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-sales-order-management/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralNamespace",
       "source_relative_path": "reference/wp-uom-bin-fix/Module/WP-Uom-Bin-Fix.yml",
       "output": {
@@ -4197,6 +4379,19 @@
       "version": ""
     },
     {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-uom-bin-fix/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-uom-bin-fix/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-uom-bin-fix/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralNamespace",
       "source_relative_path": "reference/wp-uom-restriction/Module/WP-UoM-restriction.yml",
       "output": {
@@ -4242,6 +4437,19 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-uom-restriction/TableExtension/WandPItemUoMrestrict.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-uom-restriction/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-uom-restriction/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-uom-restriction/toc.json"
         }
       },
       "version": ""
