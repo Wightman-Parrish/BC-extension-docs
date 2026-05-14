@@ -1,6 +1,63 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
+- uid: C:Query::WP#APIPages#Item_Attributes_API.Item.Item_Attribute_Value_Mapping.Item_Attribute_ID
+  name: Item_Attribute_ID
+  href: reference/wp-api-pages/Query/WP.APIPages.Item-Attributes-API.html
+- uid: C:Query::WP#APIPages#Item_Attributes_API.Item.Item_Attribute_Value_Mapping.Item_Attribute_Value_ID
+  name: Item_Attribute_Value_ID
+  href: reference/wp-api-pages/Query/WP.APIPages.Item-Attributes-API.html
+- uid: C:Query::WP#APIPages#Item_Attributes_API.Item.Item_Attribute_Value_Mapping.itemAttribute.Name
+  name: Name
+  href: reference/wp-api-pages/Query/WP.APIPages.Item-Attributes-API.html
+- uid: C:Query::WP#APIPages#Item_Attributes_API.Item.Item_Attribute_Value_Mapping.itemAttribute.Queryelement10.Numeric_Value
+  name: Numeric_Value
+  href: reference/wp-api-pages/Query/WP.APIPages.Item-Attributes-API.html
+- uid: C:Query::WP#APIPages#Item_Attributes_API.Item.Item_Attribute_Value_Mapping.itemAttribute.Queryelement10.Value
+  name: Value
+  href: reference/wp-api-pages/Query/WP.APIPages.Item-Attributes-API.html
+- uid: C:Query::WP#APIPages#Item_Attributes_API.Item.itemNumber
+  name: itemNumber
+  href: reference/wp-api-pages/Query/WP.APIPages.Item-Attributes-API.html
+- uid: C:Query::WP#APIPages#WandP_Direct_Debit_Collection.Cust__Ledger_Entry.customer.Customer_Bank_Account.SEPA_Direct_Debit_Mandate.Blocked
+  name: Blocked
+  href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#WandP_Direct_Debit_Collection.Cust__Ledger_Entry.customer.Customer_Bank_Account.SEPA_Direct_Debit_Mandate.Closed
+  name: Closed
+  href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#WandP_Direct_Debit_Collection.Cust__Ledger_Entry.customer.Customer_Bank_Account.SEPA_Direct_Debit_Mandate.ID
+  name: ID
+  href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#WandP_Direct_Debit_Collection.Cust__Ledger_Entry.customer.Customer_Bank_Account.bankAccountNo
+  name: bankAccountNo
+  href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#WandP_Direct_Debit_Collection.Cust__Ledger_Entry.customer.Customer_Bank_Account.bankBranchNo
+  name: bankBranchNo
+  href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#WandP_Direct_Debit_Collection.Cust__Ledger_Entry.customer.balanceDue
+  name: balanceDue
+  href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#WandP_Direct_Debit_Collection.Cust__Ledger_Entry.customer.name
+  name: name
+  href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#WandP_Direct_Debit_Collection.Cust__Ledger_Entry.customerNo
+  name: customerNo
+  href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#WandP_Direct_Debit_Collection.Cust__Ledger_Entry.documentNo
+  name: documentNo
+  href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#WandP_Direct_Debit_Collection.Cust__Ledger_Entry.documentType
+  name: documentType
+  href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#WandP_Direct_Debit_Collection.Cust__Ledger_Entry.dueDate
+  name: dueDate
+  href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#WandP_Direct_Debit_Collection.Cust__Ledger_Entry.positive
+  name: positive
+  href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#WandP_Direct_Debit_Collection.Cust__Ledger_Entry.remainingAmount
+  name: remainingAmount
+  href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
 - uid: C:Query::WandPDropShipNoPO.SalesHeader.No_
   name: No_
   href: reference/wp-reports/Query/WandPDropShipNoPO.html
@@ -3472,6 +3529,33 @@ references:
 - uid: M:Codeunit::WandP_WSCC_Core.PopulateWSCCCore(WandP_WSCC_Core@)
   name: PopulateWSCCCore
   href: reference/wp-reports/Codeunit/WandP-WSCC-Core.html
+- uid: M:Page::WP#APIPages#Contacts_API.IsEnterpriseNumber(FieldRef@):Boolean
+  name: IsEnterpriseNumber
+  href: reference/wp-api-pages/Page/WP.APIPages.Contacts-API.html
+- uid: M:Page::WP#APIPages#Customers_API.IsEnterpriseNumber(FieldRef@):Boolean
+  name: IsEnterpriseNumber
+  href: reference/wp-api-pages/Page/WP.APIPages.Customers-API.html
+- uid: M:Page::WP#APIPages#Sales_Header_API.CDDProcess(WebServiceActionContext@)
+  name: CDDProcess
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Header-API.html
+- uid: M:Page::WP#APIPages#Sales_Header_API.RunCTPOnOrder(WebServiceActionContext@)
+  name: RunCTPOnOrder
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Header-API.html
+- uid: M:Page::WP#APIPages#Sales_Header_API.SendStockAlert(WebServiceActionContext@)
+  name: SendStockAlert
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Header-API.html
+- uid: M:Page::WP#APIPages#Sales_Header_API.releaseOrder(WebServiceActionContext@)
+  name: releaseOrder
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Header-API.html
+- uid: M:Page::WP#APIPages#Sales_Header_API.reopenOrder(WebServiceActionContext@)
+  name: reopenOrder
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Header-API.html
+- uid: M:Page::WP#APIPages#Sales_Line_API.autoreserveLine(WebServiceActionContext@)
+  name: autoreserveLine
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Line-API.html
+- uid: M:Page::WP#APIPages#Sales_Orders_API.ShipAndInvoice(WebServiceActionContext@)
+  name: ShipAndInvoice
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Orders-API.html
 - uid: M:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value_List.LoadAttributes(Integer,Code[20])
   name: LoadAttributes
   href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.html
@@ -3778,6 +3862,12 @@ references:
 - uid: N:Module::WP_API_pages
   name: WP API pages
   href: reference/wp-api-pages/Module/WP-API-pages.html
+- uid: N:Module::WP_API_pages::Namespace::WP
+  name: WP
+  href: reference/wp-api-pages/Namespace/WP.html
+- uid: N:Module::WP_API_pages::Namespace::WP.APIPages
+  name: WP.APIPages
+  href: reference/wp-api-pages/Namespace/WP.APIPages.html
 - uid: N:Module::WP_API_pages::Namespace::WPAPIpagesBCextension
   name: WPAPIpagesBCextension
   href: reference/wp-api-pages/Namespace/WPAPIpagesBCextension.html
@@ -4033,6 +4123,250 @@ references:
   name: "\"Shipping Agent Card\""
   fqName: Page "Shipping Agent Card"
   href: reference/wp-carriers/Page/Shipping-Agent-Card.html
+- uid: O:Page::WP#APIPages#Base_Calendar_API
+  name: "\"Base Calendar API\""
+  fqName: Page WP.APIPages."Base Calendar API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Base-Calendar-API.html
+- uid: O:Page::WP#APIPages#Bin_Content_API
+  name: "\"Bin Content API\""
+  fqName: Page WP.APIPages."Bin Content API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Bin-Content-API.html
+- uid: O:Page::WP#APIPages#Bins_API
+  name: "\"Bins API\""
+  fqName: Page WP.APIPages."Bins API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Bins-API.html
+- uid: O:Page::WP#APIPages#CDC_Document_API
+  name: "\"CDC Document API\""
+  fqName: Page WP.APIPages."CDC Document API"
+  href: reference/wp-api-pages/Page/WP.APIPages.CDC-Document-API.html
+- uid: O:Page::WP#APIPages#Contact_Bus_Relation_API
+  name: "\"Contact Bus Relation API\""
+  fqName: Page WP.APIPages."Contact Bus Relation API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Contact-Bus-Relation-API.html
+- uid: O:Page::WP#APIPages#Contacts_API
+  name: "\"Contacts API\""
+  fqName: Page WP.APIPages."Contacts API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Contacts-API.html
+- uid: O:Page::WP#APIPages#CustomerItemRestrictAPI
+  name: CustomerItemRestrictAPI
+  fqName: Page WP.APIPages.CustomerItemRestrictAPI
+  href: reference/wp-api-pages/Page/WP.APIPages.CustomerItemRestrictAPI.html
+- uid: O:Page::WP#APIPages#Customer_Ledger_API
+  name: "\"Customer Ledger API\""
+  fqName: Page WP.APIPages."Customer Ledger API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Customer-Ledger-API.html
+- uid: O:Page::WP#APIPages#Customers_API
+  name: "\"Customers API\""
+  fqName: Page WP.APIPages."Customers API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Customers-API.html
+- uid: O:Page::WP#APIPages#Default_Dimensions_API
+  name: "\"Default Dimensions API\""
+  fqName: Page WP.APIPages."Default Dimensions API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Default-Dimensions-API.html
+- uid: O:Page::WP#APIPages#Dimension_Values_API
+  name: "\"Dimension Values API\""
+  fqName: Page WP.APIPages."Dimension Values API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Dimension-Values-API.html
+- uid: O:Page::WP#APIPages#Email_Failure_API
+  name: "\"Email Failure API\""
+  fqName: Page WP.APIPages."Email Failure API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Email-Failure-API.html
+- uid: O:Page::WP#APIPages#Entity_Text_API
+  name: "\"Entity Text API\""
+  fqName: Page WP.APIPages."Entity Text API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Entity-Text-API.html
+- uid: O:Page::WP#APIPages#Extended_Text_Header_API
+  name: "\"Extended Text Header API\""
+  fqName: Page WP.APIPages."Extended Text Header API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Extended-Text-Header-API.html
+- uid: O:Page::WP#APIPages#Extended_Text_Line_API
+  name: "\"Extended Text Line API\""
+  fqName: Page WP.APIPages."Extended Text Line API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Extended-Text-Line-API.html
+- uid: O:Page::WP#APIPages#G/L_Entries_API
+  name: "\"G/L Entries API\""
+  fqName: Page WP.APIPages."G/L Entries API"
+  href: reference/wp-api-pages/Page/WP.APIPages.G-L-Entries-API.html
+- uid: O:Page::WP#APIPages#GL_Account_API
+  name: "\"GL Account API\""
+  fqName: Page WP.APIPages."GL Account API"
+  href: reference/wp-api-pages/Page/WP.APIPages.GL-Account-API.html
+- uid: O:Page::WP#APIPages#ITS_Item_Overrides_API
+  name: "\"ITS Item Overrides API\""
+  fqName: Page WP.APIPages."ITS Item Overrides API"
+  href: reference/wp-api-pages/Page/WP.APIPages.ITS-Item-Overrides-API.html
+- uid: O:Page::WP#APIPages#Item_Categories_API
+  name: "\"Item Categories API\""
+  fqName: Page WP.APIPages."Item Categories API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Item-Categories-API.html
+- uid: O:Page::WP#APIPages#Item_Charge_API
+  name: "\"Item Charge API\""
+  fqName: Page WP.APIPages."Item Charge API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Item-Charge-API.html
+- uid: O:Page::WP#APIPages#Item_Ledger_API
+  name: "\"Item Ledger API\""
+  fqName: Page WP.APIPages."Item Ledger API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Item-Ledger-API.html
+- uid: O:Page::WP#APIPages#Item_Substitution_API
+  name: "\"Item Substitution API\""
+  fqName: Page WP.APIPages."Item Substitution API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Item-Substitution-API.html
+- uid: O:Page::WP#APIPages#Item_Uom_API
+  name: "\"Item Uom API\""
+  fqName: Page WP.APIPages."Item Uom API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Item-Uom-API.html
+- uid: O:Page::WP#APIPages#MetadataPermAPI
+  name: MetadataPermAPI
+  fqName: Page WP.APIPages.MetadataPermAPI
+  href: reference/wp-api-pages/Page/WP.APIPages.MetadataPermAPI.html
+- uid: O:Page::WP#APIPages#Page_Metadata
+  name: "\"Page Metadata\""
+  fqName: Page WP.APIPages."Page Metadata"
+  href: reference/wp-api-pages/Page/WP.APIPages.Page-Metadata.html
+- uid: O:Page::WP#APIPages#Posted_Whs_Ship_Head_API
+  name: "\"Posted Whs Ship Head API\""
+  fqName: Page WP.APIPages."Posted Whs Ship Head API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Posted-Whs-Ship-Head-API.html
+- uid: O:Page::WP#APIPages#Posted_Whs_Ship_Line_API
+  name: "\"Posted Whs Ship Line API\""
+  fqName: Page WP.APIPages."Posted Whs Ship Line API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Posted-Whs-Ship-Line-API.html
+- uid: O:Page::WP#APIPages#Price_List_API
+  name: "\"Price List API\""
+  fqName: Page WP.APIPages."Price List API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Price-List-API.html
+- uid: O:Page::WP#APIPages#Price_List_Line_API
+  name: "\"Price List Line API\""
+  fqName: Page WP.APIPages."Price List Line API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Price-List-Line-API.html
+- uid: O:Page::WP#APIPages#Purch_Inv_Header_API
+  name: "\"Purch Inv Header API\""
+  fqName: Page WP.APIPages."Purch Inv Header API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Purch-Inv-Header-API.html
+- uid: O:Page::WP#APIPages#Purch_Inv_Line_API
+  name: "\"Purch Inv Line API\""
+  fqName: Page WP.APIPages."Purch Inv Line API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Purch-Inv-Line-API.html
+- uid: O:Page::WP#APIPages#PurchaseLineAPI
+  name: PurchaseLineAPI
+  fqName: Page WP.APIPages.PurchaseLineAPI
+  href: reference/wp-api-pages/Page/WP.APIPages.PurchaseLineAPI.html
+- uid: O:Page::WP#APIPages#Purchase_Header_API
+  name: "\"Purchase Header API\""
+  fqName: Page WP.APIPages."Purchase Header API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Purchase-Header-API.html
+- uid: O:Page::WP#APIPages#Return_Receipt_Header_API
+  name: "\"Return Receipt Header API\""
+  fqName: Page WP.APIPages."Return Receipt Header API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Return-Receipt-Header-API.html
+- uid: O:Page::WP#APIPages#Return_Receipt_Line_API
+  name: "\"Return Receipt Line API\""
+  fqName: Page WP.APIPages."Return Receipt Line API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Return-Receipt-Line-API.html
+- uid: O:Page::WP#APIPages#Return_Shipment_Head_API
+  name: "\"Return Shipment Head API\""
+  fqName: Page WP.APIPages."Return Shipment Head API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Return-Shipment-Head-API.html
+- uid: O:Page::WP#APIPages#Return_Shipment_Line_API
+  name: "\"Return Shipment Line API\""
+  fqName: Page WP.APIPages."Return Shipment Line API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Return-Shipment-Line-API.html
+- uid: O:Page::WP#APIPages#SKU_API
+  name: "\"SKU API\""
+  fqName: Page WP.APIPages."SKU API"
+  href: reference/wp-api-pages/Page/WP.APIPages.SKU-API.html
+- uid: O:Page::WP#APIPages#Sales_Cr_Memo_Header_API
+  name: "\"Sales Cr Memo Header API\""
+  fqName: Page WP.APIPages."Sales Cr Memo Header API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Cr-Memo-Header-API.html
+- uid: O:Page::WP#APIPages#Sales_Cr_Memo_Line_API
+  name: "\"Sales Cr Memo Line API\""
+  fqName: Page WP.APIPages."Sales Cr Memo Line API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Cr-Memo-Line-API.html
+- uid: O:Page::WP#APIPages#Sales_Header_API
+  name: "\"Sales Header API\""
+  fqName: Page WP.APIPages."Sales Header API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Header-API.html
+- uid: O:Page::WP#APIPages#Sales_Header_Archive_API
+  name: "\"Sales Header Archive API\""
+  fqName: Page WP.APIPages."Sales Header Archive API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Header-Archive-API.html
+- uid: O:Page::WP#APIPages#Sales_Invoice_Header_API
+  name: "\"Sales Invoice Header API\""
+  fqName: Page WP.APIPages."Sales Invoice Header API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Invoice-Header-API.html
+- uid: O:Page::WP#APIPages#Sales_Invoice_Line_API
+  name: "\"Sales Invoice Line API\""
+  fqName: Page WP.APIPages."Sales Invoice Line API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Invoice-Line-API.html
+- uid: O:Page::WP#APIPages#Sales_Line_API
+  name: "\"Sales Line API\""
+  fqName: Page WP.APIPages."Sales Line API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Line-API.html
+- uid: O:Page::WP#APIPages#Sales_Line_Archive_API
+  name: "\"Sales Line Archive API\""
+  fqName: Page WP.APIPages."Sales Line Archive API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Line-Archive-API.html
+- uid: O:Page::WP#APIPages#Sales_Order_Lines_API
+  name: "\"Sales Order Lines API\""
+  fqName: Page WP.APIPages."Sales Order Lines API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Order-Lines-API.html
+- uid: O:Page::WP#APIPages#Sales_Orders_API
+  name: "\"Sales Orders API\""
+  fqName: Page WP.APIPages."Sales Orders API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Orders-API.html
+- uid: O:Page::WP#APIPages#Sales_Shipment_Lines_API
+  name: "\"Sales Shipment Lines API\""
+  fqName: Page WP.APIPages."Sales Shipment Lines API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Shipment-Lines-API.html
+- uid: O:Page::WP#APIPages#Sales_Shipments_API
+  name: "\"Sales Shipments API\""
+  fqName: Page WP.APIPages."Sales Shipments API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Sales-Shipments-API.html
+- uid: O:Page::WP#APIPages#Salesperson_API
+  name: "\"Salesperson API\""
+  fqName: Page WP.APIPages."Salesperson API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Salesperson-API.html
+- uid: O:Page::WP#APIPages#ShiptoAddressesAPI
+  name: ShiptoAddressesAPI
+  fqName: Page WP.APIPages.ShiptoAddressesAPI
+  href: reference/wp-api-pages/Page/WP.APIPages.ShiptoAddressesAPI.html
+- uid: O:Page::WP#APIPages#Team_Salesperson_API
+  name: "\"Team Salesperson API\""
+  fqName: Page WP.APIPages."Team Salesperson API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Team-Salesperson-API.html
+- uid: O:Page::WP#APIPages#TenantPermissionAPI
+  name: TenantPermissionAPI
+  fqName: Page WP.APIPages.TenantPermissionAPI
+  href: reference/wp-api-pages/Page/WP.APIPages.TenantPermissionAPI.html
+- uid: O:Page::WP#APIPages#Value_Entry_API
+  name: "\"Value Entry API\""
+  fqName: Page WP.APIPages."Value Entry API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Value-Entry-API.html
+- uid: O:Page::WP#APIPages#Vend_Ledger_API
+  name: "\"Vend Ledger API\""
+  fqName: Page WP.APIPages."Vend Ledger API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Vend-Ledger-API.html
+- uid: O:Page::WP#APIPages#WP_Processed_Tx_API
+  name: "\"WP Processed Tx API\""
+  fqName: Page WP.APIPages."WP Processed Tx API"
+  href: reference/wp-api-pages/Page/WP.APIPages.WP-Processed-Tx-API.html
+- uid: O:Page::WP#APIPages#WandP_Access_Control_API
+  name: "\"WandP Access Control API\""
+  fqName: Page WP.APIPages."WandP Access Control API"
+  href: reference/wp-api-pages/Page/WP.APIPages.WandP-Access-Control-API.html
+- uid: O:Page::WP#APIPages#WandP_Items_API
+  name: "\"WandP Items API\""
+  fqName: Page WP.APIPages."WandP Items API"
+  href: reference/wp-api-pages/Page/WP.APIPages.WandP-Items-API.html
+- uid: O:Page::WP#APIPages#Whse_Shipment_API
+  name: "\"Whse Shipment API\""
+  fqName: Page WP.APIPages."Whse Shipment API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Whse-Shipment-API.html
+- uid: O:Page::WP#APIPages#Whse_Shipment_Lines_API
+  name: "\"Whse Shipment Lines API\""
+  fqName: Page WP.APIPages."Whse Shipment Lines API"
+  href: reference/wp-api-pages/Page/WP.APIPages.Whse-Shipment-Lines-API.html
 - uid: O:Page::WP#CustomerVendorAttributes#Cust/VendAttribValTranslations
   name: "\"Cust/VendAttribValTranslations\""
   fqName: Page WP.CustomerVendorAttributes."Cust/VendAttribValTranslations"
@@ -4955,6 +5289,14 @@ references:
   name: "\"WandP Table A Read\""
   fqName: PermissionSet "WandP Table A Read"
   href: reference/wp-dangerous-goods/PermissionSet/WandP-Table-A-Read.html
+- uid: O:Query::WP#APIPages#Item_Attributes_API
+  name: "\"Item Attributes API\""
+  fqName: Query WP.APIPages."Item Attributes API"
+  href: reference/wp-api-pages/Query/WP.APIPages.Item-Attributes-API.html
+- uid: O:Query::WP#APIPages#WandP_Direct_Debit_Collection
+  name: "\"WandP Direct Debit Collection\""
+  fqName: Query WP.APIPages."WandP Direct Debit Collection"
+  href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
 - uid: O:Query::WandPDropShipNoPO
   name: WandPDropShipNoPO
   fqName: Query WandPDropShipNoPO
