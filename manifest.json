@@ -3264,6 +3264,46 @@
       "version": ""
     },
     {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-edi/Namespace/WP.EDI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-edi/Namespace/WP.EDI.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-edi/Namespace/WP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-edi/Namespace/WP.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-edi/Page/WP.EDI.WandP-Indicater.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-edi/Page/WP.EDI.WandP-Indicater.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-edi/Page/WP.EDI.WandP-Processed-Tx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-edi/Page/WP.EDI.WandP-Processed-Tx.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-edi/Page/WandP-Indicater.yml",
       "output": {
@@ -3285,10 +3325,50 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-edi/PermissionSet/WP.EDI.WandP-EDI-Edit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-edi/PermissionSet/WP.EDI.WandP-EDI-Edit.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-edi/PermissionSet/WandP-EDI-Edit.yml",
       "output": {
         ".html": {
           "relative_path": "reference/wp-edi/PermissionSet/WandP-EDI-Edit.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankOver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankOver.html"
         }
       },
       "version": ""
@@ -3325,6 +3405,26 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-edi/Table/WP.EDI.WandP-Indicater.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-edi/Table/WP.EDI.WandP-Indicater.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-edi/Table/WandP-Indicater.yml",
       "output": {
         ".html": {
@@ -3339,6 +3439,26 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-edi/Table/WandP-Processed-Tx.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-edi/TableExtension/WP.EDI.WandP-Credit-EDI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-edi/TableExtension/WP.EDI.WandP-Credit-EDI.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-edi/TableExtension/WP.EDI.WandP-Invoice-EDI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-edi/TableExtension/WP.EDI.WandP-Invoice-EDI.html"
         }
       },
       "version": ""

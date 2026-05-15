@@ -58,6 +58,105 @@ references:
 - uid: C:Query::WP#APIPages#WandP_Direct_Debit_Collection.Cust__Ledger_Entry.remainingAmount
   name: remainingAmount
   href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
+- uid: C:Query::WP#EDI#WandPIndicaterHeaderRankBase.Customer.Default_Dimension.Dimension_Value_Name
+  name: Dimension_Value_Name
+  href: reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankBase.html
+- uid: C:Query::WP#EDI#WandPIndicaterHeaderRankBase.Customer.Default_Dimension.Sales_Invoice_Header.External_Document_No_
+  name: External_Document_No_
+  href: reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankBase.html
+- uid: C:Query::WP#EDI#WandPIndicaterHeaderRankBase.Customer.Default_Dimension.Sales_Invoice_Header.No_
+  name: No_
+  href: reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankBase.html
+- uid: C:Query::WP#EDI#WandPIndicaterHeaderRankBase.Customer.Default_Dimension.Sales_Invoice_Header.Sales_Invoice_B.BNo
+  name: BNo
+  href: reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankBase.html
+- uid: C:Query::WP#EDI#WandPIndicaterHeaderRankOver.Customer.Default_Dimension.Dimension_Value_Name
+  name: Dimension_Value_Name
+  href: reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankOver.html
+- uid: C:Query::WP#EDI#WandPIndicaterHeaderRankOver.Customer.Default_Dimension.Sales_Invoice_Header.External_Document_No_
+  name: External_Document_No_
+  href: reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankOver.html
+- uid: C:Query::WP#EDI#WandPIndicaterHeaderRankOver.Customer.Default_Dimension.Sales_Invoice_Header.No_
+  name: No_
+  href: reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankOver.html
+- uid: C:Query::WP#EDI#WandPIndicaterHeaderRankOver.Customer.Default_Dimension.Sales_Invoice_Header.SIH_Override.Sales_Invoice_B.BNo
+  name: BNo
+  href: reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankOver.html
+- uid: C:Query::WP#EDI#WandPIndicaterHeaderRankOver.Customer.Default_Dimension.Sales_Invoice_Header.SIH_Override.Sales_Invoice_B.SIO_Override.Sales_Invoice_O.ONo
+  name: ONo
+  href: reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankOver.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.WandP_Processed_Tx.processTime
+  name: processTime
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.WandP_Processed_Tx.processType
+  name: processType
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.amount
+  name: amount
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.amountIncludingVAT
+  name: amountIncludingVAT
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.billToAddress
+  name: billToAddress
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.billToAddress2
+  name: billToAddress2
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.billToCity
+  name: billToCity
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.billToCountryRegionCode
+  name: billToCountryRegionCode
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.billToCounty
+  name: billToCounty
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.billToCustomerNo
+  name: billToCustomerNo
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.billToName
+  name: billToName
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.billToPostCode
+  name: billToPostCode
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.currencyCode
+  name: currencyCode
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.dueDate
+  name: dueDate
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.externalDocumentNo
+  name: externalDocumentNo
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.invoiceNo
+  name: invoiceNo
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.postingDate
+  name: postingDate
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.sellToAddress
+  name: sellToAddress
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.sellToAddress2
+  name: sellToAddress2
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.sellToCity
+  name: sellToCity
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.sellToCountryRegionCode
+  name: sellToCountryRegionCode
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.sellToCounty
+  name: sellToCounty
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.sellToCustomerName
+  name: sellToCustomerName
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.sellToPostCode
+  name: sellToPostCode
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
 - uid: C:Query::WandPDropShipNoPO.SalesHeader.No_
   name: No_
   href: reference/wp-reports/Query/WandPDropShipNoPO.html
@@ -1099,6 +1198,129 @@ references:
 - uid: F:Table::WP#DocumentEmails#Email_failures.ts_datetime
   name: ts_datetime
   href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Account_Number[100]
+  name: "\"Account Number\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Category[100]
+  name: Category
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Description[100]
+  name: Description
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Groupcode[20]
+  name: Groupcode
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Invoice_Date
+  name: "\"Invoice Date\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Invoice_Gross_Value
+  name: "\"Invoice Gross Value\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Invoice_Nett_Value
+  name: "\"Invoice Nett Value\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Invoice_Number[20]
+  name: "\"Invoice Number\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Invoice_VAT_Value
+  name: "\"Invoice VAT Value\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Invoice_or_Credit[5]
+  name: "\"Invoice or Credit\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Item_Code[20]
+  name: "\"Item Code\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Line_Item_Gross_Amount
+  name: "\"Line Item Gross Amount\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Line_Item_Nett_Amount
+  name: "\"Line Item Nett Amount\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Line_Item_Unit_Price
+  name: "\"Line Item Unit Price\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Line_Item_Unit_Quantity
+  name: "\"Line Item Unit Quantity\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Line_Item_VAT_Amount
+  name: "\"Line Item VAT Amount\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Line_Number
+  name: "\"Line Number\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Number_Series[20]
+  name: "\"Number Series\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Order_Reference[100]
+  name: "\"Order Reference\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Outlet_Name[100]
+  name: "\"Outlet Name\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Pack_Size[100]
+  name: "\"Pack Size\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.Sub_Category[100]
+  name: "\"Sub Category\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.SystemId
+  name: SystemId
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.UoM[100]
+  name: UoM
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Indicater.groupname[100]
+  name: groupname
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: F:Table::WP#EDI#WandP_Processed_Tx.Document_Number[20]
+  name: "\"Document Number\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html
+- uid: F:Table::WP#EDI#WandP_Processed_Tx.Number_series[20]
+  name: "\"Number series\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html
+- uid: F:Table::WP#EDI#WandP_Processed_Tx.Process_time
+  name: "\"Process time\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html
+- uid: F:Table::WP#EDI#WandP_Processed_Tx.Process_type[50]
+  name: "\"Process type\""
+  href: reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html
+- uid: F:Table::WP#EDI#WandP_Processed_Tx.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html
+- uid: F:Table::WP#EDI#WandP_Processed_Tx.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html
+- uid: F:Table::WP#EDI#WandP_Processed_Tx.SystemId
+  name: SystemId
+  href: reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html
+- uid: F:Table::WP#EDI#WandP_Processed_Tx.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html
+- uid: F:Table::WP#EDI#WandP_Processed_Tx.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html
+- uid: F:Table::WP#EDI#WandP_Processed_Tx.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html
+- uid: F:Table::WP#EDI#WandP_Processed_Tx.id
+  name: id
+  href: reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html
 - uid: F:Table::WandP#Reporting#Large_Orders.Customer_Group[20]
   name: "\"Customer Group\""
   href: reference/wp-reports/Table/WandP.Reporting.Large-Orders.html
@@ -2905,6 +3127,12 @@ references:
 - uid: F:TableExtension::WP#DocumentEmails#WandP_Customer.WandPNoDeliveryEmail
   name: WandPNoDeliveryEmail
   href: reference/wp-document-emails/TableExtension/WP.DocumentEmails.WandP-Customer.html
+- uid: F:TableExtension::WP#EDI#WandP_Credit_EDI.WandP_EDI_Process[50]
+  name: "\"WandP EDI Process\""
+  href: reference/wp-edi/TableExtension/WP.EDI.WandP-Credit-EDI.html
+- uid: F:TableExtension::WP#EDI#WandP_Invoice_EDI.WandP_EDI_Process[50]
+  name: "\"WandP EDI Process\""
+  href: reference/wp-edi/TableExtension/WP.EDI.WandP-Invoice-EDI.html
 - uid: F:TableExtension::WandPItemUoM.WandPSalesAvail
   name: WandPSalesAvail
   href: reference/wp-uom-extension/TableExtension/WandPItemUoM.html
@@ -3577,6 +3805,21 @@ references:
 - uid: M:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value_List.OnLoadAttributesOnBeforeTempAttributeValueInsert(Cust/Vend_Attribute_Value@,Cust/Vend_Attrib_Value_Mapping,Code[20])
   name: OnLoadAttributesOnBeforeTempAttributeValueInsert
   href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.html
+- uid: M:Page::WP#EDI#WandP_Indicater.CreateCSVFile
+  name: CreateCSVFile
+  href: reference/wp-edi/Page/WP.EDI.WandP-Indicater.html
+- uid: M:Page::WP#EDI#WandP_Indicater.GetPacksize(Text[100]):Text[100]
+  name: GetPacksize
+  href: reference/wp-edi/Page/WP.EDI.WandP-Indicater.html
+- uid: M:Page::WP#EDI#WandP_Indicater.GetUoM(Text[100]):Text[100]
+  name: GetUoM
+  href: reference/wp-edi/Page/WP.EDI.WandP-Indicater.html
+- uid: M:Page::WP#EDI#WandP_Indicater.SaveSentTransactions
+  name: SaveSentTransactions
+  href: reference/wp-edi/Page/WP.EDI.WandP-Indicater.html
+- uid: M:Page::WP#EDI#WandP_Indicater.WriteLine(OutStream@)
+  name: WriteLine
+  href: reference/wp-edi/Page/WP.EDI.WandP-Indicater.html
 - uid: M:Page::WandP#APIPages#WandP_Contacts_API.IsEnterpriseNumber(FieldRef@):Boolean
   name: IsEnterpriseNumber
   href: reference/wp-api-pages/Page/WandP.APIPages.WandP-Contacts-API.html
@@ -3922,6 +4165,12 @@ references:
 - uid: N:Module::WP_EDI
   name: WP EDI
   href: reference/wp-edi/Module/WP-EDI.html
+- uid: N:Module::WP_EDI::Namespace::WP
+  name: WP
+  href: reference/wp-edi/Namespace/WP.html
+- uid: N:Module::WP_EDI::Namespace::WP.EDI
+  name: WP.EDI
+  href: reference/wp-edi/Namespace/WP.EDI.html
 - uid: N:Module::WP_Explosive_Precursors
   name: WP Explosive Precursors
   href: reference/wp-explosive-precursors/Module/WP-Explosive-Precursors.html
@@ -4399,6 +4648,14 @@ references:
   name: "\"Vend Attrib Value Editor\""
   fqName: Page WP.CustomerVendorAttributes."Vend Attrib Value Editor"
   href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Vend-Attrib-Value-Editor.html
+- uid: O:Page::WP#EDI#WandP_Indicater
+  name: "\"WandP Indicater\""
+  fqName: Page WP.EDI."WandP Indicater"
+  href: reference/wp-edi/Page/WP.EDI.WandP-Indicater.html
+- uid: O:Page::WP#EDI#WandP_Processed_Tx
+  name: "\"WandP Processed Tx\""
+  fqName: Page WP.EDI."WandP Processed Tx"
+  href: reference/wp-edi/Page/WP.EDI.WandP-Processed-Tx.html
 - uid: O:Page::WPAPIpagesBCextension#WPAPIpagesBCextension#Email_Failure_API
   name: "\"Email Failure API\""
   fqName: Page WPAPIpagesBCextension.WPAPIpagesBCextension."Email Failure API"
@@ -5209,6 +5466,10 @@ references:
   name: CustVendAttribRead
   fqName: PermissionSet WP.CustomerVendorAttributes.CustVendAttribRead
   href: reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribRead.html
+- uid: O:PermissionSet::WP#EDI#WandP_EDI_Edit
+  name: "\"WandP EDI Edit\""
+  fqName: PermissionSet WP.EDI."WandP EDI Edit"
+  href: reference/wp-edi/PermissionSet/WP.EDI.WandP-EDI-Edit.html
 - uid: O:PermissionSet::WPDocumentEmails#WPDocumentEmails#WP_Doc_Email_Admin
   name: "\"WP Doc Email Admin\""
   fqName: PermissionSet WPDocumentEmails.WPDocumentEmails."WP Doc Email Admin"
@@ -5297,6 +5558,18 @@ references:
   name: "\"WandP Direct Debit Collection\""
   fqName: Query WP.APIPages."WandP Direct Debit Collection"
   href: reference/wp-api-pages/Query/WP.APIPages.WandP-Direct-Debit-Collection.html
+- uid: O:Query::WP#EDI#WandPIndicaterHeaderRankBase
+  name: WandPIndicaterHeaderRankBase
+  fqName: Query WP.EDI.WandPIndicaterHeaderRankBase
+  href: reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankBase.html
+- uid: O:Query::WP#EDI#WandPIndicaterHeaderRankOver
+  name: WandPIndicaterHeaderRankOver
+  fqName: Query WP.EDI.WandPIndicaterHeaderRankOver
+  href: reference/wp-edi/Query/WP.EDI.WandPIndicaterHeaderRankOver.html
+- uid: O:Query::WP#EDI#WandP_invoices_Processed
+  name: "\"WandP invoices Processed\""
+  fqName: Query WP.EDI."WandP invoices Processed"
+  href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
 - uid: O:Query::WandPDropShipNoPO
   name: WandPDropShipNoPO
   fqName: Query WandPDropShipNoPO
@@ -5521,6 +5794,14 @@ references:
   name: "\"Email failures\""
   fqName: Table WP.DocumentEmails."Email failures"
   href: reference/wp-document-emails/Table/WP.DocumentEmails.Email-failures.html
+- uid: O:Table::WP#EDI#WandP_Indicater
+  name: "\"WandP Indicater\""
+  fqName: Table WP.EDI."WandP Indicater"
+  href: reference/wp-edi/Table/WP.EDI.WandP-Indicater.html
+- uid: O:Table::WP#EDI#WandP_Processed_Tx
+  name: "\"WandP Processed Tx\""
+  fqName: Table WP.EDI."WandP Processed Tx"
+  href: reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html
 - uid: O:Table::WandP#Reporting#Large_Orders
   name: "\"Large Orders\""
   fqName: Table WandP.Reporting."Large Orders"
@@ -5681,6 +5962,14 @@ references:
   name: "\"WandP Customer\""
   fqName: TableExtension WP.DocumentEmails."WandP Customer"
   href: reference/wp-document-emails/TableExtension/WP.DocumentEmails.WandP-Customer.html
+- uid: O:TableExtension::WP#EDI#WandP_Credit_EDI
+  name: "\"WandP Credit EDI\""
+  fqName: TableExtension WP.EDI."WandP Credit EDI"
+  href: reference/wp-edi/TableExtension/WP.EDI.WandP-Credit-EDI.html
+- uid: O:TableExtension::WP#EDI#WandP_Invoice_EDI
+  name: "\"WandP Invoice EDI\""
+  fqName: TableExtension WP.EDI."WandP Invoice EDI"
+  href: reference/wp-edi/TableExtension/WP.EDI.WandP-Invoice-EDI.html
 - uid: O:TableExtension::WandP#Binfix#Bin_Content_Uom_Fix
   name: "\"Bin Content Uom Fix\""
   fqName: TableExtension WandP.Binfix."Bin Content Uom Fix"

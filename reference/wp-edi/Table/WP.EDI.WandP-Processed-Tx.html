@@ -71,62 +71,137 @@
           <nav id="breadcrumb"></nav>
         </div>
 
-        <article data-uid="N:Module::WP_EDI">
-                    <h1>Module WP EDI</h1>
+        <article data-uid="O:Table::WP#EDI#WandP_Processed_Tx">
+  <h1>Table &quot;WandP Processed Tx&quot;</h1>
 
 
-          	<div class="summaryHolder">
-          		<div class="summary">
-			<p>Adds tables to hold data for external EDI processes (e.g. Surrey invoices) and also code to generate and log Indicater export for Hamberley.</p>
-
-          		</div>
-          	</div>
+<div class="font-style-italic">ID 72000</div>
+<div class="font-style-italic">Namespace: WP.EDI</div>
 
 
 
-          	<h2 id="properties">Properties</h2>
-
-          	<table class="table">
-          		<thead>
-          			<tr>
-          				<th>Name</th>
-          				<th>Value</th>
-          			</tr>
-          		</thead>
-          		<tbody>
-          			<tr>
-          					<td>Version</td>
-          					<td class="font-style-italic">
-							27.5.0.4
-          					</td>
-          			</tr>
-          			<tr>
-          					<td>Publisher</td>
-          					<td class="font-style-italic">
-							Wightman and Parrish
-          					</td>
-          			</tr>
-          		</tbody>
-          	</table>
-
-          	<h2 id="Namespace">Namespace</h2>
-          		<table class="table">
-          			<thead>
-          				<tr>
-          					<th>Name</th>
-          					<th>Summary</th>
-          				</tr>
-          			</thead>
-          			<tbody>
-          					<tr>
-          						<td class="font-style-italic"><a class="xref" href="../Namespace/WP.html">WP</a></td>
-          						<td></td>
-          					</tr>
-          			</tbody>
-          		</table>
 
 
 
+  	<h2 id="properties">Properties</h2>
+
+  	<table class="table">
+  		<thead>
+  			<tr>
+  				<th>Name</th>
+  				<th>Value</th>
+  			</tr>
+  		</thead>
+  		<tbody>
+  			<tr>
+  					<td>Caption</td>
+  					<td class="font-style-italic">
+							WP Processed EDI Transactions
+  					</td>
+  			</tr>
+  			<tr>
+  					<td>DataClassification</td>
+  					<td class="font-style-italic">
+							CustomerContent
+  					</td>
+  			</tr>
+  		</tbody>
+  	</table>
+  	<h2 id="fields">Fields</h2>
+  	<table class="table">
+  		<thead>
+  			<tr>
+  				<th>Name</th>
+  				<th>Type</th>
+  				<th>Description</th>
+  			</tr>
+  		</thead>
+  		<tbody>
+  				<tr>
+  					<td>id</td>
+  					<td class="font-style-italic">
+Integer						
+  					</td>
+  					<td></td>
+  				</tr>
+  				<tr>
+  					<td>&quot;Number series&quot;</td>
+  					<td class="font-style-italic">
+Code[20]						
+  					</td>
+  					<td></td>
+  				</tr>
+  				<tr>
+  					<td>&quot;Document Number&quot;</td>
+  					<td class="font-style-italic">
+Code[20]						
+  					</td>
+  					<td></td>
+  				</tr>
+  				<tr>
+  					<td>&quot;Process time&quot;</td>
+  					<td class="font-style-italic">
+DateTime						
+  					</td>
+  					<td></td>
+  				</tr>
+  				<tr>
+  					<td>&quot;Process type&quot;</td>
+  					<td class="font-style-italic">
+Text[50]						
+  					</td>
+  					<td></td>
+  				</tr>
+  				<tr>
+  					<td>SystemId</td>
+  					<td class="font-style-italic">
+Guid						
+  					</td>
+  					<td></td>
+  				</tr>
+  				<tr>
+  					<td>SystemCreatedAt</td>
+  					<td class="font-style-italic">
+DateTime						
+  					</td>
+  					<td></td>
+  				</tr>
+  				<tr>
+  					<td>SystemCreatedBy</td>
+  					<td class="font-style-italic">
+Guid						
+  					</td>
+  					<td></td>
+  				</tr>
+  				<tr>
+  					<td>SystemModifiedAt</td>
+  					<td class="font-style-italic">
+DateTime						
+  					</td>
+  					<td></td>
+  				</tr>
+  				<tr>
+  					<td>SystemModifiedBy</td>
+  					<td class="font-style-italic">
+Guid						
+  					</td>
+  					<td></td>
+  				</tr>
+  				<tr>
+  					<td>SystemRowVersion</td>
+  					<td class="font-style-italic">
+BigInteger						
+  					</td>
+  					<td></td>
+  				</tr>
+  		</tbody>
+  	</table>
+
+  	<h2 id="see-also">See also</h2>
+  	<ul>
+  			<li><p><a href="https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-table-object">Table</a></p>
+</li>
+  	</ul>
 </article>
 
         <div class="contribution d-print-none">
