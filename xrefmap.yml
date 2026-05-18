@@ -6053,10 +6053,6 @@ references:
   name: "\"WandP Salesperson API\""
   fqName: Page "WandP Salesperson API"
   href: reference/wp-api-pages/Page/WandP-Salesperson-API.html
-- uid: O:Page::WandP_Table_A_API
-  name: "\"WandP Table A API\""
-  fqName: Page "WandP Table A API"
-  href: reference/wp-dangerous-goods/Page/WandP-Table-A-API.html
 - uid: O:Page::WandP_Table_A_List
   name: "\"WandP Table A List\""
   fqName: Page "WandP Table A List"
