@@ -1420,9 +1420,6 @@ references:
 - uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.SystemRowVersion
   name: SystemRowVersion
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
-- uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.Unit_of_Measure[30]
-  name: "\"Unit of Measure\""
-  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
 - uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttributeValueSelect.Value[250]
   name: Value
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttributeValueSelect.html
@@ -1503,9 +1500,6 @@ references:
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
 - uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.Name[250]
   name: Name
-  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
-- uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.SourceType
-  name: SourceType
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
 - uid: F:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.SystemCreatedAt
   name: SystemCreatedAt
@@ -4927,17 +4921,11 @@ references:
 - uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.AttributeExists(Integer):Boolean
   name: AttributeExists
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
-- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetAttributeNameInCurrentLanguage:Text[250]
-  name: GetAttributeNameInCurrentLanguage
-  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
 - uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetTranslatedName(Integer):Text[250]
   name: GetTranslatedName
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
 - uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetTranslatedNameByLanguageCode(Code[10]):Text[250]
   name: GetTranslatedNameByLanguageCode
-  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
-- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetValueInCurrentLanguage:Text[250]
-  name: GetValueInCurrentLanguage
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
 - uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetValueInCurrentLanguageWithoutUnitOfMeasure:Text[250]
   name: GetValueInCurrentLanguageWithoutUnitOfMeasure
@@ -4954,9 +4942,6 @@ references:
 - uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.LookupAttributeValue(Integer,Integer@)
   name: LookupAttributeValue
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
-- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.OnAfterGetValueInCurrentLanguage(Cust/Vend_Attribute_Value,Text[250]@)
-  name: OnAfterGetValueInCurrentLanguage
-  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
 - uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.OnAfterHasBeenUsed(Cust/Vend_Attribute_Value,Boolean@)
   name: OnAfterHasBeenUsed
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
@@ -4972,12 +4957,6 @@ references:
 - uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.SetValueFilter(Customer_/_Vendor_Attribute@,Text)
   name: SetValueFilter
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
-- uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.GetNameInCurrentLanguage:Text[250]
-  name: GetNameInCurrentLanguage
-  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
-- uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.GetTranslatedName(Integer):Text[250]
-  name: GetTranslatedName
-  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
 - uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.GetValues:Text
   name: GetValues
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
@@ -4989,12 +4968,6 @@ references:
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
 - uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.OnBeforeCheckNameUniqueness(Customer_/_Vendor_Attribute@,Customer_/_Vendor_Attribute)
   name: OnBeforeCheckNameUniqueness
-  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
-- uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.OnBeforeGetTranslatedName(Customer_/_Vendor_Attribute@,Integer,Text[250]@,Boolean@)
-  name: OnBeforeGetTranslatedName
-  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
-- uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.OnGetAttributeTranslationOnAfterCreateNewTranslation(Customer_/_Vendor_Attribute,Cust/VendAttributeTranslation@)
-  name: OnGetAttributeTranslationOnAfterCreateNewTranslation
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Customer---Vendor-Attribute.html
 - uid: M:Table::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute.OpenAttributeValues
   name: OpenAttributeValues
@@ -6053,6 +6026,10 @@ references:
   name: "\"WandP Salesperson API\""
   fqName: Page "WandP Salesperson API"
   href: reference/wp-api-pages/Page/WandP-Salesperson-API.html
+- uid: O:Page::WandP_Table_A_API
+  name: "\"WandP Table A API\""
+  fqName: Page "WandP Table A API"
+  href: reference/wp-dangerous-goods/Page/WandP-Table-A-API.html
 - uid: O:Page::WandP_Table_A_List
   name: "\"WandP Table A List\""
   fqName: Page "WandP Table A List"

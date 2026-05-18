@@ -3048,6 +3048,16 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-dangerous-goods/Page/WandP-Table-A-API.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-dangerous-goods/Page/WandP-Table-A-API.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-dangerous-goods/Page/WandP-Table-A-List.yml",
       "output": {
         ".html": {
