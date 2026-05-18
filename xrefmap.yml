@@ -5170,9 +5170,6 @@ references:
 - uid: N:Module::WP_UoM_extension::Namespace::WP.UoM
   name: WP.UoM
   href: reference/wp-uom-extension/Namespace/WP.UoM.html
-- uid: N:Module::WP_UoM_restriction
-  name: WP UoM restriction
-  href: reference/wp-uom-restriction/Module/WP-UoM-restriction.html
 - uid: N:Module::WP_Uom_Bin_Fix
   name: WP Uom Bin Fix
   href: reference/wp-uom-bin-fix/Module/WP-Uom-Bin-Fix.html
