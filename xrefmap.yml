@@ -1,6 +1,45 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
+- uid: C:Query::WP#APIPages#Direct_Debit_Collection.Cust__Ledger_Entry.customer.Customer_Bank_Account.SEPA_Direct_Debit_Mandate.Blocked
+  name: Blocked
+  href: reference/wp-api-pages/Query/WP.APIPages.Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#Direct_Debit_Collection.Cust__Ledger_Entry.customer.Customer_Bank_Account.SEPA_Direct_Debit_Mandate.Closed
+  name: Closed
+  href: reference/wp-api-pages/Query/WP.APIPages.Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#Direct_Debit_Collection.Cust__Ledger_Entry.customer.Customer_Bank_Account.SEPA_Direct_Debit_Mandate.ID
+  name: ID
+  href: reference/wp-api-pages/Query/WP.APIPages.Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#Direct_Debit_Collection.Cust__Ledger_Entry.customer.Customer_Bank_Account.bankAccountNo
+  name: bankAccountNo
+  href: reference/wp-api-pages/Query/WP.APIPages.Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#Direct_Debit_Collection.Cust__Ledger_Entry.customer.Customer_Bank_Account.bankBranchNo
+  name: bankBranchNo
+  href: reference/wp-api-pages/Query/WP.APIPages.Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#Direct_Debit_Collection.Cust__Ledger_Entry.customer.balanceDue
+  name: balanceDue
+  href: reference/wp-api-pages/Query/WP.APIPages.Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#Direct_Debit_Collection.Cust__Ledger_Entry.customer.name
+  name: name
+  href: reference/wp-api-pages/Query/WP.APIPages.Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#Direct_Debit_Collection.Cust__Ledger_Entry.customerNo
+  name: customerNo
+  href: reference/wp-api-pages/Query/WP.APIPages.Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#Direct_Debit_Collection.Cust__Ledger_Entry.documentNo
+  name: documentNo
+  href: reference/wp-api-pages/Query/WP.APIPages.Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#Direct_Debit_Collection.Cust__Ledger_Entry.documentType
+  name: documentType
+  href: reference/wp-api-pages/Query/WP.APIPages.Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#Direct_Debit_Collection.Cust__Ledger_Entry.dueDate
+  name: dueDate
+  href: reference/wp-api-pages/Query/WP.APIPages.Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#Direct_Debit_Collection.Cust__Ledger_Entry.positive
+  name: positive
+  href: reference/wp-api-pages/Query/WP.APIPages.Direct-Debit-Collection.html
+- uid: C:Query::WP#APIPages#Direct_Debit_Collection.Cust__Ledger_Entry.remainingAmount
+  name: remainingAmount
+  href: reference/wp-api-pages/Query/WP.APIPages.Direct-Debit-Collection.html
 - uid: C:Query::WP#APIPages#Item_Attributes_API.Item.Item_Attribute_Value_Mapping.Item_Attribute_ID
   name: Item_Attribute_ID
   href: reference/wp-api-pages/Query/WP.APIPages.Item-Attributes-API.html
@@ -157,6 +196,345 @@ references:
 - uid: C:Query::WP#EDI#WandP_invoices_Processed.salesInvoiceHeader.sellToPostCode
   name: sellToPostCode
   href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.OriginalCardType
+  name: OriginalCardType
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Amount
+  name: Amount
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Amount_Including_VAT
+  name: Amount_Including_VAT
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Bill_to_Address
+  name: Bill_to_Address
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Bill_to_Address_2
+  name: Bill_to_Address_2
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Bill_to_City
+  name: Bill_to_City
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Bill_to_Contact
+  name: Bill_to_Contact
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Bill_to_Country_Region_Code
+  name: Bill_to_Country_Region_Code
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Bill_to_Name
+  name: Bill_to_Name
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Bill_to_Post_Code
+  name: Bill_to_Post_Code
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.CL.Document_Type
+  name: Document_Type
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.CL.II.DateSent
+  name: DateSent
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.CL.II.Resend
+  name: Resend
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.CL.II.SL.Description
+  name: Description
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.CL.II.SL.IO.OA.OverrideCardType
+  name: OverrideCardType
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.CL.II.SL.IO.OverrideAlias
+  name: OverrideAlias
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.CL.II.SL.ItemNo
+  name: ItemNo
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.CL.II.SL.Line_Amount
+  name: Line_Amount
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.CL.II.SL.Line_Amount_Including_VAT
+  name: Line_Amount_Including_VAT
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.CL.II.SL.Line_No_
+  name: Line_No_
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.CL.II.SL.Quantity
+  name: Quantity
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.CL.II.SL.Unit_of_Measure
+  name: Unit_of_Measure
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.CL.II.SL.VAT__
+  name: VAT__
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Currency_Code
+  name: Currency_Code
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.External_Document_No_
+  name: External_Document_No_
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.InvoiceNo
+  name: InvoiceNo
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Invoice_Discount_Amount
+  name: Invoice_Discount_Amount
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Sell_to_Contact
+  name: Sell_to_Contact
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Ship_to_Address
+  name: Ship_to_Address
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Ship_to_Address_2
+  name: Ship_to_Address_2
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Ship_to_City
+  name: Ship_to_City
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Ship_to_Name
+  name: Ship_to_Name
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.CA.SH.Ship_to_Post_Code
+  name: Ship_to_Post_Code
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.alias
+  name: alias
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Credit.C.customer
+  name: customer
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Docnumber
+  name: Docnumber
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.Amount
+  name: Amount
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.AmountIncludingVAT
+  name: AmountIncludingVAT
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.BilltoAddress
+  name: BilltoAddress
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.BilltoAddress2
+  name: BilltoAddress2
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.BilltoCity
+  name: BilltoCity
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.BilltoContact
+  name: BilltoContact
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.BilltoCountryRegionCode
+  name: BilltoCountryRegionCode
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.BilltoName
+  name: BilltoName
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.BilltoPostcode
+  name: BilltoPostcode
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.CardAlias
+  name: CardAlias
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.CardType
+  name: CardType
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.CurrencyCode
+  name: CurrencyCode
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.Customer
+  name: Customer
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.Description
+  name: Description
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.DocumentType
+  name: DocumentType
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.ExternalDocumentNo
+  name: ExternalDocumentNo
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.InvoiceDiscountAmount
+  name: InvoiceDiscountAmount
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.Itemnumber
+  name: Itemnumber
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.LineAmount
+  name: LineAmount
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.Line_Amount
+  name: Line_Amount
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.Line_Number
+  name: Line_Number
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.OrderDate
+  name: OrderDate
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.OverrideCardType
+  name: OverrideCardType
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.Overridealias
+  name: Overridealias
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.Quantity
+  name: Quantity
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.SelltoContact
+  name: SelltoContact
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.ShiptoAddress
+  name: ShiptoAddress
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.ShiptoAddress2
+  name: ShiptoAddress2
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.ShiptoCity
+  name: ShiptoCity
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.ShiptoName
+  name: ShiptoName
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.ShiptoPostcode
+  name: ShiptoPostcode
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.Transaction_Type
+  name: Transaction_Type
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.UnitofMeasure
+  name: UnitofMeasure
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.VATpc
+  name: VATpc
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.WandP_ITS_Invoices_Sent.DateSent
+  name: DateSent
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.Inner.WandP_ITS_Invoices_Sent.Resend
+  name: Resend
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.TotalAmount
+  name: TotalAmount
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Data.Outer.TotalVAT
+  name: TotalVAT
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: C:Query::WP#ITS#WandP_ITS_Header.Outer.Docnumber
+  name: Docnumber
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Header.html
+- uid: C:Query::WP#ITS#WandP_ITS_Header.Outer.TotalAmount
+  name: TotalAmount
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Header.html
+- uid: C:Query::WP#ITS#WandP_ITS_Header.Outer.TotalVAT
+  name: TotalVAT
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Header.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.OriginalCardType
+  name: OriginalCardType
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Amount
+  name: Amount
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Amount_Including_VAT
+  name: Amount_Including_VAT
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Bill_to_Address
+  name: Bill_to_Address
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Bill_to_Address_2
+  name: Bill_to_Address_2
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Bill_to_City
+  name: Bill_to_City
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Bill_to_Contact
+  name: Bill_to_Contact
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Bill_to_Country_Region_Code
+  name: Bill_to_Country_Region_Code
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Bill_to_Name
+  name: Bill_to_Name
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Bill_to_Post_Code
+  name: Bill_to_Post_Code
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.CL.Document_Type
+  name: Document_Type
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.CL.II.DateSent
+  name: DateSent
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.CL.II.Resend
+  name: Resend
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.CL.II.SL.Description
+  name: Description
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.CL.II.SL.IO.OA.OverrideCardType
+  name: OverrideCardType
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.CL.II.SL.IO.OverrideAlias
+  name: OverrideAlias
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.CL.II.SL.ItemNo
+  name: ItemNo
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.CL.II.SL.Line_Amount
+  name: Line_Amount
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.CL.II.SL.Line_Amount_Including_VAT
+  name: Line_Amount_Including_VAT
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.CL.II.SL.Line_No_
+  name: Line_No_
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.CL.II.SL.Quantity
+  name: Quantity
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.CL.II.SL.Unit_of_Measure
+  name: Unit_of_Measure
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.CL.II.SL.VAT__
+  name: VAT__
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Currency_Code
+  name: Currency_Code
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.External_Document_No_
+  name: External_Document_No_
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.InvoiceNo
+  name: InvoiceNo
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Invoice_Discount_Amount
+  name: Invoice_Discount_Amount
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Order_Date
+  name: Order_Date
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Sell_to_Contact
+  name: Sell_to_Contact
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Ship_to_Address
+  name: Ship_to_Address
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Ship_to_Address_2
+  name: Ship_to_Address_2
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Ship_to_City
+  name: Ship_to_City
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Ship_to_Name
+  name: Ship_to_Name
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.CA.SH.Ship_to_Post_Code
+  name: Ship_to_Post_Code
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.alias
+  name: alias
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
+- uid: C:Query::WP#ITS#WandP_ITS_Invoice.C.customer
+  name: customer
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
 - uid: C:Query::WandPDropShipNoPO.SalesHeader.No_
   name: No_
   href: reference/wp-reports/Query/WandPDropShipNoPO.html
@@ -1321,6 +1699,483 @@ references:
 - uid: F:Table::WP#EDI#WandP_Processed_Tx.id
   name: id
   href: reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html
+- uid: F:Table::WP#ITS#WandP_ITS_Card_Alias.Alias[50]
+  name: Alias
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Card-Alias.html
+- uid: F:Table::WP#ITS#WandP_ITS_Card_Alias.Comment[100]
+  name: Comment
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Card-Alias.html
+- uid: F:Table::WP#ITS#WandP_ITS_Card_Alias.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Card-Alias.html
+- uid: F:Table::WP#ITS#WandP_ITS_Card_Alias.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Card-Alias.html
+- uid: F:Table::WP#ITS#WandP_ITS_Card_Alias.SystemId
+  name: SystemId
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Card-Alias.html
+- uid: F:Table::WP#ITS#WandP_ITS_Card_Alias.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Card-Alias.html
+- uid: F:Table::WP#ITS#WandP_ITS_Card_Alias.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Card-Alias.html
+- uid: F:Table::WP#ITS#WandP_ITS_Card_Alias.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Card-Alias.html
+- uid: F:Table::WP#ITS#WandP_ITS_Card_Alias.Type
+  name: Type
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Card-Alias.html
+- uid: F:Table::WP#ITS#WandP_ITS_Customer_Setup.Alias[50]
+  name: Alias
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Customer-Setup.html
+- uid: F:Table::WP#ITS#WandP_ITS_Customer_Setup.CustomerName[100]
+  name: CustomerName
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Customer-Setup.html
+- uid: F:Table::WP#ITS#WandP_ITS_Customer_Setup.Customer[20]
+  name: Customer
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Customer-Setup.html
+- uid: F:Table::WP#ITS#WandP_ITS_Customer_Setup.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Customer-Setup.html
+- uid: F:Table::WP#ITS#WandP_ITS_Customer_Setup.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Customer-Setup.html
+- uid: F:Table::WP#ITS#WandP_ITS_Customer_Setup.SystemId
+  name: SystemId
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Customer-Setup.html
+- uid: F:Table::WP#ITS#WandP_ITS_Customer_Setup.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Customer-Setup.html
+- uid: F:Table::WP#ITS#WandP_ITS_Customer_Setup.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Customer-Setup.html
+- uid: F:Table::WP#ITS#WandP_ITS_Customer_Setup.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Customer-Setup.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Address1[100]
+  name: Address1
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Address2[100]
+  name: Address2
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Bottom_Line_Discount
+  name: "\"Bottom Line Discount\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Buyer_Name[100]
+  name: "\"Buyer Name\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Card_Alias_Name[100]
+  name: "\"Card Alias Name\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.City[100]
+  name: City
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Commodity_Code[10]
+  name: "\"Commodity Code\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Cost_Centre[100]
+  name: "\"Cost Centre\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Country[100]
+  name: Country
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Country_Code[100]
+  name: "\"Country Code\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Currency_Code[100]
+  name: "\"Currency Code\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Customer_Name[100]
+  name: "\"Customer Name\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Customer_Order_Reference[100]
+  name: "\"Customer Order Reference\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Customer_Reference[100]
+  name: "\"Customer Reference\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Delivery_Address1[100]
+  name: "\"Delivery Address1\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Delivery_Address2[100]
+  name: "\"Delivery Address2\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Delivery_City[100]
+  name: "\"Delivery City\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Delivery_Name[100]
+  name: "\"Delivery Name\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Delivery_Postcode[100]
+  name: "\"Delivery Postcode\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Freight_Amount
+  name: "\"Freight Amount\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Freight_VAT_Rate
+  name: "\"Freight VAT Rate\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Gross_Amount
+  name: "\"Gross Amount\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Invoice_Number[100]
+  name: "\"Invoice Number\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Line_Number
+  name: "\"Line Number\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Line_Total
+  name: "\"Line Total\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Name[100]
+  name: Name
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Original_Invoice_Number[100]
+  name: "\"Original Invoice Number\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Original_Order_Date[20]
+  name: "\"Original Order Date\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Postcode[100]
+  name: Postcode
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Product_Code[100]
+  name: "\"Product Code\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Product_Description[100]
+  name: "\"Product Description\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Quantity
+  name: Quantity
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Reference[100]
+  name: Reference
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Supplier_Order_Reference[100]
+  name: "\"Supplier Order Reference\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.SystemId
+  name: SystemId
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.TransactionType
+  name: TransactionType
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Type[100]
+  name: Type
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Unit_Cost
+  name: "\"Unit Cost\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.Unit_Of_Measure[100]
+  name: "\"Unit Of Measure\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.VAT_Amount
+  name: "\"VAT Amount\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.VAT_Category_Code[1]
+  name: "\"VAT Category Code\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Final_Data.VAT_Rate
+  name: "\"VAT Rate\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Header.Docnumber[100]
+  name: Docnumber
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Header.html
+- uid: F:Table::WP#ITS#WandP_ITS_Header.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Header.html
+- uid: F:Table::WP#ITS#WandP_ITS_Header.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Header.html
+- uid: F:Table::WP#ITS#WandP_ITS_Header.SystemId
+  name: SystemId
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Header.html
+- uid: F:Table::WP#ITS#WandP_ITS_Header.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Header.html
+- uid: F:Table::WP#ITS#WandP_ITS_Header.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Header.html
+- uid: F:Table::WP#ITS#WandP_ITS_Header.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Header.html
+- uid: F:Table::WP#ITS#WandP_ITS_Header.TotalAmount
+  name: TotalAmount
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Header.html
+- uid: F:Table::WP#ITS#WandP_ITS_Header.VATAmount
+  name: VATAmount
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Header.html
+- uid: F:Table::WP#ITS#WandP_ITS_Invoices_Sent.DateSent
+  name: DateSent
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Invoices-Sent.html
+- uid: F:Table::WP#ITS#WandP_ITS_Invoices_Sent.Resend
+  name: Resend
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Invoices-Sent.html
+- uid: F:Table::WP#ITS#WandP_ITS_Invoices_Sent.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Invoices-Sent.html
+- uid: F:Table::WP#ITS#WandP_ITS_Invoices_Sent.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Invoices-Sent.html
+- uid: F:Table::WP#ITS#WandP_ITS_Invoices_Sent.SystemId
+  name: SystemId
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Invoices-Sent.html
+- uid: F:Table::WP#ITS#WandP_ITS_Invoices_Sent.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Invoices-Sent.html
+- uid: F:Table::WP#ITS#WandP_ITS_Invoices_Sent.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Invoices-Sent.html
+- uid: F:Table::WP#ITS#WandP_ITS_Invoices_Sent.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Invoices-Sent.html
+- uid: F:Table::WP#ITS#WandP_ITS_Invoices_Sent.Transaction[100]
+  name: Transaction
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Invoices-Sent.html
+- uid: F:Table::WP#ITS#WandP_ITS_Invoices_Sent.Transtype
+  name: Transtype
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Invoices-Sent.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Amount[100]
+  name: Amount
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Amount_Including_VAT[100]
+  name: "\"Amount Including VAT\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Bill-to_Address[100]
+  name: "\"Bill-to Address\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Bill-to_Address_2[100]
+  name: "\"Bill-to Address 2\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Bill-to_City[100]
+  name: "\"Bill-to City\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Bill-to_Contact[100]
+  name: "\"Bill-to Contact\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Bill-to_Country/Region_Code[100]
+  name: "\"Bill-to Country/Region Code\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Bill-to_Name[100]
+  name: "\"Bill-to Name\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Bill-to_Postcode[100]
+  name: "\"Bill-to Postcode\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Card_Alias[100]
+  name: "\"Card Alias\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Card_Type
+  name: "\"Card Type\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Currency_Code[100]
+  name: "\"Currency Code\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Customer[100]
+  name: Customer
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Description[100]
+  name: Description
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Docnumber[100]
+  name: Docnumber
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Document_Type[100]
+  name: "\"Document Type\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.External_Document_No#[100]
+  name: "\"External Document No.\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Flag_for_resending[100]
+  name: "\"Flag for resending\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Invoice_Discount_Amount
+  name: "\"Invoice Discount Amount\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Itemnumber[100]
+  name: Itemnumber
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Last_sent[100]
+  name: "\"Last sent\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Line_Amount
+  name: "\"Line Amount\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Line_Amount_Including_VAT
+  name: "\"Line Amount Including VAT\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Line_Number
+  name: "\"Line Number\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Order_Date
+  name: "\"Order Date\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Override_Card_Type
+  name: "\"Override Card Type\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Override_alias[100]
+  name: "\"Override alias\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Quantity
+  name: Quantity
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Sell-to_Contact[100]
+  name: "\"Sell-to Contact\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Ship-to_Address[100]
+  name: "\"Ship-to Address\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Ship-to_Address_2[100]
+  name: "\"Ship-to Address 2\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Ship-to_City[100]
+  name: "\"Ship-to City\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Ship-to_Name[100]
+  name: "\"Ship-to Name\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Ship-to_Postcode[100]
+  name: "\"Ship-to Postcode\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.SystemId
+  name: SystemId
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Transaction_Type
+  name: "\"Transaction Type\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Unit_of_Measure[100]
+  name: "\"Unit of Measure\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.VATAmount
+  name: VATAmount
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.VAT_%
+  name: "\"VAT %\""
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: F:Table::WP#Reports#PickableOrderLines.ADR
+  name: ADR
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: F:Table::WP#Reports#PickableOrderLines.Description[100]
+  name: Description
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: F:Table::WP#Reports#PickableOrderLines.ItemNo[20]
+  name: ItemNo
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: F:Table::WP#Reports#PickableOrderLines.LineNo
+  name: LineNo
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: F:Table::WP#Reports#PickableOrderLines.LineVolume
+  name: LineVolume
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: F:Table::WP#Reports#PickableOrderLines.LineWeight
+  name: LineWeight
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: F:Table::WP#Reports#PickableOrderLines.Outstanding_Quantity
+  name: "\"Outstanding Quantity\""
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: F:Table::WP#Reports#PickableOrderLines.Stock_reservation
+  name: Stock_reservation
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: F:Table::WP#Reports#PickableOrderLines.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: F:Table::WP#Reports#PickableOrderLines.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: F:Table::WP#Reports#PickableOrderLines.SystemId
+  name: SystemId
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: F:Table::WP#Reports#PickableOrderLines.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: F:Table::WP#Reports#PickableOrderLines.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: F:Table::WP#Reports#PickableOrderLines.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: F:Table::WP#Reports#PickableOrders.ADR
+  name: ADR
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.CustomerName[100]
+  name: CustomerName
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.EarliestPlannedDeliveryDate
+  name: EarliestPlannedDeliveryDate
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.No#[20]
+  name: "\"No.\""
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.Pickable
+  name: Pickable
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.PostCode[20]
+  name: PostCode
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.ShipmentMethod[10]
+  name: ShipmentMethod
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.Shipping_Advice
+  name: "\"Shipping Advice\""
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.Stock_Reserve_%
+  name: "\"Stock Reserve %\""
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.SystemId
+  name: SystemId
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.TotalVolume
+  name: TotalVolume
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
+- uid: F:Table::WP#Reports#PickableOrders.TotalWeight
+  name: TotalWeight
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
 - uid: F:Table::WandP#Reporting#Large_Orders.Customer_Group[20]
   name: "\"Customer Group\""
   href: reference/wp-reports/Table/WandP.Reporting.Large-Orders.html
@@ -3124,6 +3979,30 @@ references:
 - uid: F:TableExtension::Clever_Credit_Cust_Entry.Salesperson[20]
   name: Salesperson
   href: reference/wp-additional-fields/TableExtension/Clever-Credit-Cust-Entry.html
+- uid: F:TableExtension::WP#ADR#SalesLineADR.ADR
+  name: ADR
+  href: reference/wp-dangerous-goods/TableExtension/WP.ADR.SalesLineADR.html
+- uid: F:TableExtension::WP#ADR#Wandp_Items.WandP_Below_LQ
+  name: "\"WandP Below LQ\""
+  href: reference/wp-dangerous-goods/TableExtension/WP.ADR.Wandp-Items.html
+- uid: F:TableExtension::WP#ADR#Wandp_Items.WandP_LQ_Level[20]
+  name: "\"WandP LQ Level\""
+  href: reference/wp-dangerous-goods/TableExtension/WP.ADR.Wandp-Items.html
+- uid: F:TableExtension::WP#ADR#Wandp_Items.WandP_Packing_Group[10]
+  name: "\"WandP Packing Group\""
+  href: reference/wp-dangerous-goods/TableExtension/WP.ADR.Wandp-Items.html
+- uid: F:TableExtension::WP#ADR#Wandp_Items.WandP_Table_A_desc[500]
+  name: "\"WandP Table A desc\""
+  href: reference/wp-dangerous-goods/TableExtension/WP.ADR.Wandp-Items.html
+- uid: F:TableExtension::WP#ADR#Wandp_Items.WandP_Table_A_reference[10]
+  name: "\"WandP Table A reference\""
+  href: reference/wp-dangerous-goods/TableExtension/WP.ADR.Wandp-Items.html
+- uid: F:TableExtension::WP#ADR#Wandp_Items.WandP_Transport_Category[10]
+  name: "\"WandP Transport Category\""
+  href: reference/wp-dangerous-goods/TableExtension/WP.ADR.Wandp-Items.html
+- uid: F:TableExtension::WP#ADR#Wandp_Items.WandP_UN_Code[10]
+  name: "\"WandP UN Code\""
+  href: reference/wp-dangerous-goods/TableExtension/WP.ADR.Wandp-Items.html
 - uid: F:TableExtension::WP#DocumentEmails#WandP_Customer.WandPNoDeliveryEmail
   name: WandPNoDeliveryEmail
   href: reference/wp-document-emails/TableExtension/WP.DocumentEmails.WandP-Customer.html
@@ -3133,6 +4012,9 @@ references:
 - uid: F:TableExtension::WP#EDI#WandP_Invoice_EDI.WandP_EDI_Process[50]
   name: "\"WandP EDI Process\""
   href: reference/wp-edi/TableExtension/WP.EDI.WandP-Invoice-EDI.html
+- uid: F:TableExtension::WP#QCBins#WandP_QC_Bin.WandPQC
+  name: WandPQC
+  href: reference/wp-qc-bins/TableExtension/WP.QCBins.WandP-QC-Bin.html
 - uid: F:TableExtension::WandPItemUoM.WandPSalesAvail
   name: WandPSalesAvail
   href: reference/wp-uom-extension/TableExtension/WandPItemUoM.html
@@ -3472,6 +4354,9 @@ references:
 - uid: F:TableExtension::WandP_Misc_Sales_Inv_Header.WandPParentAccount[20]
   name: WandPParentAccount
   href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Inv-Header.html
+- uid: F:TableExtension::WandP_Misc_Sales_Line.Item_Type
+  name: "\"Item Type\""
+  href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Line.html
 - uid: F:TableExtension::WandP_Misc_Sales_Line.WandPExternalLineRef[50]
   name: WandPExternalLineRef
   href: reference/wp-additional-fields/TableExtension/WandP-Misc-Sales-Line.html
@@ -3631,9 +4516,18 @@ references:
 - uid: M:Codeunit::UoM_copy.CopyMeasures(Item_Unit_of_Measure@)
   name: CopyMeasures
   href: reference/wp-uom-extension/Codeunit/UoM-copy.html
+- uid: M:Codeunit::WP#Catalogues#WandP_Snapshot_Catalogue.Main
+  name: Main
+  href: reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.WandP-Snapshot-Catalogue.html
 - uid: M:Codeunit::WP#DocumentEmails#WandP_DocEmail.DocumentLogExists(RecordId):Boolean
   name: DocumentLogExists
   href: reference/wp-document-emails/Codeunit/WP.DocumentEmails.WandP-DocEmail.html
+- uid: M:Codeunit::WP#ITS#WandP_ITS.PopulateFinalData
+  name: PopulateFinalData
+  href: reference/wp-its-extension/Codeunit/WP.ITS.WandP-ITS.html
+- uid: M:Codeunit::WP#ITS#WandP_ITS.PopulateTempData
+  name: PopulateTempData
+  href: reference/wp-its-extension/Codeunit/WP.ITS.WandP-ITS.html
 - uid: M:Codeunit::WandPGenericAPICalls.GenericAPICall(HttpRequestMessage,Code[20]):JsonObject
   name: GenericAPICall
   href: reference/wp-carriers/Codeunit/WandPGenericAPICalls.html
@@ -3820,6 +4714,24 @@ references:
 - uid: M:Page::WP#EDI#WandP_Indicater.WriteLine(OutStream@)
   name: WriteLine
   href: reference/wp-edi/Page/WP.EDI.WandP-Indicater.html
+- uid: M:Page::WP#ITS#WandP_ITS_Data.CreateITSFile
+  name: CreateITSFile
+  href: reference/wp-its-extension/Page/WP.ITS.WandP-ITS-Data.html
+- uid: M:Page::WP#ITS#WandP_ITS_Data.PopulateFinalData
+  name: PopulateFinalData
+  href: reference/wp-its-extension/Page/WP.ITS.WandP-ITS-Data.html
+- uid: M:Page::WP#ITS#WandP_ITS_Data.PopulateHeaderData
+  name: PopulateHeaderData
+  href: reference/wp-its-extension/Page/WP.ITS.WandP-ITS-Data.html
+- uid: M:Page::WP#ITS#WandP_ITS_Data.PopulateTempData
+  name: PopulateTempData
+  href: reference/wp-its-extension/Page/WP.ITS.WandP-ITS-Data.html
+- uid: M:Page::WP#ITS#WandP_ITS_Data.SaveSentTransactions
+  name: SaveSentTransactions
+  href: reference/wp-its-extension/Page/WP.ITS.WandP-ITS-Data.html
+- uid: M:Page::WP#Reports#Pickable_Order_Lines.PopulateLines(Code[20])
+  name: PopulateLines
+  href: reference/wp-reports/Page/WP.Reports.Pickable-Order-Lines.html
 - uid: M:Page::WandP#APIPages#WandP_Contacts_API.IsEnterpriseNumber(FieldRef@):Boolean
   name: IsEnterpriseNumber
   href: reference/wp-api-pages/Page/WandP.APIPages.WandP-Contacts-API.html
@@ -4126,9 +5038,21 @@ references:
 - uid: N:Module::WP_Additional_fields
   name: WP Additional fields
   href: reference/wp-additional-fields/Module/WP-Additional-fields.html
+- uid: N:Module::WP_Additional_fields::Namespace::WP
+  name: WP
+  href: reference/wp-additional-fields/Namespace/WP.html
+- uid: N:Module::WP_Additional_fields::Namespace::WP.AdditionalFields
+  name: WP.AdditionalFields
+  href: reference/wp-additional-fields/Namespace/WP.AdditionalFields.html
 - uid: N:Module::WP_Alerts
   name: WP Alerts
   href: reference/wp-alerts/Module/WP-Alerts.html
+- uid: N:Module::WP_Alerts::Namespace::WP
+  name: WP
+  href: reference/wp-alerts/Namespace/WP.html
+- uid: N:Module::WP_Alerts::Namespace::WP.Alerts
+  name: WP.Alerts
+  href: reference/wp-alerts/Namespace/WP.Alerts.html
 - uid: N:Module::WP_Carriers
   name: WP Carriers
   href: reference/wp-carriers/Module/WP-Carriers.html
@@ -4147,6 +5071,12 @@ references:
 - uid: N:Module::WP_Dangerous_goods
   name: WP Dangerous goods
   href: reference/wp-dangerous-goods/Module/WP-Dangerous-goods.html
+- uid: N:Module::WP_Dangerous_goods::Namespace::WP
+  name: WP
+  href: reference/wp-dangerous-goods/Namespace/WP.html
+- uid: N:Module::WP_Dangerous_goods::Namespace::WP.ADR
+  name: WP.ADR
+  href: reference/wp-dangerous-goods/Namespace/WP.ADR.html
 - uid: N:Module::WP_Document_Emails
   name: WP Document Emails
   href: reference/wp-document-emails/Module/WP-Document-Emails.html
@@ -4174,15 +5104,39 @@ references:
 - uid: N:Module::WP_Explosive_Precursors
   name: WP Explosive Precursors
   href: reference/wp-explosive-precursors/Module/WP-Explosive-Precursors.html
+- uid: N:Module::WP_Explosive_Precursors::Namespace::WP
+  name: WP
+  href: reference/wp-explosive-precursors/Namespace/WP.html
+- uid: N:Module::WP_Explosive_Precursors::Namespace::WP.EPC
+  name: WP.EPC
+  href: reference/wp-explosive-precursors/Namespace/WP.EPC.html
 - uid: N:Module::WP_ITS_extension
   name: WP ITS extension
   href: reference/wp-its-extension/Module/WP-ITS-extension.html
+- uid: N:Module::WP_ITS_extension::Namespace::WP
+  name: WP
+  href: reference/wp-its-extension/Namespace/WP.html
+- uid: N:Module::WP_ITS_extension::Namespace::WP.ITS
+  name: WP.ITS
+  href: reference/wp-its-extension/Namespace/WP.ITS.html
 - uid: N:Module::WP_QC_Bins
   name: WP QC Bins
   href: reference/wp-qc-bins/Module/WP-QC-Bins.html
+- uid: N:Module::WP_QC_Bins::Namespace::WP
+  name: WP
+  href: reference/wp-qc-bins/Namespace/WP.html
+- uid: N:Module::WP_QC_Bins::Namespace::WP.QCBins
+  name: WP.QCBins
+  href: reference/wp-qc-bins/Namespace/WP.QCBins.html
 - uid: N:Module::WP_Reports
   name: WP Reports
   href: reference/wp-reports/Module/WP-Reports.html
+- uid: N:Module::WP_Reports::Namespace::WP
+  name: WP
+  href: reference/wp-reports/Namespace/WP.html
+- uid: N:Module::WP_Reports::Namespace::WP.Reports
+  name: WP.Reports
+  href: reference/wp-reports/Namespace/WP.Reports.html
 - uid: N:Module::WP_Reports::Namespace::WandP
   name: WandP
   href: reference/wp-reports/Namespace/WandP.html
@@ -4192,12 +5146,30 @@ references:
 - uid: N:Module::WP_Restrictive_Catalogues
   name: WP Restrictive Catalogues
   href: reference/wp-restrictive-catalogues/Module/WP-Restrictive-Catalogues.html
+- uid: N:Module::WP_Restrictive_Catalogues::Namespace::WP
+  name: WP
+  href: reference/wp-restrictive-catalogues/Namespace/WP.html
+- uid: N:Module::WP_Restrictive_Catalogues::Namespace::WP.Catalogues
+  name: WP.Catalogues
+  href: reference/wp-restrictive-catalogues/Namespace/WP.Catalogues.html
 - uid: N:Module::WP_Sales_Order_Management
   name: WP Sales Order Management
   href: reference/wp-sales-order-management/Module/WP-Sales-Order-Management.html
+- uid: N:Module::WP_Sales_Order_Management::Namespace::WP
+  name: WP
+  href: reference/wp-sales-order-management/Namespace/WP.html
+- uid: N:Module::WP_Sales_Order_Management::Namespace::WP.SalesOrderManagement
+  name: WP.SalesOrderManagement
+  href: reference/wp-sales-order-management/Namespace/WP.SalesOrderManagement.html
 - uid: N:Module::WP_UoM_extension
   name: WP UoM extension
   href: reference/wp-uom-extension/Module/WP-UoM-extension.html
+- uid: N:Module::WP_UoM_extension::Namespace::WP
+  name: WP
+  href: reference/wp-uom-extension/Namespace/WP.html
+- uid: N:Module::WP_UoM_extension::Namespace::WP.UoM
+  name: WP.UoM
+  href: reference/wp-uom-extension/Namespace/WP.UoM.html
 - uid: N:Module::WP_UoM_restriction
   name: WP UoM restriction
   href: reference/wp-uom-restriction/Module/WP-UoM-restriction.html
@@ -4230,6 +5202,14 @@ references:
   name: "\"UoM copy\""
   fqName: Codeunit "UoM copy"
   href: reference/wp-uom-extension/Codeunit/UoM-copy.html
+- uid: O:Codeunit::WP#ADR#WandP_Dangerous_Goods
+  name: "\"WandP Dangerous Goods\""
+  fqName: Codeunit WP.ADR."WandP Dangerous Goods"
+  href: reference/wp-dangerous-goods/Codeunit/WP.ADR.WandP-Dangerous-Goods.html
+- uid: O:Codeunit::WP#Catalogues#WandP_Snapshot_Catalogue
+  name: "\"WandP Snapshot Catalogue\""
+  fqName: Codeunit WP.Catalogues."WandP Snapshot Catalogue"
+  href: reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.WandP-Snapshot-Catalogue.html
 - uid: O:Codeunit::WP#DocumentEmails#Installer
   name: Installer
   fqName: Codeunit WP.DocumentEmails.Installer
@@ -4238,6 +5218,14 @@ references:
   name: "\"WandP DocEmail\""
   fqName: Codeunit WP.DocumentEmails."WandP DocEmail"
   href: reference/wp-document-emails/Codeunit/WP.DocumentEmails.WandP-DocEmail.html
+- uid: O:Codeunit::WP#ITS#WandP_ITS
+  name: "\"WandP ITS\""
+  fqName: Codeunit WP.ITS."WandP ITS"
+  href: reference/wp-its-extension/Codeunit/WP.ITS.WandP-ITS.html
+- uid: O:Codeunit::WP#QCBins#WandP_QC_Bins_events
+  name: "\"WandP QC Bins events\""
+  fqName: Codeunit WP.QCBins."WandP QC Bins events"
+  href: reference/wp-qc-bins/Codeunit/WP.QCBins.WandP-QC-Bins-events.html
 - uid: O:Codeunit::WandPGenericAPICalls
   name: WandPGenericAPICalls
   fqName: Codeunit WandPGenericAPICalls
@@ -4372,6 +5360,10 @@ references:
   name: "\"Shipping Agent Card\""
   fqName: Page "Shipping Agent Card"
   href: reference/wp-carriers/Page/Shipping-Agent-Card.html
+- uid: O:Page::WP#ADR#WandP_Table_A_List
+  name: "\"WandP Table A List\""
+  fqName: Page WP.ADR."WandP Table A List"
+  href: reference/wp-dangerous-goods/Page/WP.ADR.WandP-Table-A-List.html
 - uid: O:Page::WP#APIPages#Base_Calendar_API
   name: "\"Base Calendar API\""
   fqName: Page WP.APIPages."Base Calendar API"
@@ -4608,6 +5600,10 @@ references:
   name: "\"WandP Items API\""
   fqName: Page WP.APIPages."WandP Items API"
   href: reference/wp-api-pages/Page/WP.APIPages.WandP-Items-API.html
+- uid: O:Page::WP#APIPages#WandP_Table_A_API
+  name: "\"WandP Table A API\""
+  fqName: Page WP.APIPages."WandP Table A API"
+  href: reference/wp-api-pages/Page/WP.APIPages.WandP-Table-A-API.html
 - uid: O:Page::WP#APIPages#Whse_Shipment_API
   name: "\"Whse Shipment API\""
   fqName: Page WP.APIPages."Whse Shipment API"
@@ -4656,6 +5652,34 @@ references:
   name: "\"WandP Processed Tx\""
   fqName: Page WP.EDI."WandP Processed Tx"
   href: reference/wp-edi/Page/WP.EDI.WandP-Processed-Tx.html
+- uid: O:Page::WP#ITS#WandP_ITS_Card_Alias
+  name: "\"WandP ITS Card Alias\""
+  fqName: Page WP.ITS."WandP ITS Card Alias"
+  href: reference/wp-its-extension/Page/WP.ITS.WandP-ITS-Card-Alias.html
+- uid: O:Page::WP#ITS#WandP_ITS_Customer_Setup
+  name: "\"WandP ITS Customer Setup\""
+  fqName: Page WP.ITS."WandP ITS Customer Setup"
+  href: reference/wp-its-extension/Page/WP.ITS.WandP-ITS-Customer-Setup.html
+- uid: O:Page::WP#ITS#WandP_ITS_Data
+  name: "\"WandP ITS Data\""
+  fqName: Page WP.ITS."WandP ITS Data"
+  href: reference/wp-its-extension/Page/WP.ITS.WandP-ITS-Data.html
+- uid: O:Page::WP#ITS#WandP_ITS_Invoices_Sent
+  name: "\"WandP ITS Invoices Sent\""
+  fqName: Page WP.ITS."WandP ITS Invoices Sent"
+  href: reference/wp-its-extension/Page/WP.ITS.WandP-ITS-Invoices-Sent.html
+- uid: O:Page::WP#ITS#WandP_ITS_Item_Overrides
+  name: "\"WandP ITS Item Overrides\""
+  fqName: Page WP.ITS."WandP ITS Item Overrides"
+  href: reference/wp-its-extension/Page/WP.ITS.WandP-ITS-Item-Overrides.html
+- uid: O:Page::WP#Reports#Pickable_Order_Lines
+  name: "\"Pickable Order Lines\""
+  fqName: Page WP.Reports."Pickable Order Lines"
+  href: reference/wp-reports/Page/WP.Reports.Pickable-Order-Lines.html
+- uid: O:Page::WP#Reports#Pickable_Orders
+  name: "\"Pickable Orders\""
+  fqName: Page WP.Reports."Pickable Orders"
+  href: reference/wp-reports/Page/WP.Reports.Pickable-Orders.html
 - uid: O:Page::WPAPIpagesBCextension#WPAPIpagesBCextension#Email_Failure_API
   name: "\"Email Failure API\""
   fqName: Page WPAPIpagesBCextension.WPAPIpagesBCextension."Email Failure API"
@@ -5092,6 +6116,22 @@ references:
   name: SalesInvSubform
   fqName: PageExtension SalesInvSubform
   href: reference/wp-carriers/PageExtension/SalesInvSubform.html
+- uid: O:PageExtension::WP#ADR#WandP_Item_Card
+  name: "\"WandP Item Card\""
+  fqName: PageExtension WP.ADR."WandP Item Card"
+  href: reference/wp-dangerous-goods/PageExtension/WP.ADR.WandP-Item-Card.html
+- uid: O:PageExtension::WP#AdditionalFields#Item_card
+  name: "\"Item card\""
+  fqName: PageExtension WP.AdditionalFields."Item card"
+  href: reference/wp-additional-fields/PageExtension/WP.AdditionalFields.Item-card.html
+- uid: O:PageExtension::WP#AdditionalFields#Sales_Invoice_Subform
+  name: "\"Sales Invoice Subform\""
+  fqName: PageExtension WP.AdditionalFields."Sales Invoice Subform"
+  href: reference/wp-additional-fields/PageExtension/WP.AdditionalFields.Sales-Invoice-Subform.html
+- uid: O:PageExtension::WP#Alerts#WandPSalesRecSetup
+  name: WandPSalesRecSetup
+  fqName: PageExtension WP.Alerts.WandPSalesRecSetup
+  href: reference/wp-alerts/PageExtension/WP.Alerts.WandPSalesRecSetup.html
 - uid: O:PageExtension::WP#CustomerVendorAttributes#Customer_Card
   name: "\"Customer Card\""
   fqName: PageExtension WP.CustomerVendorAttributes."Customer Card"
@@ -5104,6 +6144,18 @@ references:
   name: "\"WandP Customer\""
   fqName: PageExtension WP.DocumentEmails."WandP Customer"
   href: reference/wp-document-emails/PageExtension/WP.DocumentEmails.WandP-Customer.html
+- uid: O:PageExtension::WP#EPC#WandP_EPC_Sales_order_lines
+  name: "\"WandP EPC Sales order lines\""
+  fqName: PageExtension WP.EPC."WandP EPC Sales order lines"
+  href: reference/wp-explosive-precursors/PageExtension/WP.EPC.WandP-EPC-Sales-order-lines.html
+- uid: O:PageExtension::WP#QCBins#WandP_QC_Bins
+  name: "\"WandP QC Bins\""
+  fqName: PageExtension WP.QCBins."WandP QC Bins"
+  href: reference/wp-qc-bins/PageExtension/WP.QCBins.WandP-QC-Bins.html
+- uid: O:PageExtension::WP#UoM#WandPItemUoM
+  name: WandPItemUoM
+  fqName: PageExtension WP.UoM.WandPItemUoM
+  href: reference/wp-uom-extension/PageExtension/WP.UoM.WandPItemUoM.html
 - uid: O:PageExtension::WandPContiniaCustomerList
   name: WandPContiniaCustomerList
   fqName: PageExtension WandPContiniaCustomerList
@@ -5454,6 +6506,14 @@ references:
   name: CueTableUser
   fqName: PermissionSet CueTableUser
   href: reference/wp-reports/PermissionSet/CueTableUser.html
+- uid: O:PermissionSet::WP#ADR#WandP_Table_A_Full
+  name: "\"WandP Table A Full\""
+  fqName: PermissionSet WP.ADR."WandP Table A Full"
+  href: reference/wp-dangerous-goods/PermissionSet/WP.ADR.WandP-Table-A-Full.html
+- uid: O:PermissionSet::WP#ADR#WandP_Table_A_Read
+  name: "\"WandP Table A Read\""
+  fqName: PermissionSet WP.ADR."WandP Table A Read"
+  href: reference/wp-dangerous-goods/PermissionSet/WP.ADR.WandP-Table-A-Read.html
 - uid: O:PermissionSet::WP#CustomerVendorAttributes#CustVendAttribApply
   name: CustVendAttribApply
   fqName: PermissionSet WP.CustomerVendorAttributes.CustVendAttribApply
@@ -5470,6 +6530,10 @@ references:
   name: "\"WandP EDI Edit\""
   fqName: PermissionSet WP.EDI."WandP EDI Edit"
   href: reference/wp-edi/PermissionSet/WP.EDI.WandP-EDI-Edit.html
+- uid: O:PermissionSet::WP#ITS#WandP_ITS_Perms
+  name: "\"WandP ITS Perms\""
+  fqName: PermissionSet WP.ITS."WandP ITS Perms"
+  href: reference/wp-its-extension/PermissionSet/WP.ITS.WandP-ITS-Perms.html
 - uid: O:PermissionSet::WPDocumentEmails#WPDocumentEmails#WP_Doc_Email_Admin
   name: "\"WP Doc Email Admin\""
   fqName: PermissionSet WPDocumentEmails.WPDocumentEmails."WP Doc Email Admin"
@@ -5550,6 +6614,10 @@ references:
   name: "\"WandP Table A Read\""
   fqName: PermissionSet "WandP Table A Read"
   href: reference/wp-dangerous-goods/PermissionSet/WandP-Table-A-Read.html
+- uid: O:Query::WP#APIPages#Direct_Debit_Collection
+  name: "\"Direct Debit Collection\""
+  fqName: Query WP.APIPages."Direct Debit Collection"
+  href: reference/wp-api-pages/Query/WP.APIPages.Direct-Debit-Collection.html
 - uid: O:Query::WP#APIPages#Item_Attributes_API
   name: "\"Item Attributes API\""
   fqName: Query WP.APIPages."Item Attributes API"
@@ -5570,6 +6638,22 @@ references:
   name: "\"WandP invoices Processed\""
   fqName: Query WP.EDI."WandP invoices Processed"
   href: reference/wp-edi/Query/WP.EDI.WandP-invoices-Processed.html
+- uid: O:Query::WP#ITS#WandP_ITS_Credit
+  name: "\"WandP ITS Credit\""
+  fqName: Query WP.ITS."WandP ITS Credit"
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Credit.html
+- uid: O:Query::WP#ITS#WandP_ITS_Data
+  name: "\"WandP ITS Data\""
+  fqName: Query WP.ITS."WandP ITS Data"
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Data.html
+- uid: O:Query::WP#ITS#WandP_ITS_Header
+  name: "\"WandP ITS Header\""
+  fqName: Query WP.ITS."WandP ITS Header"
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Header.html
+- uid: O:Query::WP#ITS#WandP_ITS_Invoice
+  name: "\"WandP ITS Invoice\""
+  fqName: Query WP.ITS."WandP ITS Invoice"
+  href: reference/wp-its-extension/Query/WP.ITS.WandP-ITS-Invoice.html
 - uid: O:Query::WandPDropShipNoPO
   name: WandPDropShipNoPO
   fqName: Query WandPDropShipNoPO
@@ -5658,6 +6742,10 @@ references:
   name: "\"WandP Sales Shipment Send\""
   fqName: Report WP.DocumentEmails."WandP Sales Shipment Send"
   href: reference/wp-document-emails/Report/WP.DocumentEmails.WandP-Sales-Shipment-Send.html
+- uid: O:Report::WP#SalesOrderManagement#WandP_Update_CTP
+  name: "\"WandP Update CTP\""
+  fqName: Report WP.SalesOrderManagement."WandP Update CTP"
+  href: reference/wp-sales-order-management/Report/WP.SalesOrderManagement.WandP-Update-CTP.html
 - uid: O:Report::WandP_Consolidated_Invoice
   name: "\"WandP Consolidated Invoice\""
   fqName: Report "WandP Consolidated Invoice"
@@ -5802,6 +6890,38 @@ references:
   name: "\"WandP Processed Tx\""
   fqName: Table WP.EDI."WandP Processed Tx"
   href: reference/wp-edi/Table/WP.EDI.WandP-Processed-Tx.html
+- uid: O:Table::WP#ITS#WandP_ITS_Card_Alias
+  name: "\"WandP ITS Card Alias\""
+  fqName: Table WP.ITS."WandP ITS Card Alias"
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Card-Alias.html
+- uid: O:Table::WP#ITS#WandP_ITS_Customer_Setup
+  name: "\"WandP ITS Customer Setup\""
+  fqName: Table WP.ITS."WandP ITS Customer Setup"
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Customer-Setup.html
+- uid: O:Table::WP#ITS#WandP_ITS_Final_Data
+  name: "\"WandP ITS Final Data\""
+  fqName: Table WP.ITS."WandP ITS Final Data"
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Final-Data.html
+- uid: O:Table::WP#ITS#WandP_ITS_Header
+  name: "\"WandP ITS Header\""
+  fqName: Table WP.ITS."WandP ITS Header"
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Header.html
+- uid: O:Table::WP#ITS#WandP_ITS_Invoices_Sent
+  name: "\"WandP ITS Invoices Sent\""
+  fqName: Table WP.ITS."WandP ITS Invoices Sent"
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Invoices-Sent.html
+- uid: O:Table::WP#ITS#WandP_ITS_Temp_Data
+  name: "\"WandP ITS Temp Data\""
+  fqName: Table WP.ITS."WandP ITS Temp Data"
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
+- uid: O:Table::WP#Reports#PickableOrderLines
+  name: PickableOrderLines
+  fqName: Table WP.Reports.PickableOrderLines
+  href: reference/wp-reports/Table/WP.Reports.PickableOrderLines.html
+- uid: O:Table::WP#Reports#PickableOrders
+  name: PickableOrders
+  fqName: Table WP.Reports.PickableOrders
+  href: reference/wp-reports/Table/WP.Reports.PickableOrders.html
 - uid: O:Table::WandP#Reporting#Large_Orders
   name: "\"Large Orders\""
   fqName: Table WandP.Reporting."Large Orders"
@@ -5958,6 +7078,14 @@ references:
   name: "\"Credit Memo\""
   fqName: TableExtension "Credit Memo"
   href: reference/wp-reports/TableExtension/Credit-Memo.html
+- uid: O:TableExtension::WP#ADR#SalesLineADR
+  name: SalesLineADR
+  fqName: TableExtension WP.ADR.SalesLineADR
+  href: reference/wp-dangerous-goods/TableExtension/WP.ADR.SalesLineADR.html
+- uid: O:TableExtension::WP#ADR#Wandp_Items
+  name: "\"Wandp Items\""
+  fqName: TableExtension WP.ADR."Wandp Items"
+  href: reference/wp-dangerous-goods/TableExtension/WP.ADR.Wandp-Items.html
 - uid: O:TableExtension::WP#DocumentEmails#WandP_Customer
   name: "\"WandP Customer\""
   fqName: TableExtension WP.DocumentEmails."WandP Customer"
@@ -5970,6 +7098,10 @@ references:
   name: "\"WandP Invoice EDI\""
   fqName: TableExtension WP.EDI."WandP Invoice EDI"
   href: reference/wp-edi/TableExtension/WP.EDI.WandP-Invoice-EDI.html
+- uid: O:TableExtension::WP#QCBins#WandP_QC_Bin
+  name: "\"WandP QC Bin\""
+  fqName: TableExtension WP.QCBins."WandP QC Bin"
+  href: reference/wp-qc-bins/TableExtension/WP.QCBins.WandP-QC-Bin.html
 - uid: O:TableExtension::WandP#Binfix#Bin_Content_Uom_Fix
   name: "\"Bin Content Uom Fix\""
   fqName: TableExtension WandP.Binfix."Bin Content Uom Fix"
