@@ -5260,6 +5260,9 @@ references:
 - uid: N:Module::WP_API_pages::Namespace::WP
   name: WP
   href: reference/wp-api-pages/Namespace/WP.html
+- uid: N:Module::WP_API_pages::Namespace::WP.API
+  name: WP.API
+  href: reference/wp-api-pages/Namespace/WP.API.html
 - uid: N:Module::WP_API_pages::Namespace::WP.APIPages
   name: WP.APIPages
   href: reference/wp-api-pages/Namespace/WP.APIPages.html
@@ -5627,6 +5630,10 @@ references:
   name: "\"WandP Table A List\""
   fqName: Page WP.ADR."WandP Table A List"
   href: reference/wp-dangerous-goods/Page/WP.ADR.WandP-Table-A-List.html
+- uid: O:Page::WP#API#WP_Processed_Tx_API
+  name: "\"WP Processed Tx API\""
+  fqName: Page WP.API."WP Processed Tx API"
+  href: reference/wp-api-pages/Page/WP.API.WP-Processed-Tx-API.html
 - uid: O:Page::WP#APIPages#Base_Calendar_API
   name: "\"Base Calendar API\""
   fqName: Page WP.APIPages."Base Calendar API"

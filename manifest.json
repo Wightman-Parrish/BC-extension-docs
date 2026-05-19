@@ -915,6 +915,16 @@
     },
     {
       "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-api-pages/Namespace/WP.API.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-api-pages/Namespace/WP.API.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralNamespace",
       "source_relative_path": "reference/wp-api-pages/Namespace/WP.APIPages.yml",
       "output": {
         ".html": {
@@ -969,6 +979,16 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-api-pages/Namespace/WandP.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-api-pages/Page/WP.API.WP-Processed-Tx-API.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-api-pages/Page/WP.API.WP-Processed-Tx-API.html"
         }
       },
       "version": ""
@@ -1044,6 +1064,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "UidNotFound"
+      ],
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-api-pages/Page/WP.APIPages.CustomerItemRestrictAPI.yml",
       "output": {
@@ -1144,6 +1167,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "UidNotFound"
+      ],
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-api-pages/Page/WP.APIPages.ITS-Item-Overrides-API.yml",
       "output": {
