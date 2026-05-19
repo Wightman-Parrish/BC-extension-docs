@@ -2278,6 +2278,56 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/Codeunit/WP.Carriers.WandP-APC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/Codeunit/WP.Carriers.WandP-APC.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/Codeunit/WP.Carriers.WandP-DX.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/Codeunit/WP.Carriers.WandP-DX.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/Codeunit/WP.Carriers.WandP-Event-Subscriber.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/Codeunit/WP.Carriers.WandP-Event-Subscriber.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/Codeunit/WP.Carriers.WandP-Logging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/Codeunit/WP.Carriers.WandP-Logging.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/Codeunit/WP.Carriers.WandPGenericAPICalls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/Codeunit/WP.Carriers.WandPGenericAPICalls.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-carriers/Codeunit/WandP-APC.yml",
       "output": {
         ".html": {
@@ -2368,6 +2418,36 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/Page/WP.Carriers.Shipping-Agent-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/Page/WP.Carriers.Shipping-Agent-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/Page/WP.Carriers.WandP-Carrier-Log.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/Page/WP.Carriers.WandP-Carrier-Log.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-carriers/Page/WandP-Carrier-Log.yml",
       "output": {
         ".html": {
@@ -2398,10 +2478,50 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/PageExtension/WP.Carriers.SalesInvSubform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/PageExtension/WP.Carriers.SalesInvSubform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-carriers/PageExtension/WP.Carriers.WandP-Agent-Services.yml",
       "output": {
         ".html": {
           "relative_path": "reference/wp-carriers/PageExtension/WP.Carriers.WandP-Agent-Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/PageExtension/WP.Carriers.WandP-Sales-Order.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/PageExtension/WP.Carriers.WandP-Sales-Order.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/PageExtension/WP.Carriers.WandP-Shipping-Agents.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/PageExtension/WP.Carriers.WandP-Shipping-Agents.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/PageExtension/WP.Carriers.WandPSalesShipSubform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/PageExtension/WP.Carriers.WandPSalesShipSubform.html"
         }
       },
       "version": ""
@@ -2448,6 +2568,16 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/PermissionSet/WP.Carriers.WandPCarrier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/PermissionSet/WP.Carriers.WandPCarrier.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-carriers/PermissionSet/WandPCarrier.yml",
       "output": {
         ".html": {
@@ -2458,10 +2588,110 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-carriers/Table/WandPCarrierLog.yml",
       "output": {
         ".html": {
           "relative_path": "reference/wp-carriers/Table/WandPCarrierLog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandP-Agent-Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandP-Agent-Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandP-Registered-Picks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandP-Registered-Picks.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Invoice-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Invoice-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandPPostedWhseShipLine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandPPostedWhseShipLine.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandPSalesInvLineAggregate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandPSalesInvLineAggregate.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandPSalesShipmentLine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandPSalesShipmentLine.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandPWhseShipLine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandPWhseShipLine.html"
         }
       },
       "version": ""

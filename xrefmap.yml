@@ -1324,6 +1324,51 @@ references:
 - uid: F:Table::Resultant_Prices.SystemRowVersion
   name: SystemRowVersion
   href: reference/wp-reports/Table/Resultant-Prices.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.DateTime
+  name: DateTime
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.DocumentNo[20]
+  name: DocumentNo
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.Message[2048]
+  name: Message
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.RequestBody[2048]
+  name: RequestBody
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.RequestURI[250]
+  name: RequestURI
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.ResponseBody[2048]
+  name: ResponseBody
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.StatusCode
+  name: StatusCode
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.SystemId
+  name: SystemId
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.Type[50]
+  name: Type
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Carriers#WandPCarrierLog.id
+  name: id
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
 - uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation.Attribute_ID
   name: "\"Attribute ID\""
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html
@@ -3997,6 +4042,135 @@ references:
 - uid: F:TableExtension::WP#ADR#Wandp_Items.WandP_UN_Code[10]
   name: "\"WandP UN Code\""
   href: reference/wp-dangerous-goods/TableExtension/WP.ADR.Wandp-Items.html
+- uid: F:TableExtension::WP#Carriers#WandPPostedWhseShipLine.WandPConsignmentRef[100]
+  name: WandPConsignmentRef
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPPostedWhseShipLine.html
+- uid: F:TableExtension::WP#Carriers#WandPPostedWhseShipLine.WandPNoOfPackages
+  name: WandPNoOfPackages
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPPostedWhseShipLine.html
+- uid: F:TableExtension::WP#Carriers#WandPPostedWhseShipLine.WandPPacker[50]
+  name: WandPPacker
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPPostedWhseShipLine.html
+- uid: F:TableExtension::WP#Carriers#WandPPostedWhseShipLine.WandPShippingAgent[20]
+  name: WandPShippingAgent
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPPostedWhseShipLine.html
+- uid: F:TableExtension::WP#Carriers#WandPSalesInvLineAggregate.WandPConsignmentRef[100]
+  name: WandPConsignmentRef
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPSalesInvLineAggregate.html
+- uid: F:TableExtension::WP#Carriers#WandPSalesInvLineAggregate.WandPNoOfPackages
+  name: WandPNoOfPackages
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPSalesInvLineAggregate.html
+- uid: F:TableExtension::WP#Carriers#WandPSalesInvLineAggregate.WandPPacker[50]
+  name: WandPPacker
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPSalesInvLineAggregate.html
+- uid: F:TableExtension::WP#Carriers#WandPSalesInvLineAggregate.WandPShippingAgent[20]
+  name: WandPShippingAgent
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPSalesInvLineAggregate.html
+- uid: F:TableExtension::WP#Carriers#WandPSalesShipmentLine.WandPConsignmentRef[100]
+  name: WandPConsignmentRef
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPSalesShipmentLine.html
+- uid: F:TableExtension::WP#Carriers#WandPSalesShipmentLine.WandPNoOfPackages
+  name: WandPNoOfPackages
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPSalesShipmentLine.html
+- uid: F:TableExtension::WP#Carriers#WandPSalesShipmentLine.WandPPacker[50]
+  name: WandPPacker
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPSalesShipmentLine.html
+- uid: F:TableExtension::WP#Carriers#WandPSalesShipmentLine.WandPShippingAgent[20]
+  name: WandPShippingAgent
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPSalesShipmentLine.html
+- uid: F:TableExtension::WP#Carriers#WandPWhseShipLine.WandPConsignmentRef[100]
+  name: WandPConsignmentRef
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPWhseShipLine.html
+- uid: F:TableExtension::WP#Carriers#WandPWhseShipLine.WandPNoOfPackages
+  name: WandPNoOfPackages
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPWhseShipLine.html
+- uid: F:TableExtension::WP#Carriers#WandPWhseShipLine.WandPPacker[50]
+  name: WandPPacker
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPWhseShipLine.html
+- uid: F:TableExtension::WP#Carriers#WandPWhseShipLine.WandPShippingAgent[20]
+  name: WandPShippingAgent
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPWhseShipLine.html
+- uid: F:TableExtension::WP#Carriers#WandP_Agent_Services.WandPAPICode[50]
+  name: WandPAPICode
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Agent-Services.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.Address1MaxLength
+  name: Address1MaxLength
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.Address2MaxLength
+  name: Address2MaxLength
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.Address3MaxLength
+  name: Address3MaxLength
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.Address4MaxLength
+  name: Address4MaxLength
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.CityMaxLength
+  name: CityMaxLength
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.InstructionsMaxLength
+  name: InstructionsMaxLength
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.NameMaxLength
+  name: NameMaxLength
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.PostCodeMaxLength
+  name: PostCodeMaxLength
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.WandPAPICreateShipmentURL[100]
+  name: WandPAPICreateShipmentURL
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.WandPAPIGetLabelsURL[100]
+  name: WandPAPIGetLabelsURL
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.WandPAPIRootURL[250]
+  name: WandPAPIRootURL
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.WandPCarrierBranchCode[20]
+  name: WandPCarrierBranchCode
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.WandPClientSecret[100]
+  name: WandPClientSecret
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.WandPCustomerAccountNumber[50]
+  name: WandPCustomerAccountNumber
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.WandPIntegrationType
+  name: WandPIntegrationType
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.WandPSessionKeyURL[100]
+  name: WandPSessionKeyURL
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents.WandPUseForCarrierIntegration
+  name: WandPUseForCarrierIntegration
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: F:TableExtension::WP#Carriers#WandP_Registered_Picks.WandP_Sent_to_Carrier
+  name: "\"WandP Sent to Carrier\""
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Registered-Picks.html
+- uid: F:TableExtension::WP#Carriers#WandP_Sales_Invoice_Line.WandPConsignmentRef[100]
+  name: WandPConsignmentRef
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Invoice-Line.html
+- uid: F:TableExtension::WP#Carriers#WandP_Sales_Invoice_Line.WandPNoOfPackages
+  name: WandPNoOfPackages
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Invoice-Line.html
+- uid: F:TableExtension::WP#Carriers#WandP_Sales_Invoice_Line.WandPPacker[50]
+  name: WandPPacker
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Invoice-Line.html
+- uid: F:TableExtension::WP#Carriers#WandP_Sales_Invoice_Line.WandPShippingAgent[20]
+  name: WandPShippingAgent
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Invoice-Line.html
+- uid: F:TableExtension::WP#Carriers#WandP_Sales_Line.WandPConsignmentRef[100]
+  name: WandPConsignmentRef
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Line.html
+- uid: F:TableExtension::WP#Carriers#WandP_Sales_Line.WandPNoOfPackages
+  name: WandPNoOfPackages
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Line.html
+- uid: F:TableExtension::WP#Carriers#WandP_Sales_Line.WandPPacker[50]
+  name: WandPPacker
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Line.html
+- uid: F:TableExtension::WP#Carriers#WandP_Sales_Line.WandPShippingAgent[20]
+  name: WandPShippingAgent
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Line.html
 - uid: F:TableExtension::WP#DocumentEmails#WandP_Customer.WandPNoDeliveryEmail
   name: WandPNoDeliveryEmail
   href: reference/wp-document-emails/TableExtension/WP.DocumentEmails.WandP-Customer.html
@@ -4510,6 +4684,36 @@ references:
 - uid: M:Codeunit::UoM_copy.CopyMeasures(Item_Unit_of_Measure@)
   name: CopyMeasures
   href: reference/wp-uom-extension/Codeunit/UoM-copy.html
+- uid: M:Codeunit::WP#Carriers#WandPGenericAPICalls.GenericAPICall(HttpRequestMessage,Code[20]):JsonObject
+  name: GenericAPICall
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandPGenericAPICalls.html
+- uid: M:Codeunit::WP#Carriers#WandP_APC.CreateShipment(Page::WP#Carriers#WandPConsignmentDialog):Boolean
+  name: CreateShipment
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-APC.html
+- uid: M:Codeunit::WP#Carriers#WandP_APC.PrintLabel(Text[100],Shipping_Agent,Code[20]):Boolean
+  name: PrintLabel
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-APC.html
+- uid: M:Codeunit::WP#Carriers#WandP_DX.CreateShipment(Page::WP#Carriers#WandPConsignmentDialog):Boolean
+  name: CreateShipment
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-DX.html
+- uid: M:Codeunit::WP#Carriers#WandP_DX.GetDXSessionKey(Shipping_Agent):Text
+  name: GetDXSessionKey
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-DX.html
+- uid: M:Codeunit::WP#Carriers#WandP_DX.PrintLabel(Text[100],Shipping_Agent,Code[20]):Boolean
+  name: PrintLabel
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-DX.html
+- uid: M:Codeunit::WP#Carriers#WandP_Logging.LogMessage(Text[2048])
+  name: LogMessage
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-Logging.html
+- uid: M:Codeunit::WP#Carriers#WandP_Logging.LogMessage(Text[2048],Text[50])
+  name: LogMessage
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-Logging.html
+- uid: M:Codeunit::WP#Carriers#WandP_Logging.LogMessage(Text[2048],Text[50],Code[20])
+  name: LogMessage
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-Logging.html
+- uid: M:Codeunit::WP#Carriers#WandP_Logging.LogMessage(Text[2048],Text[50],Text[2048],Text[250],Text[2048],Integer,Code[20])
+  name: LogMessage
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-Logging.html
 - uid: M:Codeunit::WP#Catalogues#WandP_Snapshot_Catalogue.Main
   name: Main
   href: reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.WandP-Snapshot-Catalogue.html
@@ -4672,6 +4876,57 @@ references:
 - uid: M:Page::WP#APIPages#Sales_Orders_API.ShipAndInvoice(WebServiceActionContext@)
   name: ShipAndInvoice
   href: reference/wp-api-pages/Page/WP.APIPages.Sales-Orders-API.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetInstructions:Text[1024]
+  name: GetInstructions
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetNoPackages:Integer
+  name: GetNoPackages
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetPacker:Code[50]
+  name: GetPacker
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetSalesOrderNo:Code[20]
+  name: GetSalesOrderNo
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetShipAgent:Shipping_Agent
+  name: GetShipAgent
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetShipAgentService:Shipping_Agent_Services
+  name: GetShipAgentService
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetShipToAddress2:Text[50]
+  name: GetShipToAddress2
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetShipToAddress3:Text[50]
+  name: GetShipToAddress3
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetShipToAddress4:Text[50]
+  name: GetShipToAddress4
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetShipToAddress5:Text[50]
+  name: GetShipToAddress5
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetShipToAddress:Text[100]
+  name: GetShipToAddress
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetShipToCity:Text[30]
+  name: GetShipToCity
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetShipToName:Text[100]
+  name: GetShipToName
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetShipToPostCode:Code[20]
+  name: GetShipToPostCode
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.GetShipment:Warehouse_Shipment_Header
+  name: GetShipment
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.SetValues(Code[20]):Boolean
+  name: SetValues
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: M:Page::WP#Carriers#WandPConsignmentDialog.ValidateAll:Boolean
+  name: ValidateAll
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
 - uid: M:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value_List.LoadAttributes(Integer,Code[20])
   name: LoadAttributes
   href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.html
@@ -5194,6 +5449,26 @@ references:
   name: "\"WandP Dangerous Goods\""
   fqName: Codeunit WP.ADR."WandP Dangerous Goods"
   href: reference/wp-dangerous-goods/Codeunit/WP.ADR.WandP-Dangerous-Goods.html
+- uid: O:Codeunit::WP#Carriers#WandPGenericAPICalls
+  name: WandPGenericAPICalls
+  fqName: Codeunit WP.Carriers.WandPGenericAPICalls
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandPGenericAPICalls.html
+- uid: O:Codeunit::WP#Carriers#WandP_APC
+  name: "\"WandP APC\""
+  fqName: Codeunit WP.Carriers."WandP APC"
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-APC.html
+- uid: O:Codeunit::WP#Carriers#WandP_DX
+  name: "\"WandP DX\""
+  fqName: Codeunit WP.Carriers."WandP DX"
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-DX.html
+- uid: O:Codeunit::WP#Carriers#WandP_Event_Subscriber
+  name: "\"WandP Event Subscriber\""
+  fqName: Codeunit WP.Carriers."WandP Event Subscriber"
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-Event-Subscriber.html
+- uid: O:Codeunit::WP#Carriers#WandP_Logging
+  name: "\"WandP Logging\""
+  fqName: Codeunit WP.Carriers."WandP Logging"
+  href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-Logging.html
 - uid: O:Codeunit::WP#Catalogues#WandP_Snapshot_Catalogue
   name: "\"WandP Snapshot Catalogue\""
   fqName: Codeunit WP.Catalogues."WandP Snapshot Catalogue"
@@ -5600,6 +5875,18 @@ references:
   name: "\"Whse Shipment Lines API\""
   fqName: Page WP.APIPages."Whse Shipment Lines API"
   href: reference/wp-api-pages/Page/WP.APIPages.Whse-Shipment-Lines-API.html
+- uid: O:Page::WP#Carriers#Shipping_Agent_Card
+  name: "\"Shipping Agent Card\""
+  fqName: Page WP.Carriers."Shipping Agent Card"
+  href: reference/wp-carriers/Page/WP.Carriers.Shipping-Agent-Card.html
+- uid: O:Page::WP#Carriers#WandPConsignmentDialog
+  name: WandPConsignmentDialog
+  fqName: Page WP.Carriers.WandPConsignmentDialog
+  href: reference/wp-carriers/Page/WP.Carriers.WandPConsignmentDialog.html
+- uid: O:Page::WP#Carriers#WandP_Carrier_Log
+  name: "\"WandP Carrier Log\""
+  fqName: Page WP.Carriers."WandP Carrier Log"
+  href: reference/wp-carriers/Page/WP.Carriers.WandP-Carrier-Log.html
 - uid: O:Page::WP#CustomerVendorAttributes#Cust/VendAttribValTranslations
   name: "\"Cust/VendAttribValTranslations\""
   fqName: Page WP.CustomerVendorAttributes."Cust/VendAttribValTranslations"
@@ -6124,10 +6411,26 @@ references:
   name: WandPSalesRecSetup
   fqName: PageExtension WP.Alerts.WandPSalesRecSetup
   href: reference/wp-alerts/PageExtension/WP.Alerts.WandPSalesRecSetup.html
+- uid: O:PageExtension::WP#Carriers#SalesInvSubform
+  name: SalesInvSubform
+  fqName: PageExtension WP.Carriers.SalesInvSubform
+  href: reference/wp-carriers/PageExtension/WP.Carriers.SalesInvSubform.html
+- uid: O:PageExtension::WP#Carriers#WandPSalesShipSubform
+  name: WandPSalesShipSubform
+  fqName: PageExtension WP.Carriers.WandPSalesShipSubform
+  href: reference/wp-carriers/PageExtension/WP.Carriers.WandPSalesShipSubform.html
 - uid: O:PageExtension::WP#Carriers#WandP_Agent_Services
   name: "\"WandP Agent Services\""
   fqName: PageExtension WP.Carriers."WandP Agent Services"
   href: reference/wp-carriers/PageExtension/WP.Carriers.WandP-Agent-Services.html
+- uid: O:PageExtension::WP#Carriers#WandP_Sales_Order
+  name: "\"WandP Sales Order\""
+  fqName: PageExtension WP.Carriers."WandP Sales Order"
+  href: reference/wp-carriers/PageExtension/WP.Carriers.WandP-Sales-Order.html
+- uid: O:PageExtension::WP#Carriers#WandP_Shipping_Agents
+  name: "\"WandP Shipping Agents\""
+  fqName: PageExtension WP.Carriers."WandP Shipping Agents"
+  href: reference/wp-carriers/PageExtension/WP.Carriers.WandP-Shipping-Agents.html
 - uid: O:PageExtension::WP#CustomerVendorAttributes#Customer_Card
   name: "\"Customer Card\""
   fqName: PageExtension WP.CustomerVendorAttributes."Customer Card"
@@ -6510,6 +6813,10 @@ references:
   name: "\"WandP Table A Read\""
   fqName: PermissionSet WP.ADR."WandP Table A Read"
   href: reference/wp-dangerous-goods/PermissionSet/WP.ADR.WandP-Table-A-Read.html
+- uid: O:PermissionSet::WP#Carriers#WandPCarrier
+  name: WandPCarrier
+  fqName: PermissionSet WP.Carriers.WandPCarrier
+  href: reference/wp-carriers/PermissionSet/WP.Carriers.WandPCarrier.html
 - uid: O:PermissionSet::WP#CustomerVendorAttributes#CustVendAttribApply
   name: CustVendAttribApply
   summary: >
@@ -6856,6 +7163,10 @@ references:
   name: "\"Resultant Prices\""
   fqName: Table "Resultant Prices"
   href: reference/wp-reports/Table/Resultant-Prices.html
+- uid: O:Table::WP#Carriers#WandPCarrierLog
+  name: WandPCarrierLog
+  fqName: Table WP.Carriers.WandPCarrierLog
+  href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
 - uid: O:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation
   name: "\"Cust/VendAttribValTranslation\""
   fqName: Table WP.CustomerVendorAttributes."Cust/VendAttribValTranslation"
@@ -7088,6 +7399,42 @@ references:
   name: "\"Wandp Items\""
   fqName: TableExtension WP.ADR."Wandp Items"
   href: reference/wp-dangerous-goods/TableExtension/WP.ADR.Wandp-Items.html
+- uid: O:TableExtension::WP#Carriers#WandPPostedWhseShipLine
+  name: WandPPostedWhseShipLine
+  fqName: TableExtension WP.Carriers.WandPPostedWhseShipLine
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPPostedWhseShipLine.html
+- uid: O:TableExtension::WP#Carriers#WandPSalesInvLineAggregate
+  name: WandPSalesInvLineAggregate
+  fqName: TableExtension WP.Carriers.WandPSalesInvLineAggregate
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPSalesInvLineAggregate.html
+- uid: O:TableExtension::WP#Carriers#WandPSalesShipmentLine
+  name: WandPSalesShipmentLine
+  fqName: TableExtension WP.Carriers.WandPSalesShipmentLine
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPSalesShipmentLine.html
+- uid: O:TableExtension::WP#Carriers#WandPWhseShipLine
+  name: WandPWhseShipLine
+  fqName: TableExtension WP.Carriers.WandPWhseShipLine
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandPWhseShipLine.html
+- uid: O:TableExtension::WP#Carriers#WandP_Agent_Services
+  name: "\"WandP Agent Services\""
+  fqName: TableExtension WP.Carriers."WandP Agent Services"
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Agent-Services.html
+- uid: O:TableExtension::WP#Carriers#WandP_Carrier_Shipping_Agents
+  name: "\"WandP Carrier Shipping Agents\""
+  fqName: TableExtension WP.Carriers."WandP Carrier Shipping Agents"
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Carrier-Shipping-Agents.html
+- uid: O:TableExtension::WP#Carriers#WandP_Registered_Picks
+  name: "\"WandP Registered Picks\""
+  fqName: TableExtension WP.Carriers."WandP Registered Picks"
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Registered-Picks.html
+- uid: O:TableExtension::WP#Carriers#WandP_Sales_Invoice_Line
+  name: "\"WandP Sales Invoice Line\""
+  fqName: TableExtension WP.Carriers."WandP Sales Invoice Line"
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Invoice-Line.html
+- uid: O:TableExtension::WP#Carriers#WandP_Sales_Line
+  name: "\"WandP Sales Line\""
+  fqName: TableExtension WP.Carriers."WandP Sales Line"
+  href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Line.html
 - uid: O:TableExtension::WP#DocumentEmails#WandP_Customer
   name: "\"WandP Customer\""
   fqName: TableExtension WP.DocumentEmails."WandP Customer"
