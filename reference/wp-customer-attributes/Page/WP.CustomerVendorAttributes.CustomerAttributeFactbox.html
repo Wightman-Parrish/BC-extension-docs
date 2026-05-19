@@ -71,11 +71,11 @@
           <nav id="breadcrumb"></nav>
         </div>
 
-        <article data-uid="O:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Values">
-  <h1>Page &quot;Cust/Vend Attribute Values&quot;</h1>
+        <article data-uid="O:Page::WP#CustomerVendorAttributes#CustomerAttributeFactbox">
+  <h1>Page CustomerAttributeFactbox</h1>
 
 
-<div class="font-style-italic">ID 72802</div>
+<div class="font-style-italic">ID 72803</div>
 <div class="font-style-italic">Namespace: WP.CustomerVendorAttributes</div>
 
 <div class="font-style-italic">Source table: <a class="xref" href="../Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html">Table WP.CustomerVendorAttributes.&quot;Cust/Vend Attribute Value&quot;</a></div>
@@ -96,19 +96,37 @@
   			<tr>
   					<td>Caption</td>
   					<td class="font-style-italic">
-							Customer / Vendor Attribute Values
+							Customer Attributes
   					</td>
   			</tr>
   			<tr>
-  					<td>DataCaptionFields</td>
+  					<td>DeleteAllowed</td>
   					<td class="font-style-italic">
-							1
+							False
+  					</td>
+  			</tr>
+  			<tr>
+  					<td>InsertAllowed</td>
+  					<td class="font-style-italic">
+							False
+  					</td>
+  			</tr>
+  			<tr>
+  					<td>ModifyAllowed</td>
+  					<td class="font-style-italic">
+							False
   					</td>
   			</tr>
   			<tr>
   					<td class="font-weight-bold">PageType</td>
   					<td class="font-style-italic font-weight-bold">
-							List
+							ListPart
+  					</td>
+  			</tr>
+  			<tr>
+  					<td>RefreshOnActivate</td>
+  					<td class="font-style-italic">
+							True
   					</td>
   			</tr>
   			<tr>
@@ -117,19 +135,58 @@
 <a class="xref" href="../Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html">Table WP.CustomerVendorAttributes.&quot;Cust/Vend Attribute Value&quot;</a>  					</td>
   			</tr>
   			<tr>
-  					<td>UsageCategory</td>
+  					<td>SourceTableTemporary</td>
   					<td class="font-style-italic">
-							None
+							True
   					</td>
   			</tr>
   			<tr>
   					<td>Description</td>
   					<td class="font-style-italic">
-							Shows list of attribute values. Generally used to show allowed values for option type attributes.
+							Attribute factbox to be added to customer list and card.
+  					</td>
+  			</tr>
+  			<tr>
+  					<td>UsageCategory</td>
+  					<td class="font-style-italic">
+							None
   					</td>
   			</tr>
   		</tbody>
   	</table>
+  	<h2 id="methods">Methods</h2>
+   <h3 class="memberNameHolder">LoadCustomerAttributesData</h3>
+   <div class="memberInfo">
+
+
+   		<pre><code dir="ltr" class="hljs lang-al">procedure LoadCustomerAttributesData(KeyValue: Code[20])</code></pre>
+
+   			<h4>Parameters</h4>
+   			<table class="table">
+   				<thead>
+   					<tr>
+   						<th>Name</th>
+   						<th>Type</th>
+   						<th>Description</th>
+   					</tr>
+   				</thead>
+   				<tbody>
+   						<tr>
+   							<td>
+								KeyValue
+   							</td>
+   							<td class="font-style-italic">
+Code[20]                 </td>
+   							<td>
+								
+   							</td>
+   						</tr>
+   				</tbody>
+   			</table>
+
+
+
+   </div>
 
   	<h2 id="see-also">See also</h2>
   	<ul>

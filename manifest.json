@@ -2868,6 +2868,16 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.CustomerAttributeFactbox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.CustomerAttributeFactbox.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Vend-Attrib-Value-Editor.yml",
       "output": {
         ".html": {

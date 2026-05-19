@@ -108,7 +108,7 @@
   			<tr>
   					<td>Description</td>
   					<td class="font-style-italic">
-							Lists mapping of attribute values to vustomers and vendors.
+							Lists mapping of attribute values to customers and vendors.
   					</td>
   			</tr>
   		</tbody>
@@ -128,7 +128,7 @@
   					<td class="font-style-italic">
 Integer						
   					</td>
-  					<td><p>The table of the record to which the attribute applies (for example Database::Customer or Database::&quot;Vendor&quot;)</p>
+  					<td><p>The table of the record to which the attribute applies (for example Database::Customer or Database::&quot;Vendor&quot;).</p>
 </td>
   				</tr>
   				<tr>
@@ -136,21 +136,24 @@ Integer
   					<td class="font-style-italic">
 Code[20]						
   					</td>
-  					<td></td>
+  					<td><p>The key of the record to which the attribute applies (the record type is specified by &quot;Table ID&quot;).</p>
+</td>
   				</tr>
   				<tr>
   					<td>&quot;Attribute ID&quot;</td>
   					<td class="font-style-italic">
 Integer						
   					</td>
-  					<td></td>
+  					<td><p>ID of attribute, links to attribute table.</p>
+</td>
   				</tr>
   				<tr>
   					<td>&quot;Attribute Value ID&quot;</td>
   					<td class="font-style-italic">
 Integer						
   					</td>
-  					<td></td>
+  					<td><p>ID of the attribute value from the attribute value table</p>
+</td>
   				</tr>
   				<tr>
   					<td>SystemId</td>
@@ -200,6 +203,12 @@ BigInteger
    <h3 class="memberNameHolder">RenameAttributeValueMapping</h3>
    <div class="memberInfo">
 
+   		<div class="summaryHolder">
+   			<div class="summary">
+				<p>Recodes attribute mapping to a new customer / vendor</p>
+
+   			</div>
+   		</div>
 
    		<pre><code dir="ltr" class="hljs lang-al">procedure RenameAttributeValueMapping(TableID: Integer; PrevNo: Code[20]; NewNo: Code[20])</code></pre>
 

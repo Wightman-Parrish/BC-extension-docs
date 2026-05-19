@@ -4693,6 +4693,9 @@ references:
 - uid: M:Page::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value_List.OnLoadAttributesOnBeforeTempAttributeValueInsert(Cust/Vend_Attribute_Value@,Cust/Vend_Attrib_Value_Mapping,Code[20])
   name: OnLoadAttributesOnBeforeTempAttributeValueInsert
   href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value-List.html
+- uid: M:Page::WP#CustomerVendorAttributes#CustomerAttributeFactbox.LoadCustomerAttributesData(Code[20])
+  name: LoadCustomerAttributesData
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.CustomerAttributeFactbox.html
 - uid: M:Page::WP#EDI#WandP_Indicater.CreateCSVFile
   name: CreateCSVFile
   href: reference/wp-edi/Page/WP.EDI.WandP-Indicater.html
@@ -4921,11 +4924,17 @@ references:
 - uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.AttributeExists(Integer):Boolean
   name: AttributeExists
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetAttributeNameInCurrentLanguage:Text[250]
+  name: GetAttributeNameInCurrentLanguage
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
 - uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetTranslatedName(Integer):Text[250]
   name: GetTranslatedName
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
 - uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetTranslatedNameByLanguageCode(Code[10]):Text[250]
   name: GetTranslatedNameByLanguageCode
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetValueInCurrentLanguage:Text[250]
+  name: GetValueInCurrentLanguage
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
 - uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.GetValueInCurrentLanguageWithoutUnitOfMeasure:Text[250]
   name: GetValueInCurrentLanguageWithoutUnitOfMeasure
@@ -4941,6 +4950,9 @@ references:
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
 - uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.LookupAttributeValue(Integer,Integer@)
   name: LookupAttributeValue
+  href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
+- uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.OnAfterGetValueInCurrentLanguage(Cust/Vend_Attribute_Value,Text[250]@)
+  name: OnAfterGetValueInCurrentLanguage
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-Vend-Attribute-Value.html
 - uid: M:Table::WP#CustomerVendorAttributes#Cust/Vend_Attribute_Value.OnAfterHasBeenUsed(Cust/Vend_Attribute_Value,Boolean@)
   name: OnAfterHasBeenUsed
@@ -5602,6 +5614,10 @@ references:
   name: "\"Cust Attrib Value Editor\""
   fqName: Page WP.CustomerVendorAttributes."Cust Attrib Value Editor"
   href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Cust-Attrib-Value-Editor.html
+- uid: O:Page::WP#CustomerVendorAttributes#CustomerAttributeFactbox
+  name: CustomerAttributeFactbox
+  fqName: Page WP.CustomerVendorAttributes.CustomerAttributeFactbox
+  href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.CustomerAttributeFactbox.html
 - uid: O:Page::WP#CustomerVendorAttributes#Customer_/_Vendor_Attribute
   name: "\"Customer / Vendor Attribute\""
   fqName: Page WP.CustomerVendorAttributes."Customer / Vendor Attribute"
@@ -6486,14 +6502,20 @@ references:
   href: reference/wp-dangerous-goods/PermissionSet/WP.ADR.WandP-Table-A-Read.html
 - uid: O:PermissionSet::WP#CustomerVendorAttributes#CustVendAttribApply
   name: CustVendAttribApply
+  summary: >
+    <p sourcefile="reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribApply.yml" sourcestartlinenumber="1" jsonPath="/summary">Allows application of attributes to customers and vendors.</p>
   fqName: PermissionSet WP.CustomerVendorAttributes.CustVendAttribApply
   href: reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribApply.html
 - uid: O:PermissionSet::WP#CustomerVendorAttributes#CustVendAttribEdit
   name: CustVendAttribEdit
+  summary: >
+    <p sourcefile="reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribEdit.yml" sourcestartlinenumber="1" jsonPath="/summary">Allows editing of attributes.</p>
   fqName: PermissionSet WP.CustomerVendorAttributes.CustVendAttribEdit
   href: reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribEdit.html
 - uid: O:PermissionSet::WP#CustomerVendorAttributes#CustVendAttribRead
   name: CustVendAttribRead
+  summary: >
+    <p sourcefile="reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribRead.yml" sourcestartlinenumber="1" jsonPath="/summary">Allows reading of attributes.</p>
   fqName: PermissionSet WP.CustomerVendorAttributes.CustVendAttribRead
   href: reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribRead.html
 - uid: O:PermissionSet::WP#EDI#WandP_EDI_Edit
