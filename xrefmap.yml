@@ -5041,6 +5041,12 @@ references:
 - uid: N:Module::WP_Carriers
   name: WP Carriers
   href: reference/wp-carriers/Module/WP-Carriers.html
+- uid: N:Module::WP_Carriers::Namespace::WP
+  name: WP
+  href: reference/wp-carriers/Namespace/WP.html
+- uid: N:Module::WP_Carriers::Namespace::WP.Carriers
+  name: WP.Carriers
+  href: reference/wp-carriers/Namespace/WP.Carriers.html
 - uid: N:Module::WP_Continia
   name: WP Continia
   href: reference/wp-continia/Module/WP-Continia.html
@@ -6118,6 +6124,10 @@ references:
   name: WandPSalesRecSetup
   fqName: PageExtension WP.Alerts.WandPSalesRecSetup
   href: reference/wp-alerts/PageExtension/WP.Alerts.WandPSalesRecSetup.html
+- uid: O:PageExtension::WP#Carriers#WandP_Agent_Services
+  name: "\"WandP Agent Services\""
+  fqName: PageExtension WP.Carriers."WandP Agent Services"
+  href: reference/wp-carriers/PageExtension/WP.Carriers.WandP-Agent-Services.html
 - uid: O:PageExtension::WP#CustomerVendorAttributes#Customer_Card
   name: "\"Customer Card\""
   fqName: PageExtension WP.CustomerVendorAttributes."Customer Card"

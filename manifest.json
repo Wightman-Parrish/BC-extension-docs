@@ -2337,6 +2337,26 @@
       "version": ""
     },
     {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-carriers/Namespace/WP.Carriers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/Namespace/WP.Carriers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-carriers/Namespace/WP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/Namespace/WP.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-carriers/Page/Shipping-Agent-Card.yml",
       "output": {
@@ -2372,6 +2392,16 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-carriers/PageExtension/SalesInvSubform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/PageExtension/WP.Carriers.WandP-Agent-Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/PageExtension/WP.Carriers.WandP-Agent-Services.html"
         }
       },
       "version": ""
