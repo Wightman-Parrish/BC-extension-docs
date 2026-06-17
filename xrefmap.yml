@@ -5431,6 +5431,12 @@ references:
 - uid: N:Module::WP_prices_and_rebates
   name: WP prices and rebates
   href: reference/wp-prices-and-rebates/Module/WP-prices-and-rebates.html
+- uid: N:Module::WP_prices_and_rebates::Namespace::WP
+  name: WP
+  href: reference/wp-prices-and-rebates/Namespace/WP.html
+- uid: N:Module::WP_prices_and_rebates::Namespace::WP.Prices
+  name: WP.Prices
+  href: reference/wp-prices-and-rebates/Namespace/WP.Prices.html
 - uid: N:Module::WP_prices_and_rebates_obsolete_by_[Untagged]
   tag: '[Untagged]'
   href: reference/wp-prices-and-rebates/Obsoletion/obsolete_by_%5BUntagged%5D.html
@@ -5958,6 +5964,10 @@ references:
   name: "\"WandP ITS Item Overrides\""
   fqName: Page WP.ITS."WandP ITS Item Overrides"
   href: reference/wp-its-extension/Page/WP.ITS.WandP-ITS-Item-Overrides.html
+- uid: O:Page::WP#Prices#WandP_Item_Switch
+  name: "\"WandP Item Switch\""
+  fqName: Page WP.Prices."WandP Item Switch"
+  href: reference/wp-prices-and-rebates/Page/WP.Prices.WandP-Item-Switch.html
 - uid: O:Page::WP#Reports#Pickable_Order_Lines
   name: "\"Pickable Order Lines\""
   fqName: Page WP.Reports."Pickable Order Lines"

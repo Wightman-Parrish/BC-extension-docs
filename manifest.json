@@ -4523,11 +4523,41 @@
       "version": ""
     },
     {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-prices-and-rebates/Namespace/WP.Prices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-prices-and-rebates/Namespace/WP.Prices.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-prices-and-rebates/Namespace/WP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-prices-and-rebates/Namespace/WP.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralObsoletionList",
       "source_relative_path": "reference/wp-prices-and-rebates/Obsoletion/obsolete_by_[Untagged].yml",
       "output": {
         ".html": {
           "relative_path": "reference/wp-prices-and-rebates/Obsoletion/obsolete_by_[Untagged].html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-prices-and-rebates/Page/WP.Prices.WandP-Item-Switch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-prices-and-rebates/Page/WP.Prices.WandP-Item-Switch.html"
         }
       },
       "version": ""
