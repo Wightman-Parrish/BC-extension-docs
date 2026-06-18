@@ -2266,6 +2266,33 @@ references:
 - uid: F:Table::WP#ITS#WandP_ITS_Invoices_Sent.Transtype
   name: Transtype
   href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Invoices-Sent.html
+- uid: F:Table::WP#ITS#WandP_ITS_Item_overrides.Alias[50]
+  name: Alias
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Item-overrides.html
+- uid: F:Table::WP#ITS#WandP_ITS_Item_overrides.Itemcode[20]
+  name: Itemcode
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Item-overrides.html
+- uid: F:Table::WP#ITS#WandP_ITS_Item_overrides.OverrideAlias[50]
+  name: OverrideAlias
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Item-overrides.html
+- uid: F:Table::WP#ITS#WandP_ITS_Item_overrides.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Item-overrides.html
+- uid: F:Table::WP#ITS#WandP_ITS_Item_overrides.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Item-overrides.html
+- uid: F:Table::WP#ITS#WandP_ITS_Item_overrides.SystemId
+  name: SystemId
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Item-overrides.html
+- uid: F:Table::WP#ITS#WandP_ITS_Item_overrides.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Item-overrides.html
+- uid: F:Table::WP#ITS#WandP_ITS_Item_overrides.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Item-overrides.html
+- uid: F:Table::WP#ITS#WandP_ITS_Item_overrides.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Item-overrides.html
 - uid: F:Table::WP#ITS#WandP_ITS_Temp_Data.Amount[100]
   name: Amount
   href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Temp-Data.html
@@ -7624,6 +7651,10 @@ references:
   name: "\"WandP ITS Invoices Sent\""
   fqName: Table WP.ITS."WandP ITS Invoices Sent"
   href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Invoices-Sent.html
+- uid: O:Table::WP#ITS#WandP_ITS_Item_overrides
+  name: "\"WandP ITS Item overrides\""
+  fqName: Table WP.ITS."WandP ITS Item overrides"
+  href: reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Item-overrides.html
 - uid: O:Table::WP#ITS#WandP_ITS_Temp_Data
   name: "\"WandP ITS Temp Data\""
   fqName: Table WP.ITS."WandP ITS Temp Data"

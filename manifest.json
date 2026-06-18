@@ -1164,9 +1164,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "UidNotFound"
-      ],
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-api-pages/Page/WP.APIPages.ITS-Item-Overrides-API.yml",
       "output": {
@@ -4382,6 +4379,16 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Invoices-Sent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Item-overrides.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-its-extension/Table/WP.ITS.WandP-ITS-Item-overrides.html"
         }
       },
       "version": ""
