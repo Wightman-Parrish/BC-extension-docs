@@ -3964,6 +3964,59 @@
       "version": ""
     },
     {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-evox-extension/Module/WP-EvoX-extension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-evox-extension/Module/WP-EvoX-extension.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-evox-extension/Namespace/WP.EvoX.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-evox-extension/Namespace/WP.EvoX.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralNamespace",
+      "source_relative_path": "reference/wp-evox-extension/Namespace/WP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-evox-extension/Namespace/WP.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-evox-extension/TableExtension/WP.EvoX.Customer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-evox-extension/TableExtension/WP.EvoX.Customer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/wp-evox-extension/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-evox-extension/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/wp-evox-extension/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-explosive-precursors/Codeunit/EPC-Subscriber.yml",
       "output": {

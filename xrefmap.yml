@@ -4489,6 +4489,9 @@ references:
 - uid: F:TableExtension::WP#EDI#WandP_Invoice_EDI.WandP_EDI_Process[50]
   name: "\"WandP EDI Process\""
   href: reference/wp-edi/TableExtension/WP.EDI.WandP-Invoice-EDI.html
+- uid: F:TableExtension::WP#EvoX#Customer.EvoXSync
+  name: EvoXSync
+  href: reference/wp-evox-extension/TableExtension/WP.EvoX.Customer.html
 - uid: F:TableExtension::WP#QCBins#WandP_QC_Bin.WandPQC
   name: WandPQC
   href: reference/wp-qc-bins/TableExtension/WP.QCBins.WandP-QC-Bin.html
@@ -5677,6 +5680,15 @@ references:
 - uid: N:Module::WP_EDI::Namespace::WP.EDI
   name: WP.EDI
   href: reference/wp-edi/Namespace/WP.EDI.html
+- uid: N:Module::WP_EvoX_extension
+  name: WP EvoX extension
+  href: reference/wp-evox-extension/Module/WP-EvoX-extension.html
+- uid: N:Module::WP_EvoX_extension::Namespace::WP
+  name: WP
+  href: reference/wp-evox-extension/Namespace/WP.html
+- uid: N:Module::WP_EvoX_extension::Namespace::WP.EvoX
+  name: WP.EvoX
+  href: reference/wp-evox-extension/Namespace/WP.EvoX.html
 - uid: N:Module::WP_Explosive_Precursors
   name: WP Explosive Precursors
   href: reference/wp-explosive-precursors/Module/WP-Explosive-Precursors.html
@@ -7887,6 +7899,10 @@ references:
   name: "\"WandP Invoice EDI\""
   fqName: TableExtension WP.EDI."WandP Invoice EDI"
   href: reference/wp-edi/TableExtension/WP.EDI.WandP-Invoice-EDI.html
+- uid: O:TableExtension::WP#EvoX#Customer
+  name: Customer
+  fqName: TableExtension WP.EvoX.Customer
+  href: reference/wp-evox-extension/TableExtension/WP.EvoX.Customer.html
 - uid: O:TableExtension::WP#QCBins#WandP_QC_Bin
   name: "\"WandP QC Bin\""
   fqName: TableExtension WP.QCBins."WandP QC Bin"
