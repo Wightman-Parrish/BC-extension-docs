@@ -1064,9 +1064,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "UidNotFound"
-      ],
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-api-pages/Page/WP.APIPages.CustomerItemRestrictAPI.yml",
       "output": {
@@ -5741,6 +5738,26 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.Catalogue-check.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.Catalogue-check.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.Subscriber.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.Subscriber.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.WandP-Snapshot-Catalogue.yml",
       "output": {
         ".html": {
@@ -5791,6 +5808,46 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/Page/WP.Catalogues.WandP-Catalogue-Hist-Customers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/Page/WP.Catalogues.WandP-Catalogue-Hist-Customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/Page/WP.Catalogues.WandP-Catalogue-Log.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/Page/WP.Catalogues.WandP-Catalogue-Log.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/Page/WP.Catalogues.WandP-Catalogues.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/Page/WP.Catalogues.WandP-Catalogues.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/Page/WP.Catalogues.WandP-Customer-Item-Restrict.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/Page/WP.Catalogues.WandP-Customer-Item-Restrict.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-restrictive-catalogues/Page/WandP-Catalogue-Hist-Customers.yml",
       "output": {
         ".html": {
@@ -5831,6 +5888,56 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.QuoteSubformItemRestrict.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.QuoteSubformItemRestrict.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.SalesQuoteItemRestrict.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.SalesQuoteItemRestrict.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.WandP-Item-Restr-Customer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.WandP-Item-Restr-Customer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.WandP-Sales-ord-item-Restrict.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.WandP-Sales-ord-item-Restrict.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.WandPOrderSubFormItemRestrict.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.WandPOrderSubFormItemRestrict.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-restrictive-catalogues/PageExtension/WandP-Item-Restr-Customer.yml",
       "output": {
         ".html": {
@@ -5861,6 +5968,36 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/PermissionSet/WP.Catalogues.WandPCatLogFull.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/PermissionSet/WP.Catalogues.WandPCatLogFull.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/PermissionSet/WP.Catalogues.WandPItemRestrFull.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/PermissionSet/WP.Catalogues.WandPItemRestrFull.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/PermissionSet/WP.Catalogues.WandPItemRestrRead.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/PermissionSet/WP.Catalogues.WandPItemRestrRead.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-restrictive-catalogues/PermissionSet/WandPCatLogFull.yml",
       "output": {
         ".html": {
@@ -5885,6 +6022,66 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-restrictive-catalogues/PermissionSet/WandPItemRestrRead.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Customers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Temp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Temp.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Customer-Item-Restrict.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Customer-Item-Restrict.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Restricted-catalogues.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Restricted-catalogues.html"
         }
       },
       "version": ""
@@ -5945,6 +6142,26 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-restrictive-catalogues/Table/WandP-Restricted-catalogues.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/TableExtension/WP.Catalogues.WandP-Item-restrict-Customer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/TableExtension/WP.Catalogues.WandP-Item-restrict-Customer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-restrictive-catalogues/TableExtension/WP.Catalogues.WandPSalesLineCatalogue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-restrictive-catalogues/TableExtension/WP.Catalogues.WandPSalesLineCatalogue.html"
         }
       },
       "version": ""

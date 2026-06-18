@@ -1462,6 +1462,189 @@ references:
 - uid: F:Table::WP#Carriers#WandPCarrierLog.id
   name: id
   href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Customers.Customer[20]
+  name: Customer
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Customers.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Customers.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Customers.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Customers.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Customers.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Customers.SystemId
+  name: SystemId
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Customers.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Customers.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Customers.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Customers.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Customers.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Customers.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Customers.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Temp.Customer[20]
+  name: Customer
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Temp.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Temp.Item[20]
+  name: Item
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Temp.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Temp.Price
+  name: Price
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Temp.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Temp.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Temp.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Temp.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Temp.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Temp.SystemId
+  name: SystemId
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Temp.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Temp.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Temp.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Temp.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Temp.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Temp.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Temp.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Hist_Temp.Unit_of_Measure[10]
+  name: "\"Unit of Measure\""
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Temp.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_History.Customer[20]
+  name: Customer
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_History.DateTo
+  name: DateTo
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_History.Date_From
+  name: "\"Date From\""
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_History.Item[20]
+  name: Item
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_History.Price
+  name: Price
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_History.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_History.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_History.SystemId
+  name: SystemId
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_History.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_History.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_History.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_History.Unit_of_Measure[10]
+  name: "\"Unit of Measure\""
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_History.id
+  name: id
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Log.Change
+  name: Change
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Log.Customer[20]
+  name: Customer
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Log.Item[20]
+  name: Item
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Log.Item_Description[100]
+  name: "\"Item Description\""
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Log.Price
+  name: Price
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Log.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Log.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Log.SystemId
+  name: SystemId
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Log.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Log.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Log.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Log.Unit_of_Measure[10]
+  name: "\"Unit of Measure\""
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Log.UpdateDate
+  name: UpdateDate
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: F:Table::WP#Catalogues#WandP_Catalogue_Log.id
+  name: id
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: F:Table::WP#Catalogues#WandP_Customer_Item_Restrict.Catalogue[20]
+  name: Catalogue
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Customer-Item-Restrict.html
+- uid: F:Table::WP#Catalogues#WandP_Customer_Item_Restrict.ItemDescription[100]
+  name: ItemDescription
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Customer-Item-Restrict.html
+- uid: F:Table::WP#Catalogues#WandP_Customer_Item_Restrict.Item[20]
+  name: Item
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Customer-Item-Restrict.html
+- uid: F:Table::WP#Catalogues#WandP_Customer_Item_Restrict.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Customer-Item-Restrict.html
+- uid: F:Table::WP#Catalogues#WandP_Customer_Item_Restrict.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Customer-Item-Restrict.html
+- uid: F:Table::WP#Catalogues#WandP_Customer_Item_Restrict.SystemId
+  name: SystemId
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Customer-Item-Restrict.html
+- uid: F:Table::WP#Catalogues#WandP_Customer_Item_Restrict.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Customer-Item-Restrict.html
+- uid: F:Table::WP#Catalogues#WandP_Customer_Item_Restrict.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Customer-Item-Restrict.html
+- uid: F:Table::WP#Catalogues#WandP_Customer_Item_Restrict.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Customer-Item-Restrict.html
+- uid: F:Table::WP#Catalogues#WandP_Restricted_catalogues.Catalogue[20]
+  name: Catalogue
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Restricted-catalogues.html
+- uid: F:Table::WP#Catalogues#WandP_Restricted_catalogues.Description[100]
+  name: Description
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Restricted-catalogues.html
+- uid: F:Table::WP#Catalogues#WandP_Restricted_catalogues.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Restricted-catalogues.html
+- uid: F:Table::WP#Catalogues#WandP_Restricted_catalogues.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Restricted-catalogues.html
+- uid: F:Table::WP#Catalogues#WandP_Restricted_catalogues.SystemId
+  name: SystemId
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Restricted-catalogues.html
+- uid: F:Table::WP#Catalogues#WandP_Restricted_catalogues.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Restricted-catalogues.html
+- uid: F:Table::WP#Catalogues#WandP_Restricted_catalogues.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Restricted-catalogues.html
+- uid: F:Table::WP#Catalogues#WandP_Restricted_catalogues.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Restricted-catalogues.html
 - uid: F:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation.Attribute_ID
   name: "\"Attribute ID\""
   href: reference/wp-customer-attributes/Table/WP.CustomerVendorAttributes.Cust-VendAttribValTranslation.html
@@ -4264,6 +4447,12 @@ references:
 - uid: F:TableExtension::WP#Carriers#WandP_Sales_Line.WandPShippingAgent[20]
   name: WandPShippingAgent
   href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Line.html
+- uid: F:TableExtension::WP#Catalogues#WandPSalesLineCatalogue.WandPRestrictedItem[20]
+  name: WandPRestrictedItem
+  href: reference/wp-restrictive-catalogues/TableExtension/WP.Catalogues.WandPSalesLineCatalogue.html
+- uid: F:TableExtension::WP#Catalogues#WandP_Item_restrict_Customer.WandPCatalogue[20]
+  name: WandPCatalogue
+  href: reference/wp-restrictive-catalogues/TableExtension/WP.Catalogues.WandP-Item-restrict-Customer.html
 - uid: F:TableExtension::WP#DocumentEmails#WandP_Customer.WandPNoDeliveryEmail
   name: WandPNoDeliveryEmail
   href: reference/wp-document-emails/TableExtension/WP.DocumentEmails.WandP-Customer.html
@@ -4807,6 +4996,18 @@ references:
 - uid: M:Codeunit::WP#Carriers#WandP_Logging.LogMessage(Text[2048],Text[50],Text[2048],Text[250],Text[2048],Integer,Code[20])
   name: LogMessage
   href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-Logging.html
+- uid: M:Codeunit::WP#Catalogues#Catalogue_check.CheckCatalogueOK(Sales_Header):Boolean
+  name: CheckCatalogueOK
+  href: reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.Catalogue-check.html
+- uid: M:Codeunit::WP#Catalogues#Catalogue_check.CheckCatalogueOK(Sales_Line):Code[20]
+  name: CheckCatalogueOK
+  href: reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.Catalogue-check.html
+- uid: M:Codeunit::WP#Catalogues#Catalogue_check.CountRestrictedItems(Sales_Header):Integer
+  name: CountRestrictedItems
+  href: reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.Catalogue-check.html
+- uid: M:Codeunit::WP#Catalogues#Catalogue_check.ReleaseCheck(Sales_Header):Boolean
+  name: ReleaseCheck
+  href: reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.Catalogue-check.html
 - uid: M:Codeunit::WP#Catalogues#WandP_Snapshot_Catalogue.Main
   name: Main
   href: reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.WandP-Snapshot-Catalogue.html
@@ -5203,6 +5404,12 @@ references:
 - uid: M:Page::WandP_Sales_Orders_API.ShipAndInvoice(WebServiceActionContext@)
   name: ShipAndInvoice
   href: reference/wp-api-pages/Page/WandP-Sales-Orders-API.html
+- uid: M:PageExtension::WP#Catalogues#SalesQuoteItemRestrict.CountRestrictedItems
+  name: CountRestrictedItems
+  href: reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.SalesQuoteItemRestrict.html
+- uid: M:PageExtension::WP#Catalogues#WandP_Sales_ord_item_Restrict.CountRestrictedItems
+  name: CountRestrictedItems
+  href: reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.WandP-Sales-ord-item-Restrict.html
 - uid: M:Report::WandP_Consolidated_Invoice.InitializeRequest(Boolean,Boolean)
   name: InitializeRequest
   href: reference/wp-reports/Report/WandP-Consolidated-Invoice.html
@@ -5571,6 +5778,14 @@ references:
   name: "\"WandP Logging\""
   fqName: Codeunit WP.Carriers."WandP Logging"
   href: reference/wp-carriers/Codeunit/WP.Carriers.WandP-Logging.html
+- uid: O:Codeunit::WP#Catalogues#Catalogue_check
+  name: "\"Catalogue check\""
+  fqName: Codeunit WP.Catalogues."Catalogue check"
+  href: reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.Catalogue-check.html
+- uid: O:Codeunit::WP#Catalogues#Subscriber
+  name: Subscriber
+  fqName: Codeunit WP.Catalogues.Subscriber
+  href: reference/wp-restrictive-catalogues/Codeunit/WP.Catalogues.Subscriber.html
 - uid: O:Codeunit::WP#Catalogues#WandP_Snapshot_Catalogue
   name: "\"WandP Snapshot Catalogue\""
   fqName: Codeunit WP.Catalogues."WandP Snapshot Catalogue"
@@ -5993,6 +6208,22 @@ references:
   name: "\"WandP Carrier Log\""
   fqName: Page WP.Carriers."WandP Carrier Log"
   href: reference/wp-carriers/Page/WP.Carriers.WandP-Carrier-Log.html
+- uid: O:Page::WP#Catalogues#WandP_Catalogue_Hist_Customers
+  name: "\"WandP Catalogue Hist Customers\""
+  fqName: Page WP.Catalogues."WandP Catalogue Hist Customers"
+  href: reference/wp-restrictive-catalogues/Page/WP.Catalogues.WandP-Catalogue-Hist-Customers.html
+- uid: O:Page::WP#Catalogues#WandP_Catalogue_Log
+  name: "\"WandP Catalogue Log\""
+  fqName: Page WP.Catalogues."WandP Catalogue Log"
+  href: reference/wp-restrictive-catalogues/Page/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: O:Page::WP#Catalogues#WandP_Catalogues
+  name: "\"WandP Catalogues\""
+  fqName: Page WP.Catalogues."WandP Catalogues"
+  href: reference/wp-restrictive-catalogues/Page/WP.Catalogues.WandP-Catalogues.html
+- uid: O:Page::WP#Catalogues#WandP_Customer_Item_Restrict
+  name: "\"WandP Customer Item Restrict\""
+  fqName: Page WP.Catalogues."WandP Customer Item Restrict"
+  href: reference/wp-restrictive-catalogues/Page/WP.Catalogues.WandP-Customer-Item-Restrict.html
 - uid: O:Page::WP#CustomerVendorAttributes#Cust/VendAttribValTranslations
   name: "\"Cust/VendAttribValTranslations\""
   fqName: Page WP.CustomerVendorAttributes."Cust/VendAttribValTranslations"
@@ -6541,6 +6772,26 @@ references:
   name: "\"WandP Shipping Agents\""
   fqName: PageExtension WP.Carriers."WandP Shipping Agents"
   href: reference/wp-carriers/PageExtension/WP.Carriers.WandP-Shipping-Agents.html
+- uid: O:PageExtension::WP#Catalogues#QuoteSubformItemRestrict
+  name: QuoteSubformItemRestrict
+  fqName: PageExtension WP.Catalogues.QuoteSubformItemRestrict
+  href: reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.QuoteSubformItemRestrict.html
+- uid: O:PageExtension::WP#Catalogues#SalesQuoteItemRestrict
+  name: SalesQuoteItemRestrict
+  fqName: PageExtension WP.Catalogues.SalesQuoteItemRestrict
+  href: reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.SalesQuoteItemRestrict.html
+- uid: O:PageExtension::WP#Catalogues#WandPOrderSubFormItemRestrict
+  name: WandPOrderSubFormItemRestrict
+  fqName: PageExtension WP.Catalogues.WandPOrderSubFormItemRestrict
+  href: reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.WandPOrderSubFormItemRestrict.html
+- uid: O:PageExtension::WP#Catalogues#WandP_Item_Restr_Customer
+  name: "\"WandP Item Restr Customer\""
+  fqName: PageExtension WP.Catalogues."WandP Item Restr Customer"
+  href: reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.WandP-Item-Restr-Customer.html
+- uid: O:PageExtension::WP#Catalogues#WandP_Sales_ord_item_Restrict
+  name: "\"WandP Sales ord item Restrict\""
+  fqName: PageExtension WP.Catalogues."WandP Sales ord item Restrict"
+  href: reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.WandP-Sales-ord-item-Restrict.html
 - uid: O:PageExtension::WP#CustomerVendorAttributes#Customer_Card
   name: "\"Customer Card\""
   fqName: PageExtension WP.CustomerVendorAttributes."Customer Card"
@@ -6927,6 +7178,18 @@ references:
   name: WandPCarrier
   fqName: PermissionSet WP.Carriers.WandPCarrier
   href: reference/wp-carriers/PermissionSet/WP.Carriers.WandPCarrier.html
+- uid: O:PermissionSet::WP#Catalogues#WandPCatLogFull
+  name: WandPCatLogFull
+  fqName: PermissionSet WP.Catalogues.WandPCatLogFull
+  href: reference/wp-restrictive-catalogues/PermissionSet/WP.Catalogues.WandPCatLogFull.html
+- uid: O:PermissionSet::WP#Catalogues#WandPItemRestrFull
+  name: WandPItemRestrFull
+  fqName: PermissionSet WP.Catalogues.WandPItemRestrFull
+  href: reference/wp-restrictive-catalogues/PermissionSet/WP.Catalogues.WandPItemRestrFull.html
+- uid: O:PermissionSet::WP#Catalogues#WandPItemRestrRead
+  name: WandPItemRestrRead
+  fqName: PermissionSet WP.Catalogues.WandPItemRestrRead
+  href: reference/wp-restrictive-catalogues/PermissionSet/WP.Catalogues.WandPItemRestrRead.html
 - uid: O:PermissionSet::WP#CustomerVendorAttributes#CustVendAttribApply
   name: CustVendAttribApply
   summary: >
@@ -7281,6 +7544,30 @@ references:
   name: WandPCarrierLog
   fqName: Table WP.Carriers.WandPCarrierLog
   href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
+- uid: O:Table::WP#Catalogues#WandP_Catalogue_Hist_Customers
+  name: "\"WandP Catalogue Hist Customers\""
+  fqName: Table WP.Catalogues."WandP Catalogue Hist Customers"
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Customers.html
+- uid: O:Table::WP#Catalogues#WandP_Catalogue_Hist_Temp
+  name: "\"WandP Catalogue Hist Temp\""
+  fqName: Table WP.Catalogues."WandP Catalogue Hist Temp"
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Hist-Temp.html
+- uid: O:Table::WP#Catalogues#WandP_Catalogue_History
+  name: "\"WandP Catalogue History\""
+  fqName: Table WP.Catalogues."WandP Catalogue History"
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-History.html
+- uid: O:Table::WP#Catalogues#WandP_Catalogue_Log
+  name: "\"WandP Catalogue Log\""
+  fqName: Table WP.Catalogues."WandP Catalogue Log"
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Catalogue-Log.html
+- uid: O:Table::WP#Catalogues#WandP_Customer_Item_Restrict
+  name: "\"WandP Customer Item Restrict\""
+  fqName: Table WP.Catalogues."WandP Customer Item Restrict"
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Customer-Item-Restrict.html
+- uid: O:Table::WP#Catalogues#WandP_Restricted_catalogues
+  name: "\"WandP Restricted catalogues\""
+  fqName: Table WP.Catalogues."WandP Restricted catalogues"
+  href: reference/wp-restrictive-catalogues/Table/WP.Catalogues.WandP-Restricted-catalogues.html
 - uid: O:Table::WP#CustomerVendorAttributes#Cust/VendAttribValTranslation
   name: "\"Cust/VendAttribValTranslation\""
   fqName: Table WP.CustomerVendorAttributes."Cust/VendAttribValTranslation"
@@ -7549,6 +7836,14 @@ references:
   name: "\"WandP Sales Line\""
   fqName: TableExtension WP.Carriers."WandP Sales Line"
   href: reference/wp-carriers/TableExtension/WP.Carriers.WandP-Sales-Line.html
+- uid: O:TableExtension::WP#Catalogues#WandPSalesLineCatalogue
+  name: WandPSalesLineCatalogue
+  fqName: TableExtension WP.Catalogues.WandPSalesLineCatalogue
+  href: reference/wp-restrictive-catalogues/TableExtension/WP.Catalogues.WandPSalesLineCatalogue.html
+- uid: O:TableExtension::WP#Catalogues#WandP_Item_restrict_Customer
+  name: "\"WandP Item restrict Customer\""
+  fqName: TableExtension WP.Catalogues."WandP Item restrict Customer"
+  href: reference/wp-restrictive-catalogues/TableExtension/WP.Catalogues.WandP-Item-restrict-Customer.html
 - uid: O:TableExtension::WP#DocumentEmails#WandP_Customer
   name: "\"WandP Customer\""
   fqName: TableExtension WP.DocumentEmails."WandP Customer"
