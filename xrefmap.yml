@@ -1324,6 +1324,99 @@ references:
 - uid: F:Table::Resultant_Prices.SystemRowVersion
   name: SystemRowVersion
   href: reference/wp-reports/Table/Resultant-Prices.html
+- uid: F:Table::WP#ADR#WandP_Table_A.ADR_Tank_Code[30]
+  name: "\"ADR Tank Code\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.ADR_Tank_Special_Provisions[35]
+  name: "\"ADR Tank Special Provisions\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Class[10]
+  name: Class
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Classification_code[20]
+  name: "\"Classification code\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Description[500]
+  name: Description
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Excepted_Quantity[15]
+  name: "\"Excepted Quantity\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Hazard_ID[10]
+  name: "\"Hazard ID\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.ID[10]
+  name: ID
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Labels[20]
+  name: Labels
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Limited_Quantity[20]
+  name: "\"Limited Quantity\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Mixed_Packing_Provisions[10]
+  name: "\"Mixed Packing Provisions\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Packaging_Instructions[40]
+  name: "\"Packaging Instructions\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Packing_Group[10]
+  name: "\"Packing Group\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Portable_Instructions[20]
+  name: "\"Portable Instructions\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Portable_Special_Provisions[20]
+  name: "\"Portable Special Provisions\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Special_Packing_Provisions[30]
+  name: "\"Special Packing Provisions\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Special_Prov_Carr_Bulk[20]
+  name: "\"Special Prov Carr Bulk\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Special_Prov_Carr_Load[30]
+  name: "\"Special Prov Carr Load\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Special_Prov_Carr_Operations[20]
+  name: "\"Special Prov Carr Operations\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Special_Prov_Carr_Packages[10]
+  name: "\"Special Prov Carr Packages\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Special_Provisions[50]
+  name: "\"Special Provisions\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.SystemId
+  name: SystemId
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Transport_Category[1]
+  name: "\"Transport Category\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Tunnel_Code[10]
+  name: "\"Tunnel Code\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.UN_code[10]
+  name: "\"UN code\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#ADR#WandP_Table_A.Vehicle_Tank[10]
+  name: "\"Vehicle Tank\""
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
 - uid: F:Table::WP#Carriers#WandPCarrierLog.DateTime
   name: DateTime
   href: reference/wp-carriers/Table/WP.Carriers.WandPCarrierLog.html
@@ -7180,6 +7273,10 @@ references:
   name: "\"Resultant Prices\""
   fqName: Table "Resultant Prices"
   href: reference/wp-reports/Table/Resultant-Prices.html
+- uid: O:Table::WP#ADR#WandP_Table_A
+  name: "\"WandP Table A\""
+  fqName: Table WP.ADR."WandP Table A"
+  href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
 - uid: O:Table::WP#Carriers#WandPCarrierLog
   name: WandPCarrierLog
   fqName: Table WP.Carriers.WandPCarrierLog

@@ -1590,9 +1590,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "UidNotFound"
-      ],
       "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-api-pages/Page/WP.APIPages.WandP-Table-A-API.yml",
       "output": {
@@ -3418,6 +3415,16 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-dangerous-goods/PermissionSet/WandP-Table-A-Read.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html"
         }
       },
       "version": ""
