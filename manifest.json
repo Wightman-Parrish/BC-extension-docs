@@ -215,6 +215,16 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-additional-fields/PageExtension/WP.AdditionalFields.CDC-Document-List-With-Image.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-additional-fields/PageExtension/WP.AdditionalFields.CDC-Document-List-With-Image.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-additional-fields/PageExtension/WP.AdditionalFields.Clever-Customer-Credit-Status.yml",
       "output": {
         ".html": {
@@ -229,6 +239,16 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-additional-fields/PageExtension/WP.AdditionalFields.Credit-Held-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-additional-fields/PageExtension/WP.AdditionalFields.Item-Ledger-Entries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-additional-fields/PageExtension/WP.AdditionalFields.Item-Ledger-Entries.html"
         }
       },
       "version": ""
@@ -289,6 +309,16 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-additional-fields/PageExtension/WP.AdditionalFields.Payment-registration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-additional-fields/PageExtension/WP.AdditionalFields.Posted-Sales-Credit-Memos.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-additional-fields/PageExtension/WP.AdditionalFields.Posted-Sales-Credit-Memos.html"
         }
       },
       "version": ""
@@ -1129,6 +1159,16 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-additional-fields/TableExtension/Clever-Credit-Cust-Entry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-additional-fields/TableExtension/WP.AdditionalFields.CDC-Document.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-additional-fields/TableExtension/WP.AdditionalFields.CDC-Document.html"
         }
       },
       "version": ""
@@ -3325,6 +3365,36 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-api-pages/Table/WP.APIpages.Price-Header-Live.yml",
       "output": {
         ".html": {
@@ -3815,6 +3885,16 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.Sales-&-Receivables-Setup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.Sales-&-Receivables-Setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-carriers/TableExtension/WP.Carriers.WandP-Agent-Services.yml",
       "output": {
         ".html": {
@@ -4045,10 +4125,220 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-AP-credit-list.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-AP-credit-list.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-AP-credit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-AP-credit.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-AP-invoice-list.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-AP-invoice-list.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-AP-invoice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-AP-invoice.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Customer-card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Customer-card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Post-AP-credit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Post-AP-credit.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Post-AP-invoice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Post-AP-invoice.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Post-AR-credit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Post-AR-credit.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Vendor-card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Vendor-card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Vendor-list.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Vendor-list.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continina-Item-list.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continina-Item-list.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continina-Items.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandP-Continina-Items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaCustomerList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaCustomerList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPO.yml",
       "output": {
         ".html": {
           "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPOList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPOList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostAPCreditList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostAPCreditList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostAPInvoiceList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostAPInvoiceList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostARCreditList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostARCreditList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostARInvoice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostARInvoice.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostARInvoiceList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostARInvoiceList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaSO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaSO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaSOList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-continia/PageExtension/WP.Continia.WandPContiniaSOList.html"
         }
       },
       "version": ""
@@ -4785,6 +5075,16 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-document-emails/Page/WP.DocumentEmails.Email-failures.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-document-emails/Page/WP.DocumentEmails.Email-failures.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-document-emails/Page/WPDocumentEmails.WPDocumentEmails.Email-failures.yml",
       "output": {
         ".html": {
@@ -4809,6 +5109,26 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-document-emails/PageExtension/WandP-Customer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-document-emails/PermissionSet/WP.DocumentEmails.WP-Doc-Email-Admin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-document-emails/PermissionSet/WP.DocumentEmails.WP-Doc-Email-Admin.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-document-emails/PermissionSet/WP.DocumentEmails.WP-Doc-Email-Read.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-document-emails/PermissionSet/WP.DocumentEmails.WP-Doc-Email-Read.html"
         }
       },
       "version": ""
@@ -6829,6 +7149,16 @@
       "output": {
         ".html": {
           "relative_path": "reference/wp-reports/Page/WP.Reports.Pickable-Orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-reports/Page/WP.Reports.Reservation-Management.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-reports/Page/WP.Reports.Reservation-Management.html"
         }
       },
       "version": ""

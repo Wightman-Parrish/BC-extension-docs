@@ -1684,6 +1684,120 @@ references:
 - uid: F:Table::WP#ADR#WandP_Table_A.Vehicle_Tank[10]
   name: "\"Vehicle Tank\""
   href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: F:Table::WP#APIpages#EvoXContractCustomers.Contract[30]
+  name: Contract
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html
+- uid: F:Table::WP#APIpages#EvoXContractCustomers.Customer[20]
+  name: Customer
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html
+- uid: F:Table::WP#APIpages#EvoXContractCustomers.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html
+- uid: F:Table::WP#APIpages#EvoXContractCustomers.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html
+- uid: F:Table::WP#APIpages#EvoXContractCustomers.SystemCreatedByFullName
+  name: SystemCreatedByFullName
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html
+- uid: F:Table::WP#APIpages#EvoXContractCustomers.SystemCreatedByUserName
+  name: SystemCreatedByUserName
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html
+- uid: F:Table::WP#APIpages#EvoXContractCustomers.SystemId
+  name: SystemId
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html
+- uid: F:Table::WP#APIpages#EvoXContractCustomers.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html
+- uid: F:Table::WP#APIpages#EvoXContractCustomers.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html
+- uid: F:Table::WP#APIpages#EvoXContractCustomers.SystemModifiedByFullName
+  name: SystemModifiedByFullName
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html
+- uid: F:Table::WP#APIpages#EvoXContractCustomers.SystemModifiedByUserName
+  name: SystemModifiedByUserName
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html
+- uid: F:Table::WP#APIpages#EvoXContractCustomers.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html
+- uid: F:Table::WP#APIpages#EvoXContractCustomers.Type
+  name: Type
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html
+- uid: F:Table::WP#APIpages#EvoXContractItems.Contract[30]
+  name: Contract
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html
+- uid: F:Table::WP#APIpages#EvoXContractItems.Item[20]
+  name: Item
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html
+- uid: F:Table::WP#APIpages#EvoXContractItems.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html
+- uid: F:Table::WP#APIpages#EvoXContractItems.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html
+- uid: F:Table::WP#APIpages#EvoXContractItems.SystemCreatedByFullName
+  name: SystemCreatedByFullName
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html
+- uid: F:Table::WP#APIpages#EvoXContractItems.SystemCreatedByUserName
+  name: SystemCreatedByUserName
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html
+- uid: F:Table::WP#APIpages#EvoXContractItems.SystemId
+  name: SystemId
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html
+- uid: F:Table::WP#APIpages#EvoXContractItems.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html
+- uid: F:Table::WP#APIpages#EvoXContractItems.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html
+- uid: F:Table::WP#APIpages#EvoXContractItems.SystemModifiedByFullName
+  name: SystemModifiedByFullName
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html
+- uid: F:Table::WP#APIpages#EvoXContractItems.SystemModifiedByUserName
+  name: SystemModifiedByUserName
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html
+- uid: F:Table::WP#APIpages#EvoXContractItems.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html
+- uid: F:Table::WP#APIpages#EvoXContractItems.Type
+  name: Type
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html
+- uid: F:Table::WP#APIpages#EvoXContracts.Contract[30]
+  name: Contract
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.html
+- uid: F:Table::WP#APIpages#EvoXContracts.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.html
+- uid: F:Table::WP#APIpages#EvoXContracts.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.html
+- uid: F:Table::WP#APIpages#EvoXContracts.SystemCreatedByFullName
+  name: SystemCreatedByFullName
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.html
+- uid: F:Table::WP#APIpages#EvoXContracts.SystemCreatedByUserName
+  name: SystemCreatedByUserName
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.html
+- uid: F:Table::WP#APIpages#EvoXContracts.SystemId
+  name: SystemId
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.html
+- uid: F:Table::WP#APIpages#EvoXContracts.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.html
+- uid: F:Table::WP#APIpages#EvoXContracts.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.html
+- uid: F:Table::WP#APIpages#EvoXContracts.SystemModifiedByFullName
+  name: SystemModifiedByFullName
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.html
+- uid: F:Table::WP#APIpages#EvoXContracts.SystemModifiedByUserName
+  name: SystemModifiedByUserName
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.html
+- uid: F:Table::WP#APIpages#EvoXContracts.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.html
+- uid: F:Table::WP#APIpages#EvoXContracts.Type
+  name: Type
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.html
 - uid: F:Table::WP#APIpages#Price_Header_Live.Customer_No#[20]
   name: "\"Customer No.\""
   href: reference/wp-api-pages/Table/WP.APIpages.Price-Header-Live.html
@@ -6565,6 +6679,9 @@ references:
 - uid: F:TableExtension::WP#ADR#Wandp_Items.WandP_UN_Code[10]
   name: "\"WandP UN Code\""
   href: reference/wp-dangerous-goods/TableExtension/WP.ADR.Wandp-Items.html
+- uid: F:TableExtension::WP#AdditionalFields#CDC_Document.Payment_Terms[10]
+  name: "\"Payment Terms\""
+  href: reference/wp-additional-fields/TableExtension/WP.AdditionalFields.CDC-Document.html
 - uid: F:TableExtension::WP#AdditionalFields#Clever_Credit_Cust_Entry.Customer_Subgroup[20]
   name: "\"Customer Subgroup\""
   href: reference/wp-additional-fields/TableExtension/WP.AdditionalFields.Clever-Credit-Cust-Entry.html
@@ -6817,6 +6934,9 @@ references:
 - uid: F:TableExtension::WP#Alerts#WandPSalesRecSetup.WandPWebStockAlertEmail[250]
   name: WandPWebStockAlertEmail
   href: reference/wp-alerts/TableExtension/WP.Alerts.WandPSalesRecSetup.html
+- uid: F:TableExtension::WP#Carriers#Sales_&_Receivables_Setup.ConsignmentNoSeries[20]
+  name: ConsignmentNoSeries
+  href: reference/wp-carriers/TableExtension/WP.Carriers.Sales-%26-Receivables-Setup.html
 - uid: F:TableExtension::WP#Carriers#WandPPostedWhseShipLine.WandPConsignmentRef[100]
   name: WandPConsignmentRef
   href: reference/wp-carriers/TableExtension/WP.Carriers.WandPPostedWhseShipLine.html
@@ -9278,6 +9398,10 @@ references:
   name: "\"Vend Attrib Value Editor\""
   fqName: Page WP.CustomerVendorAttributes."Vend Attrib Value Editor"
   href: reference/wp-customer-attributes/Page/WP.CustomerVendorAttributes.Vend-Attrib-Value-Editor.html
+- uid: O:Page::WP#DocumentEmails#Email_failures
+  name: "\"Email failures\""
+  fqName: Page WP.DocumentEmails."Email failures"
+  href: reference/wp-document-emails/Page/WP.DocumentEmails.Email-failures.html
 - uid: O:Page::WP#EDI#WandP_Indicater
   name: "\"WandP Indicater\""
   fqName: Page WP.EDI."WandP Indicater"
@@ -9350,6 +9474,10 @@ references:
   name: "\"Pickable Orders\""
   fqName: Page WP.Reports."Pickable Orders"
   href: reference/wp-reports/Page/WP.Reports.Pickable-Orders.html
+- uid: O:Page::WP#Reports#Reservation_Management
+  name: "\"Reservation Management\""
+  fqName: Page WP.Reports."Reservation Management"
+  href: reference/wp-reports/Page/WP.Reports.Reservation-Management.html
 - uid: O:Page::WP#Reports#WandPItemUomsBadRounding
   name: WandPItemUomsBadRounding
   fqName: Page WP.Reports.WandPItemUomsBadRounding
@@ -9846,6 +9974,10 @@ references:
   name: "\"WandP Item Card\""
   fqName: PageExtension WP.ADR."WandP Item Card"
   href: reference/wp-dangerous-goods/PageExtension/WP.ADR.WandP-Item-Card.html
+- uid: O:PageExtension::WP#AdditionalFields#CDC_Document_List_With_Image
+  name: "\"CDC Document List With Image\""
+  fqName: PageExtension WP.AdditionalFields."CDC Document List With Image"
+  href: reference/wp-additional-fields/PageExtension/WP.AdditionalFields.CDC-Document-List-With-Image.html
 - uid: O:PageExtension::WP#AdditionalFields#Clever_Customer_Credit_Status
   name: "\"Clever Customer Credit Status\""
   fqName: PageExtension WP.AdditionalFields."Clever Customer Credit Status"
@@ -9854,6 +9986,10 @@ references:
   name: "\"Credit Held List\""
   fqName: PageExtension WP.AdditionalFields."Credit Held List"
   href: reference/wp-additional-fields/PageExtension/WP.AdditionalFields.Credit-Held-List.html
+- uid: O:PageExtension::WP#AdditionalFields#Item_Ledger_Entries
+  name: "\"Item Ledger Entries\""
+  fqName: PageExtension WP.AdditionalFields."Item Ledger Entries"
+  href: reference/wp-additional-fields/PageExtension/WP.AdditionalFields.Item-Ledger-Entries.html
 - uid: O:PageExtension::WP#AdditionalFields#Item_card
   name: "\"Item card\""
   fqName: PageExtension WP.AdditionalFields."Item card"
@@ -9878,6 +10014,10 @@ references:
   name: "\"Payment registration\""
   fqName: PageExtension WP.AdditionalFields."Payment registration"
   href: reference/wp-additional-fields/PageExtension/WP.AdditionalFields.Payment-registration.html
+- uid: O:PageExtension::WP#AdditionalFields#Posted_Sales_Credit_Memos
+  name: "\"Posted Sales Credit Memos\""
+  fqName: PageExtension WP.AdditionalFields."Posted Sales Credit Memos"
+  href: reference/wp-additional-fields/PageExtension/WP.AdditionalFields.Posted-Sales-Credit-Memos.html
 - uid: O:PageExtension::WP#AdditionalFields#Prices_Overview
   name: "\"Prices Overview\""
   fqName: PageExtension WP.AdditionalFields."Prices Overview"
@@ -10074,10 +10214,94 @@ references:
   name: "\"WandP Sales ord item Restrict\""
   fqName: PageExtension WP.Catalogues."WandP Sales ord item Restrict"
   href: reference/wp-restrictive-catalogues/PageExtension/WP.Catalogues.WandP-Sales-ord-item-Restrict.html
+- uid: O:PageExtension::WP#Continia#WandPContiniaCustomerList
+  name: WandPContiniaCustomerList
+  fqName: PageExtension WP.Continia.WandPContiniaCustomerList
+  href: reference/wp-continia/PageExtension/WP.Continia.WandPContiniaCustomerList.html
 - uid: O:PageExtension::WP#Continia#WandPContiniaPO
   name: WandPContiniaPO
   fqName: PageExtension WP.Continia.WandPContiniaPO
   href: reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPO.html
+- uid: O:PageExtension::WP#Continia#WandPContiniaPOList
+  name: WandPContiniaPOList
+  fqName: PageExtension WP.Continia.WandPContiniaPOList
+  href: reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPOList.html
+- uid: O:PageExtension::WP#Continia#WandPContiniaPostAPCreditList
+  name: WandPContiniaPostAPCreditList
+  fqName: PageExtension WP.Continia.WandPContiniaPostAPCreditList
+  href: reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostAPCreditList.html
+- uid: O:PageExtension::WP#Continia#WandPContiniaPostAPInvoiceList
+  name: WandPContiniaPostAPInvoiceList
+  fqName: PageExtension WP.Continia.WandPContiniaPostAPInvoiceList
+  href: reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostAPInvoiceList.html
+- uid: O:PageExtension::WP#Continia#WandPContiniaPostARCreditList
+  name: WandPContiniaPostARCreditList
+  fqName: PageExtension WP.Continia.WandPContiniaPostARCreditList
+  href: reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostARCreditList.html
+- uid: O:PageExtension::WP#Continia#WandPContiniaPostARInvoice
+  name: WandPContiniaPostARInvoice
+  fqName: PageExtension WP.Continia.WandPContiniaPostARInvoice
+  href: reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostARInvoice.html
+- uid: O:PageExtension::WP#Continia#WandPContiniaPostARInvoiceList
+  name: WandPContiniaPostARInvoiceList
+  fqName: PageExtension WP.Continia.WandPContiniaPostARInvoiceList
+  href: reference/wp-continia/PageExtension/WP.Continia.WandPContiniaPostARInvoiceList.html
+- uid: O:PageExtension::WP#Continia#WandPContiniaSO
+  name: WandPContiniaSO
+  fqName: PageExtension WP.Continia.WandPContiniaSO
+  href: reference/wp-continia/PageExtension/WP.Continia.WandPContiniaSO.html
+- uid: O:PageExtension::WP#Continia#WandPContiniaSOList
+  name: WandPContiniaSOList
+  fqName: PageExtension WP.Continia.WandPContiniaSOList
+  href: reference/wp-continia/PageExtension/WP.Continia.WandPContiniaSOList.html
+- uid: O:PageExtension::WP#Continia#WandP_Continia_AP_credit
+  name: "\"WandP Continia AP credit\""
+  fqName: PageExtension WP.Continia."WandP Continia AP credit"
+  href: reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-AP-credit.html
+- uid: O:PageExtension::WP#Continia#WandP_Continia_AP_credit_list
+  name: "\"WandP Continia AP credit list\""
+  fqName: PageExtension WP.Continia."WandP Continia AP credit list"
+  href: reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-AP-credit-list.html
+- uid: O:PageExtension::WP#Continia#WandP_Continia_AP_invoice
+  name: "\"WandP Continia AP invoice\""
+  fqName: PageExtension WP.Continia."WandP Continia AP invoice"
+  href: reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-AP-invoice.html
+- uid: O:PageExtension::WP#Continia#WandP_Continia_AP_invoice_list
+  name: "\"WandP Continia AP invoice list\""
+  fqName: PageExtension WP.Continia."WandP Continia AP invoice list"
+  href: reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-AP-invoice-list.html
+- uid: O:PageExtension::WP#Continia#WandP_Continia_Customer_card
+  name: "\"WandP Continia Customer card\""
+  fqName: PageExtension WP.Continia."WandP Continia Customer card"
+  href: reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Customer-card.html
+- uid: O:PageExtension::WP#Continia#WandP_Continia_Post_AP_credit
+  name: "\"WandP Continia Post AP credit\""
+  fqName: PageExtension WP.Continia."WandP Continia Post AP credit"
+  href: reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Post-AP-credit.html
+- uid: O:PageExtension::WP#Continia#WandP_Continia_Post_AP_invoice
+  name: "\"WandP Continia Post AP invoice\""
+  fqName: PageExtension WP.Continia."WandP Continia Post AP invoice"
+  href: reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Post-AP-invoice.html
+- uid: O:PageExtension::WP#Continia#WandP_Continia_Post_AR_credit
+  name: "\"WandP Continia Post AR credit\""
+  fqName: PageExtension WP.Continia."WandP Continia Post AR credit"
+  href: reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Post-AR-credit.html
+- uid: O:PageExtension::WP#Continia#WandP_Continia_Vendor_card
+  name: "\"WandP Continia Vendor card\""
+  fqName: PageExtension WP.Continia."WandP Continia Vendor card"
+  href: reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Vendor-card.html
+- uid: O:PageExtension::WP#Continia#WandP_Continia_Vendor_list
+  name: "\"WandP Continia Vendor list\""
+  fqName: PageExtension WP.Continia."WandP Continia Vendor list"
+  href: reference/wp-continia/PageExtension/WP.Continia.WandP-Continia-Vendor-list.html
+- uid: O:PageExtension::WP#Continia#WandP_Continina_Item_list
+  name: "\"WandP Continina Item list\""
+  fqName: PageExtension WP.Continia."WandP Continina Item list"
+  href: reference/wp-continia/PageExtension/WP.Continia.WandP-Continina-Item-list.html
+- uid: O:PageExtension::WP#Continia#WandP_Continina_Items
+  name: "\"WandP Continina Items\""
+  fqName: PageExtension WP.Continia."WandP Continina Items"
+  href: reference/wp-continia/PageExtension/WP.Continia.WandP-Continina-Items.html
 - uid: O:PageExtension::WP#CustomerVendorAttributes#Customer_Card
   name: "\"Customer Card\""
   fqName: PageExtension WP.CustomerVendorAttributes."Customer Card"
@@ -10596,6 +10820,14 @@ references:
     <p sourcefile="reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribRead.yml" sourcestartlinenumber="1" jsonPath="/summary">Allows reading of attributes.</p>
   fqName: PermissionSet WP.CustomerVendorAttributes.CustVendAttribRead
   href: reference/wp-customer-attributes/PermissionSet/WP.CustomerVendorAttributes.CustVendAttribRead.html
+- uid: O:PermissionSet::WP#DocumentEmails#WP_Doc_Email_Admin
+  name: "\"WP Doc Email Admin\""
+  fqName: PermissionSet WP.DocumentEmails."WP Doc Email Admin"
+  href: reference/wp-document-emails/PermissionSet/WP.DocumentEmails.WP-Doc-Email-Admin.html
+- uid: O:PermissionSet::WP#DocumentEmails#WP_Doc_Email_Read
+  name: "\"WP Doc Email Read\""
+  fqName: PermissionSet WP.DocumentEmails."WP Doc Email Read"
+  href: reference/wp-document-emails/PermissionSet/WP.DocumentEmails.WP-Doc-Email-Read.html
 - uid: O:PermissionSet::WP#EDI#WandP_EDI_Edit
   name: "\"WandP EDI Edit\""
   fqName: PermissionSet WP.EDI."WandP EDI Edit"
@@ -11072,6 +11304,18 @@ references:
   name: "\"WandP Table A\""
   fqName: Table WP.ADR."WandP Table A"
   href: reference/wp-dangerous-goods/Table/WP.ADR.WandP-Table-A.html
+- uid: O:Table::WP#APIpages#EvoXContractCustomers
+  name: EvoXContractCustomers
+  fqName: Table WP.APIpages.EvoXContractCustomers
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractCustomers.html
+- uid: O:Table::WP#APIpages#EvoXContractItems
+  name: EvoXContractItems
+  fqName: Table WP.APIpages.EvoXContractItems
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContractItems.html
+- uid: O:Table::WP#APIpages#EvoXContracts
+  name: EvoXContracts
+  fqName: Table WP.APIpages.EvoXContracts
+  href: reference/wp-api-pages/Table/WP.APIpages.EvoXContracts.html
 - uid: O:Table::WP#APIpages#Price_Header_Live
   name: "\"Price Header Live\""
   fqName: Table WP.APIpages."Price Header Live"
@@ -11452,6 +11696,10 @@ references:
   name: "\"Wandp Items\""
   fqName: TableExtension WP.ADR."Wandp Items"
   href: reference/wp-dangerous-goods/TableExtension/WP.ADR.Wandp-Items.html
+- uid: O:TableExtension::WP#AdditionalFields#CDC_Document
+  name: "\"CDC Document\""
+  fqName: TableExtension WP.AdditionalFields."CDC Document"
+  href: reference/wp-additional-fields/TableExtension/WP.AdditionalFields.CDC-Document.html
 - uid: O:TableExtension::WP#AdditionalFields#Clever_Credit_Cust_Entry
   name: "\"Clever Credit Cust Entry\""
   fqName: TableExtension WP.AdditionalFields."Clever Credit Cust Entry"
@@ -11564,6 +11812,10 @@ references:
   name: WandPSalesRecSetup
   fqName: TableExtension WP.Alerts.WandPSalesRecSetup
   href: reference/wp-alerts/TableExtension/WP.Alerts.WandPSalesRecSetup.html
+- uid: O:TableExtension::WP#Carriers#Sales_&_Receivables_Setup
+  name: "\"Sales & Receivables Setup\""
+  fqName: TableExtension WP.Carriers."Sales & Receivables Setup"
+  href: reference/wp-carriers/TableExtension/WP.Carriers.Sales-%26-Receivables-Setup.html
 - uid: O:TableExtension::WP#Carriers#WandPPostedWhseShipLine
   name: WandPPostedWhseShipLine
   fqName: TableExtension WP.Carriers.WandPPostedWhseShipLine
