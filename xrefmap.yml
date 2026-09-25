@@ -7792,11 +7792,41 @@ references:
 - uid: M:Codeunit::WP#Carriers#Pallex.CreateShipment(Consignments@):Boolean
   name: CreateShipment
   href: reference/wp-carriers/Codeunit/WP.Carriers.Pallex.html
+- uid: M:Codeunit::WP#Carriers#Pallex.GetCollectionDeliveryTypes(Shipping_Agent@):Boolean
+  name: GetCollectionDeliveryTypes
+  href: reference/wp-carriers/Codeunit/WP.Carriers.Pallex.html
+- uid: M:Codeunit::WP#Carriers#Pallex.GetConsignmentTypes(Shipping_Agent@):Boolean
+  name: GetConsignmentTypes
+  href: reference/wp-carriers/Codeunit/WP.Carriers.Pallex.html
+- uid: M:Codeunit::WP#Carriers#Pallex.GetCountryFromClaim(JsonObject):Integer
+  name: GetCountryFromClaim
+  href: reference/wp-carriers/Codeunit/WP.Carriers.Pallex.html
+- uid: M:Codeunit::WP#Carriers#Pallex.GetCustomers(Shipping_Agent@):Boolean
+  name: GetCustomers
+  href: reference/wp-carriers/Codeunit/WP.Carriers.Pallex.html
+- uid: M:Codeunit::WP#Carriers#Pallex.GetPalletTypes(Shipping_Agent@):Boolean
+  name: GetPalletTypes
+  href: reference/wp-carriers/Codeunit/WP.Carriers.Pallex.html
+- uid: M:Codeunit::WP#Carriers#Pallex.GetRetailPluses(Shipping_Agent@):Boolean
+  name: GetRetailPluses
+  href: reference/wp-carriers/Codeunit/WP.Carriers.Pallex.html
+- uid: M:Codeunit::WP#Carriers#Pallex.GetServices(Shipping_Agent@):Boolean
+  name: GetServices
+  href: reference/wp-carriers/Codeunit/WP.Carriers.Pallex.html
 - uid: M:Codeunit::WP#Carriers#Pallex.Login(Shipping_Agent@):Boolean
   name: Login
   href: reference/wp-carriers/Codeunit/WP.Carriers.Pallex.html
+- uid: M:Codeunit::WP#Carriers#Pallex.PallexAPICall(HttpRequestMessage,Code[20],Shipping_Agent@):JsonObject
+  name: PallexAPICall
+  href: reference/wp-carriers/Codeunit/WP.Carriers.Pallex.html
 - uid: M:Codeunit::WP#Carriers#Pallex.PrintLabel(Consignments):Boolean
   name: PrintLabel
+  href: reference/wp-carriers/Codeunit/WP.Carriers.Pallex.html
+- uid: M:Codeunit::WP#Carriers#Pallex.Refresh(Shipping_Agent@):Boolean
+  name: Refresh
+  href: reference/wp-carriers/Codeunit/WP.Carriers.Pallex.html
+- uid: M:Codeunit::WP#Carriers#Pallex.UpdateLookups(Shipping_Agent@):Boolean
+  name: UpdateLookups
   href: reference/wp-carriers/Codeunit/WP.Carriers.Pallex.html
 - uid: M:Codeunit::WP#Carriers#WandPGenericAPICalls.GenericAPICall(HttpRequestMessage,Code[20]):JsonObject
   name: GenericAPICall

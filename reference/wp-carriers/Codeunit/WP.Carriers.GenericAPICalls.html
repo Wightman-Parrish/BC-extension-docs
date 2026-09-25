@@ -106,6 +106,12 @@
    <h3 class="memberNameHolder">GenericAPICall</h3>
    <div class="memberInfo">
 
+   		<div class="summaryHolder">
+   			<div class="summary">
+				<p>Overload for generic API call with no API type specified, defaults to UNKNOWN</p>
+
+   			</div>
+   		</div>
 
    		<pre><code dir="ltr" class="hljs lang-al">procedure GenericAPICall(RequestMessage: HttpRequestMessage; DocumentNo: Code[20]): JsonObject</code></pre>
 
@@ -166,6 +172,12 @@ JsonObject               </td>
    <h3 class="memberNameHolder">GenericAPICall</h3>
    <div class="memberInfo">
 
+   		<div class="summaryHolder">
+   			<div class="summary">
+				<p>Overload for generic API call where logging always true</p>
+
+   			</div>
+   		</div>
 
    		<pre><code dir="ltr" class="hljs lang-al">procedure GenericAPICall(RequestMessage: HttpRequestMessage; DocumentNo: Code[20]; APIType: Code[20]): JsonObject</code></pre>
 
@@ -322,6 +334,12 @@ JsonObject               </td>
    <h3 class="memberNameHolder">CommonAPICall</h3>
    <div class="memberInfo">
 
+   		<div class="summaryHolder">
+   			<div class="summary">
+				<p>Common API call, works for non-JSON</p>
+
+   			</div>
+   		</div>
 
    		<pre><code dir="ltr" class="hljs lang-al">procedure CommonAPICall(RequestMessage: HttpRequestMessage; DocumentNo: Code[20]; APIType: Code[20]; logevent: Boolean): HttpResponseMessage</code></pre>
 

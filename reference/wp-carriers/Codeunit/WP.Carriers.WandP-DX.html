@@ -109,7 +109,7 @@
    		<div class="summaryHolder">
    			<div class="summary">
 				<p>Creates shipment with DX from a warehouse shipment / order combination</p>
-<param name="Consignment">Consignment dialog containing details of shipment
+<param name="Consignment">Consignment containing details of shipment
 <returns>True for shipment successfully created.</returns>
 
    			</div>
@@ -164,6 +164,12 @@ Boolean               </td>
    <h3 class="memberNameHolder">PrintLabel</h3>
    <div class="memberInfo">
 
+   		<div class="summaryHolder">
+   			<div class="summary">
+				<p>Print label - main entrypoint</p>
+
+   			</div>
+   		</div>
 
    		<pre><code dir="ltr" class="hljs lang-al">procedure PrintLabel(consignment: Record Consignments): Boolean</code></pre>
 
@@ -293,6 +299,12 @@ Boolean               </td>
    <h3 class="memberNameHolder">GetDXSessionKey</h3>
    <div class="memberInfo">
 
+   		<div class="summaryHolder">
+   			<div class="summary">
+				<p>Gets and saves session key for authentication</p>
+
+   			</div>
+   		</div>
 
    		<pre><code dir="ltr" class="hljs lang-al">procedure GetDXSessionKey(ShippingAgent: Record &quot;Shipping Agent&quot;): Text</code></pre>
 
