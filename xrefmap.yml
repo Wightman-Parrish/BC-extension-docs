@@ -2137,6 +2137,9 @@ references:
 - uid: F:Table::WP#Carriers#Consignments.TotalWeight
   name: TotalWeight
   href: reference/wp-carriers/Table/WP.Carriers.Consignments.html
+- uid: F:Table::WP#Carriers#Consignments.TrackingURL[250]
+  name: TrackingURL
+  href: reference/wp-carriers/Table/WP.Carriers.Consignments.html
 - uid: F:Table::WP#Carriers#PalletTypes.PalletBaseDescription[50]
   name: PalletBaseDescription
   href: reference/wp-carriers/Table/WP.Carriers.PalletTypes.html
@@ -10790,6 +10793,10 @@ references:
   name: WandPCarrier
   fqName: PermissionSet WP.Carriers.WandPCarrier
   href: reference/wp-carriers/PermissionSet/WP.Carriers.WandPCarrier.html
+- uid: O:PermissionSet::WP#Carriers#WandPCarrierRead
+  name: WandPCarrierRead
+  fqName: PermissionSet WP.Carriers.WandPCarrierRead
+  href: reference/wp-carriers/PermissionSet/WP.Carriers.WandPCarrierRead.html
 - uid: O:PermissionSet::WP#Catalogues#WandPCatLogFull
   name: WandPCatLogFull
   fqName: PermissionSet WP.Catalogues.WandPCatLogFull

@@ -3805,6 +3805,16 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/wp-carriers/PermissionSet/WP.Carriers.WandPCarrierRead.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/wp-carriers/PermissionSet/WP.Carriers.WandPCarrierRead.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
       "source_relative_path": "reference/wp-carriers/PermissionSet/WandPCarrier.yml",
       "output": {
         ".html": {

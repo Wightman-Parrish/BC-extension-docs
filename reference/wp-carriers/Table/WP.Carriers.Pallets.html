@@ -105,6 +105,12 @@
 							CustomerContent
   					</td>
   			</tr>
+  			<tr>
+  					<td>Description</td>
+  					<td class="font-style-italic">
+							Holds pallet information for consignments. A consignment can have multiple pallets.
+  					</td>
+  			</tr>
   		</tbody>
   	</table>
   	<h2 id="fields">Fields</h2>
@@ -129,14 +135,15 @@ Integer
   					<td class="font-style-italic">
 Code[20]						
   					</td>
-  					<td></td>
+  					<td><p>Consignment number, links to the consignment record.</p>
+</td>
   				</tr>
   				<tr>
   					<td>PalletTypeId</td>
   					<td class="font-style-italic">
 Integer						
   					</td>
-  					<td><p>Pallet Type</p>
+  					<td><p>Pallet Type. Lookup from pallettypes table.</p>
 </td>
   				</tr>
   				<tr>
@@ -144,7 +151,7 @@ Integer
   					<td class="font-style-italic">
 Integer						
   					</td>
-  					<td><p>Pallet Base</p>
+  					<td><p>Pallet Base. Lookup from pallettypes table.</p>
 </td>
   				</tr>
   				<tr>
@@ -199,7 +206,7 @@ Code[20]
   					<td class="font-style-italic">
 Text[103]						
   					</td>
-  					<td><p>Pallet Type Description</p>
+  					<td><p>Pallet Type Description. Links to the PalletTypes table for the given shipping agent.</p>
 </td>
   				</tr>
   				<tr>
